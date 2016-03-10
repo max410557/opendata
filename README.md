@@ -2,6 +2,6 @@
 
 資料夾說明
 doc:產出文件資料
-main:斷詞統計主程式
-model:系統模組
+OpenJieba:斷詞程式
+OpenLinkCheck:連線測試程式
 sql:資料庫查詢語法
