@@ -1,0 +1,52 @@
+﻿資料集Id,資料集名稱,資料集提供機關名稱,資料集連結,主要欄位說明,資料資源下載連結,資料資源檔案格式,metadata文字編碼
+7322,歷年來台旅客統計,交通部觀光局,data.gov.tw/node/7322,年別、外籍旅客人數、外籍旅客成長率、外籍旅客佔總計百分比、華僑旅客人數、華僑旅客成長率、華僑旅客佔總計百分比、總計人數、總計成長率、成長指數。,http://admin.taiwan.net.tw/upload/contentFile/201606/來台統計.csv,CSV,UTF-8;
+7323,101年來台旅客居住國統計,交通部觀光局,data.gov.tw/node/7323,居住地、去年旅客人數合計、去年華僑旅客人數、去年外籍旅客人數、前年旅客人數合計、前年華僑旅客人數、前年外籍旅客人數、旅客人數成長率、華僑旅客成長率、外籍旅客成長率。,http://admin.taiwan.net.tw/upload/contentFile/201606/年表02(101年來台旅客居住地統計).csv,CSV,UTF-8;
+7324,101年來台旅客來台目的統計,交通部觀光局,data.gov.tw/node/7324,居住地、目的,http://admin.taiwan.net.tw/upload/contentFile/201606/來台旅客目的.csv,CSV,UTF-8;
+7325,歷年中華民國國民出國目的地人數統計,交通部觀光局,data.gov.tw/node/7325,首站抵達地、年別,http://admin.taiwan.net.tw/upload/contentFile/201606/年表25(97年至102年中華民國國民出國目的地人數統計).csv,CSV,UTF-8;
+7326,歷年國人出國按性別,交通部觀光局,data.gov.tw/node/7326,年別、男性人數、女性人數、總計人數、隨行人員,http://admin.taiwan.net.tw/upload/contentFile/201606/國人出國性別.csv,CSV,UTF-8;
+7327,101年國內主要遊憩據點遊客人數月別統計,交通部觀光局,data.gov.tw/node/7327,觀光遊憩區、縣市別、月份人數別、合計人數,http://admin.taiwan.net.tw/upload/contentFile/201606/國內遊憩區人數.csv,CSV,UTF-8;
+7328,歷年來台旅客按性別分析,交通部觀光局,data.gov.tw/node/7328,年別、男性人數、女性人數、人次佔合計百分比、總人數,http://admin.taiwan.net.tw/upload/contentFile/201606/歷表08(歷年來台旅客按性別統計).csv,CSV,UTF-8;
+7329,歷年旅遊業導遊人員按性別分析,交通部觀光局,data.gov.tw/node/7329,年別、男性人數、女性人數、總計人數,http://admin.taiwan.net.tw/upload/contentFile/201606/導遊性別.csv,CSV,UTF-8;
+7777,景點 - 觀光資訊資料庫,交通部觀光局,data.gov.tw/node/7777,景點：編碼、景點名稱、單位景點編號、景點詳細說明、景點簡述說明、電話、地址、郵遞區號、交通資訊、開放時間、景點照片、景點地圖位置、管理權責機關、X座標、Y座標、景點分類、景點分類代碼、古蹟等級、官方網站、停車資訊、停車場X座標、停車場Y座標、入場資訊、注意事項、關鍵字、異動變更時間。,http://gis.taiwan.net.tw/XMLReleaseALL_public/scenic_spot_C_f.json,JSON,UTF-8;
+7778,活動 - 觀光資訊資料庫,交通部觀光局,data.gov.tw/node/7778,活動：編碼、活動名稱、活動簡述說明、活動主要        對象、活動地點、活動地址、電話、主辦單位、活動開始時間、活動結束時間、週期性活動時間、非週期性活動時間、活動網址、活動照片、X座標、Y座標、活動分類代碼、活動地圖位置、交通資訊、停車資訊、入場資訊、備註、異動變更時間。,http://gis.taiwan.net.tw/XMLReleaseALL_public/activity_C_f.json,JSON,UTF-8;
+7779,餐飲 - 觀光資訊資料庫,交通部觀光局,data.gov.tw/node/7779,餐飲：編碼、店家名稱、餐飲美食簡述說明、地址、郵遞區號、電話、營業時間、官方網址、照片、X座標、Y座標、店家分類代碼、店家地圖位置、停車資訊、異動變更時間。,http://gis.taiwan.net.tw/XMLReleaseALL_public/restaurant_C_f.json,JSON,UTF-8;
+7780,旅館民宿 - 觀光資訊資料庫,交通部觀光局,data.gov.tw/node/7780,旅館民宿：編碼、旅館民宿名稱、旅館民宿簡述說明、旅館民宿星級、地址、郵遞區號、電話、傳真、旅館民宿之管理權責單位代碼、官方網址、照片、X座標、Y座標、旅館民宿分類代碼、旅館民宿地圖位置、房型價目、服務內容、停車資訊、異動變更時間。,http://gis.taiwan.net.tw/XMLReleaseALL_public/hotel_C_f.json,JSON,UTF-8;
+8116,102年國內主要遊憩據點遊客人數月別統計,交通部觀光局,data.gov.tw/node/8116,觀光遊憩區、縣市別、月份人數別、合計人數,http://admin.taiwan.net.tw/upload/contentFile/201606/102年遊憩區年表32(new).csv,CSV,UTF-8;
+8357,102年來台旅客職業統計,交通部觀光局,data.gov.tw/node/8357,居住地、職業別,http://admin.taiwan.net.tw/upload/contentFile/201606/102_05.csv,CSV,UTF-8
+8358,102年來台旅客年齡統計,交通部觀光局,data.gov.tw/node/8358,年齡、居住地,http://admin.taiwan.net.tw/upload/contentFile/201606/102_06.csv,CSV,UTF-8
+8359,102年來台旅客搭乘交通工具及入境港口統計,交通部觀光局,data.gov.tw/node/8359,居住地、飛機、輪船,http://admin.taiwan.net.tw/upload/contentFile/201606/102_08.csv,CSV,UTF-8
+8360,102年中華民國國民出國年齡統計,交通部觀光局,data.gov.tw/node/8360,首站抵達地、年齡別,http://admin.taiwan.net.tw/upload/contentFile/201606/102_27.csv,CSV,UTF-8
+8361,102年中華民國國民出國搭乘交通工具及出境港口統計,交通部觀光局,data.gov.tw/node/8361,首站抵達地、飛機、輪船,http://admin.taiwan.net.tw/upload/contentFile/201606/102_29.csv,CSV,UTF-8
+8587,國人出國旅遊重要指標統計表,交通部觀光局,data.gov.tw/node/8587,出國、旅遊消費、新臺幣、美金,http://admin.taiwan.net.tw/upload/contentFile/201606/國人出國旅遊重要指標統計表.csv,CSV,UTF-8
+8588,國人國內旅遊重要指標統計表,交通部觀光局,data.gov.tw/node/8588,出國、旅遊消費、新臺幣、美金、滿意度,http://admin.taiwan.net.tw/upload/contentFile/201606/國人國內旅遊重要指標統計表.csv,CSV,UTF-8
+8589,102年來臺旅遊市場相關指標值,交通部觀光局,data.gov.tw/node/8589,旅遊市場、來臺旅客、重遊比率,http://admin.taiwan.net.tw/upload/contentFile/201606/102年來臺旅遊市場相關指標值.csv,CSV,UTF-8
+8590,13處國家風景區102年全區遊客人次推估表,交通部觀光局,data.gov.tw/node/8590,國家風景區、國際觀光客、人次推估,http://admin.taiwan.net.tw/upload/contentFile/201606/13處國家風景區102年全區遊客人次推估表-可上線.csv,CSV,UTF-8
+9328,102年來台旅客居住地統計,交通部觀光局,data.gov.tw/node/9328,居住地、去年旅客人數合計、去年華僑旅客人數、去年外籍旅客人數、前年旅客人數合計、前年華僑旅客人數、前年外籍旅客人數、旅客人數成長率、華僑旅客成長率、外籍旅客成長率。,http://admin.taiwan.net.tw/upload/contentFile/201606/年表02(102年來台旅客居住地統計).csv,CSV,UTF-8
+13137,交通部觀光局104年度單位預算,交通部觀光局,data.gov.tw/node/13137,歲入來源別預算表、歲出機關別預算表、歲入項目說明提要表、歲出計畫提要及分支計畫概況表、各項費用彙計表、歲出一級用途別科目分析表、資本支出分析表、人事費分析表、預算員額明細表、現有辦公房舍明細表、補助經費分析表、捐助經費分析表、派員出國計畫預算總表、派員出國計畫預算類別表-開會、歲出按職能及經濟性綜合分類表、跨年期計畫概況表、委辦經費分析表,http://admin.taiwan.net.tw/upload/contentFile/201503/104_all_law_xml.zip,XML,UTF-8
+15431,103年來台旅客國籍統計,交通部觀光局,data.gov.tw/node/15431,來台旅客國籍統計,http://admin.taiwan.net.tw/upload/contentFile/201606/103年來台旅客國籍統計.CSV.csv,CSV,UTF-8
+15432,103年來台旅客啟程來台國家統計,交通部觀光局,data.gov.tw/node/15432,旅客啟程來台國家統計,http://admin.taiwan.net.tw/upload/contentFile/201606/年表10_new(103年來台旅客啟程來台國家統計).CSV.csv,CSV,UTF-8
+15450,103年來台旅客離台後前往國家統計,交通部觀光局,data.gov.tw/node/15450,來台旅客離台後前往國家,http://admin.taiwan.net.tw/upload/contentFile/201606/年表11_new(103年來台旅客離台後前往國家統計).CSV.csv,CSV,UTF-8
+15451,103年來台旅客年齡與來台目的交叉統計,交通部觀光局,data.gov.tw/node/15451,來台旅客年齡與來台目的交叉統計,http://admin.taiwan.net.tw/upload/contentFile/201606/年表12_new(103年來台旅客年齡與來台目的交叉統計).CSV.csv,CSV,UTF-8
+15452,103年來台旅客職業與來台目的交叉分析,交通部觀光局,data.gov.tw/node/15452,來台旅客職業與來台目的交叉分析,http://admin.taiwan.net.twupload/contentFile/201606/年表13_new(103年來台旅客職業與來台目的交叉分析).CSV.csv,CSV,UTF-8
+15453,98年至103年來台旅客居住地統計,交通部觀光局,data.gov.tw/node/15453,98年至103年來台旅客居住地統計,http://admin.taiwan.net.tw檔案上傳路徑	結果 /upload/contentFile/201606/年表14(98年至103年來台旅客居住地統計).CSV.csv,XLSX,UTF-8
+15530,交通部觀光局104年度單位預算案,交通部觀光局,data.gov.tw/node/15530,歲入來源別預算表、歲出機關別預算表、歲入項目說明提要表、歲出計畫提要及分支計畫概況表、各項費用彙計表、歲出一級用途別科目分析表、資本支出分析表、人事費分析表、預算員額明細表、現有辦公房舍明細表、補助經費分析表、捐助經費分析表、派員出國計畫預算總表、派員出國計畫預算類別表-開會、歲出按職能及經濟性綜合分類表、跨年期計畫概況表、委辦經費分析表,http://admin.taiwan.net.tw/upload/contentFile/201505/budget_public_xml_104.zip,XML,UTF-8
+18910,交通部觀光發展基金附屬單位決算103年度,交通部觀光局,data.gov.tw/node/18910,如附表,http://data.gov.tw,XML,UTF-8
+19716,交通部觀光局及所屬103年度單位決算,交通部觀光局,data.gov.tw/node/19716,歲入來源別決算表、歲出政事別決算表、歲出機關別決算表、以前年度歲入來源別轉入數決算表、以前年度歲出政事別轉入數決算表、以前年度歲出機關別轉入數決算表、歲入類平衡表、經費類平衡表,http://admin.taiwan.net.tw/upload/contentFile/201508/final_accounts_xml_103.zip,XML,UTF-8
+19732,104年度觀光發展基金附屬單位分預算,交通部觀光局,data.gov.tw/node/19732,收支預計表、餘絀撥補預計表、現金流量預計表,http://admin.taiwan.net.tw/upload/contentFile/201508/budget_fund_xml_104.zip,XML,UTF-8
+19733,交通部觀光局104年度會計報告,交通部觀光局,data.gov.tw/node/19733,歲入類平衡表、歲入類現金出納表、歲入累計表、以前年度歲入保留數餘額表、經費類平衡表、經費類現金出納表、經費累計表、以前年度歲出保留數餘額表,http://admin.taiwan.net.tw/upload/contentFile/201508/report_accounts_xml_10401.zip,XML,UTF-8
+21736,105年度觀光發展基金附屬單位分預算案,交通部觀光局,data.gov.tw/node/21736,收支預計表、餘絀撥補預計表、現金流量預計表,http://admin.taiwan.net.tw/upload/contentFile/201509/budget_fund_xml_105.zip,XML,UTF-8
+21745,交通部觀光局105年度單位預算案,交通部觀光局,data.gov.tw/node/21745,歲入來源別預算表、歲出機關別預算表、歲入項目說明提要表、歲出計畫提要及分支計畫概況表、各項費用彙計表、歲出一級用途別科目分析表、資本支出分析表、人事費分析表、預算員額明細表、現有辦公房舍明細表、補助經費分析表、捐助經費分析表、派員出國計畫預算總表、派員出國計畫預算類別表-開會、歲出按職能及經濟性綜合分類表、跨年期計畫概況表、委辦經費分析表,http://admin.taiwan.net.tw/upload/contentFile/201509/105_all_law_xml.zip,XML,UTF-8
+24417,觀光拔尖領航方案執行情形表,交通部觀光局,data.gov.tw/node/24417,觀光拔尖領航方案98年度至103年度之預、決算數,http://admin.taiwan.net.tw/upload/contentFile/201606/pvet_103 (1).CSV.csv,CSV,UTF-8
+26926,103年國人旅遊狀況調查,交通部觀光局,data.gov.tw/node/26926,停留天數、停留夜數、到訪國家、出國主要目的、選擇出國旅遊地點主要原因、出國安排方式、年齡、教育程度、職業、婚姻狀況、個人每月平均所得、居住縣市、性別、季別、出國旅次權數、對本季所到過的遊覽地區不滿意的項目,http://admin.taiwan.net.tw/upload/contentFile/201601/103年國人旅遊狀況調查.zip,CSV,UTF-8
+26928,103年來臺旅客消費及動向調查,交通部觀光局,data.gov.tw/node/26928,"停留夜數、來臺次數、出發之前多久計畫此次行程、旅遊動向、對臺灣境內搭乘交通工具之滿意度、此次來臺經驗滿意度
+",http://admin.taiwan.net.tw/upload/contentFile/201601/103年來臺旅客消費及動向調查.zip,CSV,UTF-8
+27533,交通部觀光局105年度會計報告,交通部觀光局,data.gov.tw/node/27533,"平衡表、現金出納表、歲入累計表、以前年度歲入保留數餘額表、、經費累計表、以前年度歲出保留數餘額表
+",http://admin.taiwan.net.tw/upload/contentFile/201603/report_accounts_xml_10501.zip,XML,UTF-8
+27948,交通部觀光局105年度單位預算,交通部觀光局,data.gov.tw/node/27948,歲入來源別預算表、歲出機關別預算表、歲入項目說明提要表、歲出計畫提要及分支計畫概況表、各項費用彙計表、歲出一級用途別科目分析表、資本支出分析表、人事費分析表、預算員額明細表、現有辦公房舍明細表、補助經費分析表、捐助經費分析表、派員出國計畫預算總表、派員出國計畫預算類別表-開會、歲出按職能及經濟性綜合分類表、跨年期計畫概況表、委辦經費分析表,http://admin.taiwan.net.tw/upload/contentFile/201602/105_all_law_xml.zip,XML,UTF-8
+31476,大鵬灣觀光產業聯盟會員名冊資料,交通部觀光局,data.gov.tw/node/31476,店家名稱、連絡電話、地址、負責人、產業型態,http://admin.taiwan.net.tw/upload/contentFile/201606/屏東縣大鵬灣觀光產業聯盟名冊分產業_20150813.CSV.csv,CSV,UTF-8
+31477,大鵬灣遊憩區遊客人數,交通部觀光局,data.gov.tw/node/31477,年度、月份、人數統計,http://admin.taiwan.net.tw/upload/contentFile/201606/104年_遊客.解說.簡報廳人數統計.CSV.csv,CSV,UTF-8
+33595,交通部觀光局及所屬104年度單位決算,交通部觀光局,data.gov.tw/node/33595,歲入來源別決算表、歲出政事別決算表、歲出機關別決算表、以前年度歲入來源別轉入數決算表、以前年度歲出政事別轉入數決算表、以前年度歲出機關別轉入數決算表、歲入類平衡表、經費類平衡表,http://admin.taiwan.net.tw/upload/contentFile/201608/final_accounts_xml_104.zip,XML,UTF-8
+33732,觀光發展基金104年度決算,交通部觀光局,data.gov.tw/node/33732,"收支餘絀決算表
+餘絀撥補決算表
+現金流量決算表
+平衡表",http://admin.taiwan.net.tw/public/public.aspx?no=93,XML,UTF-8

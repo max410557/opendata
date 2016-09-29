@@ -1,0 +1,1170 @@
+﻿資料集Id,資料集名稱,資料集提供機關名稱,資料集連結,主要欄位說明,資料資源下載連結,資料資源檔案格式,metadata文字編碼
+25880,桃園市道路挖掘資訊,桃園市政府工務局,data.gov.tw/node/25880,編號、鄉鎮市別、鄉道別、管理單位、管線單位、起、迄、工程名稱、工程地點,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=56c616fe-07d7-4b0c-bb75-e8f8cd75500a&rid=52de3762-1490-4a86-a074-0062d746873b,XML,UTF-8
+25881,桃園市公私立醫療機構及病床數,桃園市政府衛生局,data.gov.tw/node/25881,桃園市各區醫院及診所家數，各院的病床數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2a889b37-ee8d-4b9c-a2e7-503f5b82b9c5&rid=24aa0266-07d3-4fce-991f-da5c782fe5ae,CSV,UTF-8
+25882,桃園市網球場收費標準表,桃園市政府體育局,data.gov.tw/node/25882,收費項目 收費基準,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9abae442-60ce-4562-88b7-be3cf6d9a461&rid=2aeccff4-6643-4dff-8191-c5d3c2e6b5bc,CSV,UTF-8
+25883,桃園市刑事案件分類發生數、破獲數及嫌疑犯人數,桃園市政府警察局,data.gov.tw/node/25883,"年度	轄區	案件種類	發生數	破獲數	嫌疑犯
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e46ace4d-3703-464e-ad77-882af866f987&rid=f34c62fe-349c-45f9-9397-aa0f150ca254,CSV,Big5
+25884,桃園市102及103學年度幼兒園基礎評鑑通過名單,桃園市政府教育局,data.gov.tw/node/25884,桃園市102及103學年度幼兒園基礎評鑑通過名單,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=75a9831e-b4ab-4cc1-84b6-1efd6f23c6e5&rid=29ee5df5-28ca-4380-9694-a5a92a2df630,CSV,UTF-8
+25885,104年桃園市政府代為標售地籍清理土地標售公告清冊,桃園市政府地政局,data.gov.tw/node/25885,"標號,鄉鎮市區,段,小段,地/建號,面積,使用分區/使用分區類別,權利範圍分子,權利範圍分母,登記名義人,他項權利人姓名或名稱,他項權利種類,標售總底價,保證金,備註",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1b6a66c0-029d-4e91-8706-252dfbf3f9cc&rid=1a0b1a40-4628-4053-bf39-ba3c37c5016c,CSV,UTF-8
+25886,桃園市機車定檢站名單,桃園市政府環境保護局,data.gov.tw/node/25886,"站號,站名,地址,電話,機車廠牌",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=548e2835-5f86-4d34-95bf-ca4e04c40b96&rid=321dec5b-bd6c-4c79-9493-22bef5c70eb1,CSV,Big5
+25887,桃園市都會區各區原住民族服務員資訊,桃園市政府原住民族行政局,data.gov.tw/node/25887,編號市區別地址聯絡資訊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c9d8a18a-cbaa-4e23-812d-cfc34c18508d&rid=ffc05327-b81c-4a3a-b38f-e1ef1c8cef2a,CSV,UTF-8
+25888,垃圾車清運點資訊,桃園市政府環境保護局,data.gov.tw/node/25888,序號、行政區、停留路段或地點、經度、緯度、清運時間一、清運時間二至六,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=88bdf93f-1b8d-4e8d-ade5-16670d909f38&rid=0c7bcfbf-b151-4411-b888-9ff685ff7a75,CSV,UTF-8
+25889,桃園市社區照顧關懷據點,桃園市政府社會局,data.gov.tw/node/25889,服務區域、據點名稱(申請單位名稱)、設立時間、類型、地址、服務里別、電子郵件、聯絡人、聯絡電話、服務時間(週一至週日對應表)、服務項目(服務項目對應表),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=93446045-5cfe-4fcb-9659-bed72cdfe7b4&rid=448d90f1-ee5b-4d58-962a-8abaa21034b1,CSV,UTF-8
+25890,桃園觀新藻礁生態系野生動物保護區,桃園市政府農業局,data.gov.tw/node/25890,桃園觀新藻礁生態系野生動物野生動物保護區保育計畫書,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=421d6c10-78a0-432c-a165-6209dd6556b2&rid=e787a6c1-adab-4ead-8ccb-d96bb58a5edd,CSV,UTF-8
+25891,桃園市官網市政新聞,桃園市政府研究發展考核委員會,data.gov.tw/node/25891,發布單位、發布日期、提供單位、詳細內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=aaf77112-2e52-4590-824b-3973d9594861&rid=676d9a09-0f9e-4c34-b2db-b0b1b8fad490,JSON,UTF-8
+25892,桃園市政府警察局路口監視器,桃園市政府警察局,data.gov.tw/node/25892,分局、設置地點,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=07c81524-7e13-4cc7-a1bf-286ea86b0778&rid=b6c7cec3-3d73-478b-8197-276eef534a80,CSV,UTF-8
+25893,桃園工廠排放每日監測紀錄,桃園市政府環境保護局,data.gov.tw/node/25893,"Cno(中文廠名),DP_NO(煙囪編號),ITEM(中文測項),M_year(年),M_month(月),M_day(日),M_time(時),M_Val(測值),Code2(中文狀態)
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0e97f604-83db-48b9-b3de-4aeaa8ce68c7&rid=d0b42df7-cd03-44b8-b8fb-c61893765db4,XML,UTF-8
+25894,歷屆桃園市金牌好店資料,桃園市政府經濟發展局,data.gov.tw/node/25894,"「編號」、「店家」、「電話」、「地址	」		",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=456d9011-f8b1-463a-a4ff-0149831f3300&rid=dbccbe90-24e9-4572-b697-7ab8bd2558f7,CSV,UTF-8
+25895,桃園市電動二輪車充電站,桃園市政府環境保護局,data.gov.tw/node/25895,提供電動二輪車充電站之區域、收費方式、名稱、地址、電話、營業時間、種類及其他相關規定,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d3c12b0f-9701-4411-b651-36990314750a&rid=93d7f2e1-668a-4f02-862e-89e8decbe024,CSV,UTF-8
+25896,桃園市環保旅店,桃園市政府環境保護局,data.gov.tw/node/25896,旅館管理者著手進行省水、省電及減少固體廢棄物的程序，並利用節省下來的成本，協助保護這唯一的地球。」由於環保旅館的觀念在台灣才剛起步，因此環保署對環保旅館的初步定義是以「顯而易見的廢棄物減量」為主，包括飯店是否推動減少床單、減少毛巾更換頻率、少提供牙膏、牙刷等拋棄式盥洗用具、做資源回收等。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=44809786-aacb-4335-85f8-761d6138659f&rid=8d5aa5a1-f0a7-4443-811e-52cc47acbfe4,CSV,UTF-8
+25897,桃園市身心障礙福利機構,桃園市政府社會局,data.gov.tw/node/25897,機構名稱、董事長、院長/主任姓名、地址、電話、傳真,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cdad068f-2295-46ab-bf93-2ff45131ff4f&rid=39b3747d-6bf2-49d6-b2ef-39159296e428,CSV,UTF-8
+25898,桃園市護理之家一覽表,桃園市政府衛生局,data.gov.tw/node/25898,區域(機構所轄區域)機構名稱(機構設立名稱)開業日期(機構設立開業日期)地址(機構設立地址)開放床數(機構開放床位數)負責護理人員(機構連絡窗口人員)電話(機構連絡電話)103年督考、評鑑結果(103年度本局辦理督導考核及衛生福利部評鑑考核之成績),http://taoyuan.esritw.opendata.arcgis.com/datasets/e790693f43004375a7a8b6ac456fd3c3_25.csv,其他,UTF-8
+25899,桃園市立案老人福利機構一覽表,桃園市政府社會局,data.gov.tw/node/25899,公私立屬性、機構名稱、負責人、地址、電話、收容對象、收容人數、立案日期,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=34859c1c-1134-4197-aad6-65e006fa6534&rid=1c8cdbe6-a3c5-41e5-9892-a5cf1a3ee0fc,CSV,UTF-8
+25900,桃園市消防安全檢查重大不合格場所,桃園市政府消防局,data.gov.tw/node/25900,場所名稱(招牌名稱)、場所地址、違規項目/檢(複)查結果、最近1次檢(複)查日期(年月日),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ed5c3db0-f08d-4f22-b819-684cc455e9bd&rid=14322be9-475b-406f-83ba-4a200b49bfcc,CSV,UTF-8
+25901,桃園市各區現住人口年齡分配,桃園市政府警察局,data.gov.tw/node/25901,"年度	地區	年齡	性別	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=183826f0-4e86-413e-bc89-13be77c899de&rid=8b97713b-5b15-4ba0-a31e-9a13c4d656a4,CSV,Big5
+25902,桃園市市容查報案件資訊,桃園市政府研究發展考核委員會,data.gov.tw/node/25902,"查報日期(RE_DATE),查報時間(RE_TIME),查報主題(SUBJECT),查報鄉鎮市(VILLAGE),查報地點(POSITION),電子地圖坐標(COORDINATES),受理局室(UN_TYPE),受理課室(UN_CODE),結案日期(ENDDATE),處理天數(PRDAYS),是否來自1999(IS_FROM_1999)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=43c6c83a-06b2-4c2a-b784-a38f3ef108d8&rid=7fac674b-79ae-4b8c-b381-5585621fdb19,CSV,UTF-8
+25903,桃園市A1及A2類道路交通事故件數－按肇事時間別,桃園市政府警察局,data.gov.tw/node/25903,"年度	區域	時段	件數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2bc7f575-acaf-436c-a6ca-be8af3cf19f2&rid=2faaa93b-6ef5-4ea2-8e5c-bd0df7c31774,CSV,Big5
+25904,桃園市姊妹市締結資料,桃園市政府秘書處,data.gov.tw/node/25904,編號、國家_中文、國家_英文、城市_中文、城市_英文、締盟日期、姊妹市締盟代表、本市締盟代表,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8073e28e-d65a-473c-848c-96f3c936105b&rid=8f888cfb-2e7e-42f6-880d-93c4d848bb76,CSV,UTF-8
+25905,桃園市官網熱門活動,桃園市政府研究發展考核委員會,data.gov.tw/node/25905,發布單位、分類、發布日期、截止日期、提供單位、活動日期、活動地點、活動地址、主辦單位、協辦單位、詳細內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a5aa63a9-296c-4b85-b628-62889b700057&rid=3983e8e8-7a67-4bbd-b976-bb0cdb97e2f7,JSON,UTF-8
+25907,105年桃園市新生兒聽力篩檢初篩及確診醫院,桃園市政府衛生局,data.gov.tw/node/25907,聽力篩檢及確診醫療院所名單地址與電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5250db42-f193-4a32-8f53-c685cddd9654&rid=843b7b73-00ab-4b13-8d3e-f85f63c22985,CSV,UTF-8
+25908,桃園市較常發生溺水水域一覽表,桃園市政府消防局,data.gov.tw/node/25908,地點/分隊/水域/權管單位,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1a1b4d28-6933-4b96-b7e5-5fc5574a6a1e&rid=2e07db8a-dac0-4ab0-8356-8321064ccad1,CSV,Big5
+25909,桃園市政府辦公大樓導覽,桃園市政府秘書處,data.gov.tw/node/25909,空間類別、樓層、中文名稱、英文名稱,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a4b1ef04-cc60-420f-a55f-73a687683963&rid=5fbd77bb-c957-4cde-922a-76f7cb5a10ef,CSV,UTF-8
+25910,桃園市雨水系統人手孔,桃園市政府工務局,data.gov.tw/node/25910,"資料庫代碼,開關閥編號,位置X 坐標,位置Y 坐標",http://taoyuan.esritw.opendata.arcgis.com/datasets/df12a04d214349149ff45991ca566a1f_8.csv,其他,UTF-8
+25911,104年度桃園之光榮譽榜,桃園市政府教育局,data.gov.tw/node/25911,桃園之光得獎名單(得獎項目、得獎單位),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f6931e3a-623c-48ba-aea7-fcd5c971c1da&rid=f9b49f01-dac0-4906-ba0c-01c57752f848,CSV,UTF-8
+25912,桃園市政府機關通訊錄,桃園市政府人事處,data.gov.tw/node/25912,機關分類、機關名稱、電話、地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9389b113-a371-48f6-bdb7-1b3b8c7e2538&rid=05fe727b-19c4-4a95-aa42-ad5fbcc70e94,CSV,UTF-8
+25913,桃園市街頭藝人名單,桃園市政府文化局,data.gov.tw/node/25913,類別、姓名/團名、電話、徵選項目、備註,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ccddd094-ec30-41ef-b4c7-0f4d42fa8f18&rid=5a8c0766-9478-4032-82ff-0040019591ac,CSV,UTF-8
+25914,桃園市全區雨水下水道管線分布圖,桃園市政府水務局,data.gov.tw/node/25914,桃園市全區雨水下水道管線分布位置圖圖資,http://taoyuan.esritw.opendata.arcgis.com/datasets/0741f12deaf74be9bd2eee0913c85c4f_35.csv,其他,UTF-8
+25915,桃園市防空避難設備,桃園市政府警察局,data.gov.tw/node/25915,"年度	種類	數量	容納人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d07e4540-0433-43f0-be86-ed4b27dd6ff2&rid=a779d274-0e85-4b90-91ba-4af77f5ffa55,CSV,UTF-8
+25916,旅行時間偵測站 站間平均旅行時間,桃園市政府交通局,data.gov.tw/node/25916,UpdateTime(資料更新時間)、DeviceFrom(上游偵測站編號)、DeviceTo(下游偵測編號)、VehicleType(車種)、TravelTime(平均旅行時間)、Volume(流量),http://61.60.10.87/javaAndXml/xmldata/opendata/avi_value.xml,其他,UTF-8
+25917,勞工體格與健康檢查認可醫療機構,桃園市政府勞動局,data.gov.tw/node/25917,醫療機構名稱、地址、聯絡人、電話、指定類別、有效期限,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7d39dadf-3f15-4ea9-a7a3-6b98f299b8cb&rid=0d7c8037-484c-4f07-9086-c8eadc06f354,CSV,UTF-8
+25918,桃園市體育局場館,桃園市政府體育局,data.gov.tw/node/25918,場館名稱，場館地址，聯絡電話，場館介紹，租借方式,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=79d7fd3f-2159-4854-89af-fe43d7c86ab7&rid=e12dc5ba-088c-4ce4-b0b8-04c263358eee,XLS,Big5
+25919,桃園市各區現住人口性別比例及人口密度,桃園市政府警察局,data.gov.tw/node/25919,"年度	區域	土地面積	村里數	鄰數	戶數	男	女	戶量	性比例	人口密度
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=31a3d841-6642-4188-b58f-8d7e4618e644&rid=0652efc5-bbd3-43f6-826d-45b9961dbbd5,CSV,Big5
+25920,桃園市立案老人福利機構評鑑資料,桃園市政府社會局,data.gov.tw/node/25920,所在區域、機構名稱、負責人、地址、電話、年份及評鑑等第,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1ebe066f-123c-4e1e-a764-8f518d4e8642&rid=d70e1983-2b0b-4635-adff-02580106ce78,CSV,UTF-8
+25921,桃園市醫院早療療育資源,桃園市政府社會局,data.gov.tw/node/25921,醫療單位、聯絡地址、科別、諮詢聯絡人、聯絡電話、聯合評估時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d8a21cee-d760-41fd-a803-a230e58c45d9&rid=564db1e7-940c-4cb3-8ced-320d656c9cbe,CSV,UTF-8
+25922,桃園市寵物登記機構,桃園市政府農業局,data.gov.tw/node/25922,編號、地區、名稱、負責人、地址、電話(公),"http://www.tycg.gov.tw/animal/home.jsp?id=80&parentpath=0,37&mcustomize=onemessages_view.jsp&dataserno=201310280003&aplistdn=ou=data,ou=common,ou=chanimal,ou=ap_root,o=tycg,c=tw&toolsflag=Y",其他,UTF-8
+25923,桃園市政府無線網路Wi-Fi熱點資訊,桃園市政府研究發展考核委員會,data.gov.tw/node/25923,"項次,熱點類別,熱點名稱,縣市名稱,鄉鎮市區,地址,熱點類別(英語),熱點名稱(英語),縣市名稱(英語),鄉鎮市區(英語),地址(英語)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e456dbb7-2f8f-4d39-9d18-a01f380c8485&rid=ee54e090-7a79-4c56-a24a-5f1a7c426454,CSV,UTF-8
+25924,桃園市全區雨水下水道人孔位置分佈圖,桃園市政府水務局,data.gov.tw/node/25924,桃園市全區雨水下水道人孔位置分佈位置圖圖資,http://taoyuan.esritw.opendata.arcgis.com/datasets/a2a809a8f328424b9941648b8a80581a_34.csv,其他,UTF-8
+25925,桃園市市管河川資訊,桃園市政府水務局,data.gov.tw/node/25925,"編號,河川名,長度,集水面積,洪峰流量,平均坡度",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e40520bd-ee77-4f44-8e3e-c382fd2a4b57&rid=adff0490-18be-4f2e-a0d4-23669bb93a69,CSV,Big5
+25926,桃園市撤銷及廢止立案幼兒園名冊,桃園市政府教育局,data.gov.tw/node/25926,桃園市撤銷及廢止立案幼兒園名冊(可查詢名稱、聯絡電話、地址及撤銷日期),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=250bf414-56b7-4045-97eb-6496b141b364&rid=63ad282f-8836-418b-9677-1db1083726ce,CSV,UTF-8
+25928,桃園市政府警察局員工總人數,桃園市政府警察局,data.gov.tw/node/25928,"年度	人員別	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6fcfc0cf-bdee-473a-9f73-66302a600967&rid=ecfcd0a0-43cc-4703-abc0-301ce90c21a2,CSV,Big5
+25929,桃園市歲修路段,桃園市政府工務局,data.gov.tw/node/25929,編號，名稱，描述，地理資訊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=89bc8976-d7eb-47fc-98de-d8ae8936aac0&rid=f0b11f6d-1a9f-4426-a64f-532d1337d5b8,KMZ,UTF-8
+25930,桃園市施工管理,桃園市政府工務局,data.gov.tw/node/25930,編號 鄉鎮市別 鄉道別 管理單位 管線單位 起 迄 工程名稱 工程地點 申請面積,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=33f32d4e-fb46-4049-a065-118926a2a4cd&rid=d766f2ce-ccdc-4e3d-81c9-49a25bad0b07,CSV,UTF-8
+25931,桃園市滅火器藥劑更換及充填合格廠商清冊,桃園市政府消防局,data.gov.tw/node/25931,1.編號：廠商編號。2.縣市別：各縣市名稱。3.廠商名稱：廠商登記名稱。4.地址：廠商地址。5.電話：廠商電話。6.負責人：負責人。7.證書號碼：證書號碼。8.證書有效期限：證書有效期限。9.執行業務範圍：執行業務範圍。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=570730ed-9035-4ebc-88f6-a14ccf9de39a&rid=b1c8ff76-3944-4c76-89e8-b89c48688338,CSV,UTF-8
+25932,桃園市A1及A2類道路交通事故統計,桃園市政府警察局,data.gov.tw/node/25932,"年度	轄區	交通事故種類	傷亡種類	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4c8462b1-e9e4-4def-9d3e-634c13586c1e&rid=5bec2e4d-5ee2-4fb8-9698-4c3e8c3f8501,CSV,Big5
+25933,105年桃園市客家文化館特展室檔期表,桃園市政府客家事務局,data.gov.tw/node/25933,"展覽日期 ，檔次，展覽資訊，場地，類型，檔期																														
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0fb9ec14-77ec-49ea-a36b-2399a0ebb9b9&rid=04644e5f-0c86-4406-b89a-df0bcc336701,CSV,UTF-8
+25934,工廠登記家數異動表,桃園市政府經濟發展局,data.gov.tw/node/25934,"行業別	上月底家數	新登記	歇業	異動調整	本月底家數",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7910a3a2-07c0-43db-9333-30de04a9fae5&rid=1c520072-ff9e-4d97-b9d2-77393831431f,CSV,UTF-8
+25935,桃園市固定式測速照相,桃園市政府警察局,data.gov.tw/node/25935,"設置地點	測速方向	轄區單位	Latitude	Longitude
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ecd45ee5-4489-436b-bd08-7d4e4111c4a4&rid=6c002322-c486-4671-91b8-c3a6247c69c9,CSV,Big5
+25936,桃園市1999統計報表,桃園市政府研究發展考核委員會,data.gov.tw/node/25936," 1.年月日：自99年起開始統計各月進線1999專線電話量通數。
+ 2.通數：民眾以手機、市話或公用電話撥打本府1999專線之進線通數。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=65806bfe-6be2-4525-b431-28b6f471a9ee&rid=78e0fbaf-0eb8-42fa-ab05-f0d6b0ce8a4e,CSV,UTF-8
+25937,桃園市伴手禮歷屆得獎名單,桃園市政府經濟發展局,data.gov.tw/node/25937,「編號」、「年度類別」、「商品名稱」、「商家名稱」、「商家地址」、「商家網址」、「訂購專線」、「商品特色」,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b0589374-32ce-49e1-86cf-3810074ec337&rid=082b9d47-e494-4792-9bb8-51168a5e0b39,CSV,Big5
+25938,酸雨監測,桃園市政府環境保護局,data.gov.tw/node/25938,測站名稱、採樣日期、pH值,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5fba2f19-8728-4268-b844-9662b5fbbe1c&rid=4a9e48ad-97b4-4a83-92f8-8701f7494475,CSV,Big5
+25939,桃園市戰備水井取水點資料,桃園市政府水務局,data.gov.tw/node/25939,1.編號2.取水點位置3.備註,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6aa1dd87-45a1-4e55-9948-a4b94aa48eee&rid=333f04a4-9255-4f7b-aab1-8a15348cb82b,CSV,UTF-8
+25940,路外停車資訊,桃園市政府交通局,data.gov.tw/node/25940,areaid(地區編碼)、areaname(地區名稱)、parkid(停車場編碼)、totalspace(總車位數)、surplusspace(剩餘車位數)、payguide(計費方式說明)、introduction(停車場介紹)、address(住址)、wgsx(經度)、wgsy(緯度),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f4cc0b12-86ac-40f9-8745-885bddc18f79&rid=0daad6e6-0632-44f5-bd25-5e1de1e9146f,XML,UTF-8
+25941,桃園市性別統計,桃園市政府民政局,data.gov.tw/node/25941,1.現住人口按性別及單齡人口分：區域別、性別、總計、年齡層。2.現住人口出生死亡結婚離婚登記：出生、死亡、結婚、離婚。3.現住人口婚姻狀況-按年齡：年底及年齡組別、總計、未婚、有偶、離婚、喪偶。4.離婚人口按年齡及性別分：區域別、男性、女性。5.滿15歲以上現住人口教育程度-按鄉鎮市別分：年底及區別、性別、總計、識字者、不識字者。6.現住原住民人口數：年底及區別、戶數、人口數。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f7315d10-6fea-48ba-b4ce-70b124d6ec96&rid=112e3797-7dc6-48d8-851a-360dbf030630,CSV,UTF-8
+25942,桃園市產後護理機構一覽表,桃園市政府衛生局,data.gov.tw/node/25942,編號(排序編號)區域(機構所轄區域)機構名稱(機構設立名稱)開業日期(機構設立開業日期)地址(機構設立地址)負責人(機構設立負責人)連絡電話(機構連絡電話)產後護理床數(機構設立產後護理床數許可床數)嬰兒床數(機構設立嬰兒床數許可床數)103年評鑑、督考成績(103年度衛生福利部辦理機構評鑑及本局辦理督導考核之成績),http://taoyuan.esritw.opendata.arcgis.com/datasets/cacf3bc814db405f9e0aec2173240200_26.kml,其他,UTF-8
+25943,桃園市A1及A2類道路交通事故件數－按肇事車種別,桃園市政府警察局,data.gov.tw/node/25943,"年度	轄區	肇事車種	件數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0428e549-d3a8-4775-a733-2cc09def60b0&rid=728384c0-af31-4697-93a3-c6fc0bfa3b06,CSV,Big5
+25944,飲用水質監測,桃園市政府環境保護局,data.gov.tw/node/25944,地點、檢測項目、檢測日期、檢測值,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c7013c1d-dd05-46db-8cb2-70b70f8bea17&rid=e44e8106-8628-4727-b768-98b45e18d691,CSV,Big5
+25945,桃園市急救責任醫院,桃園市政府衛生局,data.gov.tw/node/25945,醫院名稱、地址、電話、評定分級,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=91eec88d-a784-46d6-82c9-9dd846edc9f6&rid=cb621914-b541-46bf-9ffb-626651bb0ae3,CSV,UTF-8
+25946,桃園市有線電視系統人手孔,桃園市政府工務局,data.gov.tw/node/25946,"資料庫代碼,開關閥編號,位置X 坐標,位置Y 坐標",http://taoyuan.esritw.opendata.arcgis.com/datasets/dd3bcc26545a40e49591e84f7eb05a8c_14.csv,其他,UTF-8
+25947,河川水質監測,桃園市政府環境保護局,data.gov.tw/node/25947,河川名稱,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3663d6eb-78a5-44bb-9f60-e04f856ca4ac&rid=a566dc27-560d-4598-8188-4c7f0b09f25d,CSV,Big5
+25948,藝文組織,桃園市政府文化局,data.gov.tw/node/25948,藝文組織名稱、會長(負責人),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a4041558-5913-4f5c-ae40-00d5c0d83461&rid=628e636e-941b-45c4-8d3e-13c6c6decc07,CSV,UTF-8
+25949,桃園市原住民族文化健康站資訊,桃園市政府原住民族行政局,data.gov.tw/node/25949,編號、市區別、地址、聯絡資訊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7d7bcba6-5747-4734-a288-6bc9e43f1767&rid=b3d0ef29-986e-4902-a442-7b1db4e61e59,CSV,UTF-8
+25950,桃園市配電系統人手孔,桃園市政府工務局,data.gov.tw/node/25950,"資料庫代碼,開關閥編號,位置X 坐標,位置Y 坐標",http://taoyuan.esritw.opendata.arcgis.com/datasets/30908d92aa1e4b83a9c53fba5dc55b1c_3.csv,其他,UTF-8
+25951,龍潭航空噪音防制區,桃園市政府環境保護局,data.gov.tw/node/25951,"防制區,區,里",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4d801f97-6014-4086-9715-560fcd3f3851&rid=9f91810a-c375-49e7-992f-813238b1d978,CSV,Big5
+25952,桃園市政府政風處檢舉管道,桃園市政府政風處,data.gov.tw/node/25952,單位，郵政信箱，電子信箱，檢舉電話，傳真，地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=980ca7b9-a834-461d-b1d3-985d0c4d4706&rid=a1d59147-7c78-4bd5-a112-431698d27739,CSV,UTF-8
+25953,桃園市獸醫診療機構名冊,桃園市政府農業局,data.gov.tw/node/25953,獸醫診療機構,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6d5ef140-65c4-486c-9e52-1b49459fa2ce&rid=857a3342-ece4-48d5-a6ea-26ba2f40a6bd,CSV,UTF-8
+25954,桃園市平均每戶家庭收支-收入 (91~97年),桃園市政府主計處,data.gov.tw/node/25954,Year(年別)、Current Receipts(經常性收入總計(元))、Total Receipts(薪資收入(元))、Property Income(財產收入(元))、Entrepreneurial Income(家庭綜合收入(元))、Current Transfer Receipts(捐贈移轉收入(元))、Others(其他雜項收入(元)),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8d5eb2a4-2d8a-4a80-b832-a9aa12808d2d&rid=b0fe79ac-03d9-42a3-98fb-731310ef89ab,CSV,Big5
+25955,桃園市建設類,桃園市政府工務局,data.gov.tw/node/25955,項次 公共設施名稱/工程名稱 位置 面積 管理單位/施工單位 施工期程,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c5471983-502d-4fb1-8583-f86d5b00106d&rid=87e37a8b-f355-4cf8-9865-698cbc7a1033,XLSX,UTF-8
+25956,桃園市救護車設置概況,桃園市政府衛生局,data.gov.tw/node/25956,"救護車設置概況(救護車,支援救護,救護技術員服務，共4家民間救護車，加上醫院及消防局共162輛)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e892048d-f375-4e78-aac5-25c94a139704&rid=e2a2892f-b2b7-465f-be31-580a28350195,CSV,UTF-8
+25957,桃園表演藝文空間,桃園市政府文化局,data.gov.tw/node/25957,分類、名稱、營業時間、 休館日、電話、地址 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7eca3b71-4b5a-4faf-80af-8f2ec8e285f8&rid=fde1c80e-6ad1-4e0c-9d35-314ac7c3cc19,CSV,UTF-8
+25958,桃園市立案公私立幼兒園名冊,桃園市政府教育局,data.gov.tw/node/25958,桃園市立案公私立幼兒園名冊(可查詢幼兒園名稱、聯絡電話及地址),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3179560b-4802-4923-bbe5-471460a649c8&rid=8542f748-4966-4af9-9a08-fbc69224fdd4,CSV,UTF-8
+25959,地下水質監測,桃園市政府環境保護局,data.gov.tw/node/25959,分析項目、地點,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=303540d7-37a9-4d34-96ef-5d0958297926&rid=7325f231-da6b-4bb2-b9df-b9dc97aceebc,CSV,Big5
+25960,桃園市客家認證餐廳,桃園市政府客家事務局,data.gov.tw/node/25960,"編號,餐廳名稱",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=894f879b-e543-43dc-942f-4a3a712f1cf8&rid=697d60f8-44ca-484e-8831-58fba61ba9d6,CSV,UTF-8
+25961,桃園市政府104年度消費爭議申訴案暨調解案件類型分析,桃園市政府法務局,data.gov.tw/node/25961,"食品
+健康食品
+藥品
+醫療器材
+化粧品
+菸酒
+農產品
+飲用水
+能源產品
+房屋
+車輛
+電器及周邊產品
+通訊及周邊產品
+電腦及周邊產品
+相機及周邊產品
+攝影機及周邊產品
+玩具及遊戲軟體
+服飾皮件及鞋類
+運動健身器材
+文教用品
+出版品
+禮券
+殯葬設施
+商品-其他
+商品-小計
+金融
+保險
+電信
+旅遊
+住宿
+遊樂園
+運輸
+停車場
+社服
+坐月子
+瘦身美容
+健身
+補習
+遊學
+殯葬服務及生前契約
+移民
+不動產經紀
+就業服務及職業訓練
+線上遊戲
+有線電視
+婚紗攝影
+室內設計及裝修
+保全
+徵信
+婚姻仲介
+搬家
+清潔服務
+醫療
+服務-其他
+服務-小計
+總計
+單位為件數
+",http://1950.tycg.gov.tw/news/down/list.asp,其他,UTF-8
+25962,桃園市合法農場,桃園市政府農業局,data.gov.tw/node/25962,場名、電話、負責人姓名、場址、場地面積、農作物種類,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6bad8ead-e7de-45c2-a097-6e4db4a8a3f3&rid=0a88c6b1-e1f3-4512-b09d-f4600bd7768f,CSV,UTF-8
+25963,桃園市人口統計,桃園市政府民政局,data.gov.tw/node/25963,1.桃園市各區現住戶口統計表：區域別、村里數、鄰數、戶數、全市現住人口數、區域人口數、原住民人口數。2.出生數統計表：區域別、性別、月份、總計。3.死亡數統計表：區域別、性別、月份、總計。4.結婚對數：區域別、月份、總計。5.離婚對數：區域別、月份、總計。6.遷入人數統計表：區域別、性別、月份、總計。7.遷出人數統計表：區域別、性別、月份、總計。8.人口年齡層統計表：區域別、性別、總計、各年齡層。9.原住民人口數按性別原住民身分及族別分：區域別、性別、總計、各族別。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5decd03c-bed1-4970-a369-112c8e3e5a2d&rid=eda1e26b-6927-460d-a008-8abaf0d57137,CSV,UTF-8
+25964,桃園市查獲非法槍彈刀械,桃園市政府警察局,data.gov.tw/node/25964,"時間	槍彈	種類	數量
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c9f75d44-e13f-4d3f-a810-d3700cf2b4d6&rid=c6eab872-96fc-44ce-9dd5-82239f1f637b,CSV,Big5
+25965,桃園市內觀光夜市,桃園市政府經濟發展局,data.gov.tw/node/25965,"各區	觀光夜市名稱	管理員聯絡電話	地址	總攤數	夜市介紹	特色說明	休市日",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0bd2cf36-7540-416b-911c-1ee3216fd79a&rid=b7c694ad-cb2d-4cab-8be3-450355b41a23,CSV,UTF-8
+25966,桃園市消防栓,桃園市政府工務局,data.gov.tw/node/25966,"資料庫代碼,開關閥編號,位置X 坐標,位置Y 坐標",http://taoyuan.esritw.opendata.arcgis.com/datasets/b329524827214374978671db56aa7fc4_1.csv,其他,UTF-8
+25967,桃園市政府105年7月查核案件分級管制一覽表,桃園市政府政風處,data.gov.tw/node/25967,"編號,工程名稱,主辦單位,監造單位,承攬廠商,發包預算,契約金額,查核日期,通知方式,評分,廠商扣點,監造扣點,PCM扣點,備註",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=96c530b1-52c3-4b70-a014-0b44a8f3e605&rid=03a21223-faa1-428c-a006-c19333696435,XLSX,UTF-8
+25968,桃園市人民團體名冊,桃園市政府社會局,data.gov.tw/node/25968,人民團體編號、社團類別、團體名稱、成立日期、理事長、會址、通訊地址、電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d762a94b-481f-4c3f-bc50-69dc627c49ee&rid=7b347f03-9015-41d3-b0ce-ee51e259b55e,CSV,UTF-8
+25969,桃園市有線廣播電視系統經營者,桃園市政府新聞處,data.gov.tw/node/25969,業者名稱、營業範圍、營業住址、電話及傳真,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=403d421e-7cc2-4052-b163-33aa7296434d&rid=daf4412f-8975-4e6b-99c5-08914de5c8a9,CSV,UTF-8
+25970,空品淨化區資訊,桃園市政府環境保護局,data.gov.tw/node/25970,坐落位置、維護管理單位、環保公園名稱、面積,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=901977f2-1233-433f-b3ff-8ff3c6851c64&rid=97404156-ae2b-4518-8882-f01187e9afad,CSV,UTF-8
+25971,桃園市居家護理所一覽表,桃園市政府衛生局,data.gov.tw/node/25971,"""區域(機構所轄區域)機構名稱(機構設立名稱)地址(機構設立地址)負責人(機構設立負責人)連絡電話(機構連絡電話)103年督考成績(103年度本局辦理督導考核之成績)""",http://taoyuan.esritw.opendata.arcgis.com/datasets/699688b307704ec5af073ccb56306c4f_24.csv,其他,UTF-8
+25972,桃園市雨水系統管線,桃園市政府工務局,data.gov.tw/node/25972,"管線編號,管線用途,管線長度",http://taoyuan.esritw.opendata.arcgis.com/datasets/0a5e16abf003415eaa737adf97377d99_7.csv,其他,UTF-8
+25973,桃園市政府社會局各家庭服務中心,桃園市政府社會局,data.gov.tw/node/25973,中心名稱、電話、地址、服務區域、服務內容、服務對象,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=847ed6da-5bf8-410c-93a8-e1ae6e215ff8&rid=cb3ee352-8650-41f0-9884-6c6f5ac3b02e,XLSX,UTF-8
+25974,桃園工廠排放即時監測數據,桃園市政府環境保護局,data.gov.tw/node/25974,"Cno(中文廠名),DP_NO(煙囪編號),ITEM(中文測項),M_year(年),M_month(月),M_day(日),M_time(時),M_Val(測值),Code2(中文狀態)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5a17deb8-eb08-45a0-98e9-199e53ea7a61&rid=28bc4efa-a1c3-4d2e-8705-2010237b82ed,XML,UTF-8
+25975,桃園市警察服務據點,桃園市政府警察局,data.gov.tw/node/25975,單位、地址、電話、經度、緯度,http://taoyuan.esritw.opendata.arcgis.com/datasets/9844b93e91e64a58a00c561ca3cb6146_20.kml,其他,UTF-8
+25976,桃園市公文時效統計表(一般公文),桃園市政府研究發展考核委員會,data.gov.tw/node/25976,"本月份新收件數,截至上月待辦件數,本月創稿數,6日以內辦結(發文統計),7日至30日(含)辦結(發文統計),30日以上辦結(發文統計),存查件數,辦結公文合計,發文平均使用日數,存查平均使用日數,所有公文使用日數,待辦公文件數(待辦公文統計),未逾辦理期限待辦件數(待辦公文統計),,當月已逾辦理期限(待辦公文統計),累計已逾辦理期限件數(待辦公文統計),",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=46f380ab-ffc4-434a-9aad-20d2d2b32255&rid=17a319be-5397-4d9c-ad7a-899f3f7dbe4b,XLSX,Big5
+25977,桃園市公共債務統計表,桃園市政府財政局,data.gov.tw/node/25977,"更新年月,1年以上債務未償餘額,短期債務未償餘額,平均每人負債金額,自償性債務未償餘額(含非營業特種基金)。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=94945c34-cbac-4d22-bec2-c0e027e7499f&rid=32f83756-29c9-4b93-8ed2-f1048c273671,CSV,Big5
+25978,桃園市一般電信系統人手孔,桃園市政府工務局,data.gov.tw/node/25978,"資料庫代碼,開關閥編號,位置X 坐標,位置Y 坐標",http://taoyuan.esritw.opendata.arcgis.com/datasets/6407fdf06a564e70b328b62f5e8dd8f4_12.csv,其他,UTF-8
+25979,桃園市動保園區入園公告,桃園市政府農業局,data.gov.tw/node/25979,入園公告,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7c9eafac-7c26-461c-8b21-6e725957d270&rid=28892ee2-f53f-4687-bb13-022a8cf27422,XLS,UTF-8
+25980,桃園市自來水承裝業業者名單,桃園市政府經濟發展局,data.gov.tw/node/25980,序號 No.、承裝商名稱 Company Name、營業地址 Address、等級 Level、許可證字號 Licence Number,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=34fc32fc-fd25-40a4-8995-991e2fbe5338&rid=3c05f40c-66c0-4984-8387-ae2afc9aea13,CSV,UTF-8
+25981,修惜站(巨大傢俱再生)資訊,桃園市政府環境保護局,data.gov.tw/node/25981,主要欄位以中文名稱：「修惜站名稱」及「簡介」呈現,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=dfc3e308-42fb-454e-ab8b-5eeca4d23462&rid=7fc44fda-5b86-4cf0-a9bc-2f438fbbac29,CSV,UTF-8
+25982,桃園市身心障礙者社區資源及生活重建中心,桃園市政府社會局,data.gov.tw/node/25982,分區中心名稱、負責區域、地址、電話、委託單位、服務對象、服務內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0d42d186-7b2e-42f8-b182-8cbd6c1552a7&rid=29da4b8a-f2aa-4b11-a8a4-c7c603910af3,CSV,UTF-8
+25983,桃園市政府藝文設施管理中心藝文活動,桃園市政府文化局,data.gov.tw/node/25983,日期（活動表演日期）時間（活動表演時間）地點（活動表演地點）活動名稱（活動表演名稱）,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f1121a5a-2b64-4061-9da9-3943e14b37df&rid=13f69bae-2def-4722-826f-b048a8fdeab6,XML,UTF-8
+25984,桃園市視障按摩院所及按摩小站(駐點),桃園市政府勞動局,data.gov.tw/node/25984,名稱.地址.營業時間.電話.負責人,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=db5caa08-3e83-4834-a8bd-7ca690044539&rid=d1ec4f2b-e176-4c29-8a5d-11550a2341fb,CSV,Big5
+25985,桃園市機動車輛分類統計,桃園市政府警察局,data.gov.tw/node/25985,"1.年度：統計機動車輛之年度。
+2.車種：登記之機動車輛種類。
+3.輛數：機動車輛統計數量。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=42858a6b-def9-43fc-ad6a-ca8748909d63&rid=fa30294e-e2bf-4c40-b8fc-7811b7a20ebc,CSV,Big5
+25986,桃園市公園管理,桃園市政府工務局,data.gov.tw/node/25986,項次 公共設施名稱/工程名稱 位置 面積（公頃） 管理單位/施工單位 施工期程,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8710e913-2fc4-4b8f-a5ef-5f6ccaf15b7a&rid=8798b5b0-df3a-4efd-a6f6-d77c66c2afbc,CSV,UTF-8
+25987,桃園市境界,桃園市政府警察局,data.gov.tw/node/25987,"方位別	地點	Latitude	Longitude
+
+ ",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b9374a0b-b661-4237-adf3-e8eed391ddf6&rid=b154c3f6-f3c8-47c3-b502-e6b619ec204b,CSV,Big5
+25988,商業登記異動表,桃園市政府經濟發展局,data.gov.tw/node/25988,"行業別	上月底現有家數	新設立	增資	減資	歇業	遷入	遷出	行業變動	異動調整	本月底現有家數	上月底資本總額	新設立	增資	減資	歇業	遷入	遷出	行業變動	異動調整	本月底資本總額	",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=187fe017-2a86-4776-a873-ce01c54443ef&rid=04894d09-2f87-412d-9010-6b06db16199f,CSV,UTF-8
+25989,桃園市三合一工業園區廠商名錄,桃園市政府經濟發展局,data.gov.tw/node/25989,名稱，電話，傳真，地址，地號，用地總面積，營運狀態,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=16b2899d-8da5-42e2-b24b-95a5ff6bf8cc&rid=9a29c44e-2e9b-4577-aa14-ce929f5ae671,CSV,UTF-8
+25990,電動機車停車場（位）資訊,桃園市政府環境保護局,data.gov.tw/node/25990,"位置、停車格數、使用格數、使用率、費用
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a0ad7ad9-895e-4e37-be2c-02ce0417d841&rid=29fb7e79-f029-4577-952c-4d7361a5780b,CSV,UTF-8
+25991,桃園市公務出國報告,桃園市政府研究發展考核委員會,data.gov.tw/node/25991,提供資料欄位名稱：計畫名稱 、計畫主辦機關、前往地區、出國類別、出國期間、報告日期、主題分類、施政分類、關鍵詞、報告書頁數、報告內容摘要。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0079cd32-4e5f-49ea-97a8-f9ce1aa7333d&rid=0d82bf37-55da-4945-8a8b-66b0e9857c09,XLS,UTF-8
+25992,桃園市房屋街道等級調整率表,桃園市政府地方稅務局,data.gov.tw/node/25992,行政區、里代號、地區範圍、街路名稱、地段率,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=64b5d7be-68c9-4c3b-a1b0-dcf9caa96219&rid=1d1bb12a-c2d5-4acf-9331-6e91ce3e580f,CSV,UTF-8
+25993,105年度桃園市母嬰親善醫療院所名單,桃園市政府衛生局,data.gov.tw/node/25993,母嬰親善醫療院所名單及年限,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=741f7dd1-1aa9-48dc-8acc-b38adf7b947d&rid=32b360b3-390b-4e21-88db-e3bdbca36b5f,CSV,UTF-8
+25994,桃園市發展遲緩兒童通報轉介中心,桃園市政府社會局,data.gov.tw/node/25994,中心名稱、委辦單位、服務區、服務內容、服務對象、服務時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=33106893-0341-48b8-8a02-d54c050c1f22&rid=36eb42b9-dc43-4c75-9882-775727b09b82,CSV,UTF-8
+25995,環境教育機構(桃園市),桃園市政府環境保護局,data.gov.tw/node/25995,環境教育機構聯絡資訊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2333468c-499e-4f78-b2dc-c00ba695cce5&rid=167d5a4e-a0b7-478c-b8b0-ad2a79599164,CSV,UTF-8
+25996,桃園市國民中學學區資訊,桃園市政府教育局,data.gov.tw/node/25996,桃園市國民中學學區(行政區、學校名稱、學區、聯絡電話),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=62ab63ff-ffb3-4b0d-bdf6-51e83bb64705&rid=917b4d57-cebb-453b-b7ae-1f3bd03bf06d,CSV,UTF-8
+25997,桃園市用戶接管普及率及污水處理率統計資料(近三年),桃園市政府水務局,data.gov.tw/node/25997,"1.時間(年月)
+2.公共污水下水道普及率(公共污水納管範圍之用戶接入污水下水道比率)
+3.專用污水下水道普及率(尚未屬於納管範圍內大樓集合式住宅接管比率)
+4.建築物污水設施設置率(尚未屬於納管範圍內家戶設置污水處理設施比率)
+5.污水處理率合計(前三項總計)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=655b0e93-f5fa-489b-8676-5a6fa2442f51&rid=3fe608ea-252c-4b94-8390-5d8095b8b755,CSV,Big5
+25998,桃園市103年採購案件,桃園市政府工務局,data.gov.tw/node/25998,"機關名稱,招標單位,標案案號,標案名稱,決標方式,是否複數決標,開標時間,採購金額,預算金額,是否訂有底價,是否受機關補助,履約地點,是否屬優先採購身心障礙褔利機構產品或勞務,標的分類,招標方式,採購金額級距,洽辦機關名稱,限制性招標之依據法條,投標家數,決標品項數,決標品項名稱,決標日期,底價金額,總決標金額,廠商名稱,是否為得標廠商",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=593dce4c-5ea5-4191-8909-bc6b8fd80691&rid=bed38fc4-9642-4839-8bbf-a7177ffc128a,CSV,UTF-8
+25999,桃園市立案兒童及少年安置及教養機構,桃園市政府社會局,data.gov.tw/node/25999,中心名稱、地址、電話、網址、主要服務事項,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ead94f9a-4a91-4f44-b29e-21aeeb3a985c&rid=12d6a4c0-615a-4c31-b45e-2fab30e5bb17,XLSX,UTF-8
+26000,基金會查詢,桃園市政府文化局,data.gov.tw/node/26000,基金會名稱、地址、電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=86be69e7-558c-4e49-8837-29111729e7ab&rid=9bc63884-cfad-4051-9089-660ca091f21c,CSV,Big5
+26001,文化資產,桃園市政府文化局,data.gov.tw/node/26001,"""類別(文化資產類別)名稱(文化資產名稱)簡介(文化資產介紹)地址(文化資產所在位置)參考網址(文化資產參考網址)""",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8e04a93e-bba9-4337-860b-5216d67f152c&rid=b4791892-2bf4-4967-84a3-764bc1f7df45,CSV,Big5
+26002,桃園市觀光工廠,桃園市政府經濟發展局,data.gov.tw/node/26002,名稱，網址，緣起，理念，參訪訊息，交通建議,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=fef1fad4-2abd-4b71-b623-d4180dbd5695&rid=0dc9ef71-a61a-444f-a613-93a713f605ef,CSV,UTF-8
+26003,桃園市家庭現代化設備普及率,桃園市政府主計處,data.gov.tw/node/26003,End of Year(年底別)、Color TV Sets(彩色電視機(%))、DVD Player(數位影音光碟機(%))、Movies Camera(攝影機(%))、Stereo(音響(%))、Piano(鋼琴(含電子琴)(%))、Digital Camera(數位相機(%))、Video Game(電視遊樂器(%))、Cable TV(MOD Included)(有線電視頻道設備(含多媒體隨選視訊)(%))、Personal Computer(家用電腦(%))、Telephone(電話機(%))、Cell Phone(行動電話(%))、Internet Facility(連網(使用電腦或其他設備)(%))、Sedan Vehicle(汽車(%))、Motorcycle(機車(%))、Electro-magnetic Oven(電磁爐(%))、Air Conditioner(冷暖氣機(%))、Dehumidifier(除濕機(%))、Washing Machine(洗衣機(%))、Drier(烘衣機(%))、Air-clean Machine(空氣清淨機(%))、Water Filter Machine(濾水器(%))、Vacuum Cleaner(吸塵器(%))、Geyser(熱水器(%))、Hot-warm Water Fountain(開飲機(%))、Microwave Oven(微波爐(%))、Newspaper(報紙(%))、Magazine(期刊雜誌(%)),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a3f3dcfb-5ee6-4f69-b9e9-cbee1e1cd699&rid=d1924483-78b5-463f-a1d6-dd7296d76920,CSV,Big5
+26004,桃園市安家實物銀行分行據點,桃園市政府社會局,data.gov.tw/node/26004,區域別、據點名稱、地址、電話、開放物資領取時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1b46c6e6-c206-4688-a55f-1ea5861a84ba&rid=723d4c09-e1ce-4c20-85ea-c52fa36ecf75,CSV,UTF-8
+26005,桃園市污水系統管線,桃園市政府工務局,data.gov.tw/node/26005,"管線編號,管線用途,管線長度",http://taoyuan.esritw.opendata.arcgis.com/datasets/7a5ef0ae35ba4e6eba8e332f7fd0d80a_9.csv,其他,UTF-8
+26006,桃園市綠色商店,桃園市政府環境保護局,data.gov.tw/node/26006,"""所謂綠色商品是指產品在原料的取得、產品的製造、銷售、使用及廢棄處理過程中，具有可回收、低污染、省資源等功能或理念。販賣這些綠色商品且在中華民國內合法登記並領有營利事業登記證之商店即可經由申請成為「綠色商店」。""",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2b969769-8d3a-484a-84c3-d6bddb9d879a&rid=6c10a53b-aa70-410b-a6ab-a9b1763bf0f2,CSV,UTF-8
+26007,桃園青年壯遊點,桃園市政府青年事務局,data.gov.tw/node/26007,"""1.壯遊點2.體驗學習特色3.營運單位4.諮詢點5.聯絡電話6.服務時間""",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=704357ea-cde2-48b8-9317-bd195107d6fe&rid=6d5229f0-78b2-4627-839b-5af3a9361612,CSV,UTF-8
+26008,桃園市環保寺廟,桃園市政府環境保護局,data.gov.tw/node/26008,本市推動環保寺廟認證自101年至103年以來榮獲環保寺廟名單,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c139a76f-c941-4aae-9b0e-e1d100daf970&rid=ecc82e0b-918f-440b-99b2-07187ba4a2b3,CSV,UTF-8
+26009,桃園市合法保全業者資料,桃園市政府警察局,data.gov.tw/node/26009,公司名稱、郵遞區號、公司地址、公司電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b76df619-02de-45c0-8647-a884e814f3de&rid=7de3dbfa-70ce-46b5-b694-b34da23e1272,CSV,UTF-8
+26010,立案補習班資料,桃園市政府教育局,data.gov.tw/node/26010,序號、補習班網頁連結、班址、電話、立案文號、立案日期,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d8ab85ee-9f1c-4776-8c5c-8ece4fab2c1e&rid=33460ef3-be1f-4531-8d23-7347b4d6af5f,CSV,UTF-8
+26011,桃園市立案工會名冊,桃園市政府勞動局,data.gov.tw/node/26011,工會名稱、郵遞區號、會址、理事長姓名、聯絡電話、傳真,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=88b20050-5bb2-4286-a54c-5dfc2480005a&rid=9dd95be1-bc2d-41a6-bb09-a4f75211cf14,XLS,UTF-8
+26012,桃園市拖吊場位置,桃園市政府警察局,data.gov.tw/node/26012,拖吊場名稱、地址、電話、服務時間,http://taoyuan.esritw.opendata.arcgis.com/datasets/1c5968edbfa1430b9515630d1a290d1a_22.kml,其他,UTF-8
+26013,桃園市配電設備,桃園市政府工務局,data.gov.tw/node/26013,"資料庫代碼,開關閥編號,位置X 坐標,位置Y 坐標",http://taoyuan.esritw.opendata.arcgis.com/datasets/8cdf73a36c9b4319a0e769b0960008be_4.csv,其他,UTF-8
+26014,桃園市中央廣場、棒球場、射箭場及慢速壘球場場地使用收費標準表,桃園市政府體育局,data.gov.tw/node/26014,場地 收費項目 收費內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1f3aaa65-e13f-4280-abf0-82b5338b5311&rid=1d5d7ad5-4d9a-4444-b788-e975a7255e05,CSV,UTF-8
+26015,車輛偵測器 動態資料,桃園市政府交通局,data.gov.tw/node/26015,UpdateTime(資料更新時間)、DeviceID(設備編號)、TimeInterval(時間週期)、TotalOfLane(總車道數)、LaneData(車道資料)、LaneNo(車道編號)、Volume(車流量)、AvgSpeed(平均車速)、AvgOccupancy(平均佔有率)、VehicleType(車種)、VolumeS(小型車流量)、VolumeB(大型車流量)、VolumeM(機車流量),http://61.60.10.87/javaAndXml/xmldata/opendata/vd_value.xml,其他,UTF-8
+26016,桃園市醫事人員執業人數,桃園市政府衛生局,data.gov.tw/node/26016,桃園市各區醫事人員執業狀況,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3200c9e4-1aba-4d93-b608-9c59fafa58da&rid=70235332-c9a3-4253-a660-8f082620fa58,CSV,Big5
+26017,桃園市福利補助申請資格資訊,桃園市政府研究發展考核委員會,data.gov.tw/node/26017,"項目代碼(AP0303_PKID)政策名稱(AP0303_NAME),設籍時間(AP0303_WELFAREFREGI=Y AP0303_WELFAREFLIMIT ),身份別(AP0303D8_C0005CODE1),身份次類別(AP0303D8_C0005CODE2),年齡條件(AP0303D8_AGES ~AP0303D8_AGEE),問題別(AP0303D8_C0006CODE1)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=366c47d5-fa52-449c-89a5-230832ff7524&rid=95d81554-b8c3-426c-9d41-593f01b67477,XML,UTF-8
+26018,桃園市客家文化館周邊廣場收費標準表,桃園市政府客家事務局,data.gov.tw/node/26018,"場地別 ，坪數，時間，使用費平時，使用費週末假日，夜間照明費，（分時段），清潔費（分時段），場地範圍，保證金
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e2277874-2e3e-4170-93bb-93fa490566ef&rid=15704e5c-4365-402a-9fea-1c3f542dbd0a,CSV,UTF-8
+26019,桃園市菸酒製造業者資料一覽表,桃園市政府財政局,data.gov.tw/node/26019,製造業者名稱、統一編號、負責人、總機構所在地、許可執照號碼。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e79ec516-a3bd-48ff-9e61-1b4fd7c3425d&rid=a6a3d04e-03c6-4ea0-86f0-d10245bed4e6,CSV,Big5
+26020,資訊可變標誌 設備資訊,桃園市政府交通局,data.gov.tw/node/26020,UpdateTime(資料更新時間)、DeviceId(設備編號)、DeviceKind(設備種類)、Attribute(設備屬性)、Location(設備位置描述)、Direction(顯示方向)、WgsX(WGS座標系統X座標)、WgsY(WGS座標系統Y座標),http://61.60.10.87/javaAndXml/xmldata/opendata/avi_pair.xml,其他,UTF-8
+26021,桃園市自動體外心臟電擊器(AED)資源統計,桃園市政府衛生局,data.gov.tw/node/26021,心臟疾病所造成的死亡，許多是以突發性心跳停止的形式發生，而電擊正是可以使心臟恢復正常心跳的方式。文獻指出，因突發性心律不整而導致心跳停止的個案，如能在一分鐘內給予電擊，急救成功率可高達90％，每延遲一分鐘，成功率將遞減7-10％。傷病患的存活是和時間和死神的賽跑，如果將AED設置於人潮眾多的公共場所，供民眾搶救時使用，可降低該類傷病患到院前死亡率。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6ea07bae-219d-4b6b-b8ce-5a6eafc21616&rid=ebc70777-f1d7-42f6-b4f0-6626ab790091,CSV,UTF-8
+26022,(婦幼)桃園市各區母乳支持團體,桃園市政府衛生局,data.gov.tw/node/26022,地點，課程日期，課程主題，時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=163da6c5-2ec1-47ec-8a4c-79255d83e394&rid=fd21c25e-dafd-4083-9963-1314c21363d8,DOCX,UTF-8
+26023,桃園市私立兒童課後照顧服務中心,桃園市政府教育局,data.gov.tw/node/26023,中心資訊(合法立案兒童課後照顧服務中心),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0cb59dd1-1fef-4eb6-af1f-85f40ba9ef41&rid=f1605736-4582-4d55-b4b8-b1101df581ef,CSV,UTF-8
+26024,桃園市政府家庭暴力暨性侵害防治中心,桃園市政府社會局,data.gov.tw/node/26024,中心名稱、地址、電話、行政傳真、通報單傳真、服務時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=26e9d4fe-538e-4a78-9622-936475012522&rid=d8affb74-8d19-4060-a9f4-68b71c4ecde9,CSV,UTF-8
+26025,104年桃園市土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26025,"市,行政區,段小段(地段),地號,當期公告現值(元/平方公尺),公告地價(元/平方公尺)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=91005cb6-a77c-4eb0-b26e-a9711ec1a2a4&rid=a474bca6-4fd7-41da-8c1e-4af797f53b30,CSV,UTF-8
+26026,桃園市104學年度符合補助要件幼兒園清冊,桃園市政府教育局,data.gov.tw/node/26026,桃園市104學年度符合補助要件幼兒園清冊(可查詢符合補助要件幼兒園名稱、電話及地址),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3b81123c-bd0d-48df-bd56-6cae06cf66d7&rid=826acab6-577f-4b0a-8c15-878f40eeb151,CSV,Big5
+26027,桃園市政府警察局轄區現住人口年齡分配,桃園市政府警察局,data.gov.tw/node/26027,"年度	轄區	年齡	性別	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3f6675d7-06a1-48cc-911c-e6dc919daf56&rid=b77e2476-e7fb-44dd-ae9a-695061f82a1d,CSV,Big5
+26028,國家級濕地許厝港濕地,桃園市政府農業局,data.gov.tw/node/26028,核定面積(公頃),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c6c98715-8be2-4173-890a-1e9041d9d2ce&rid=cbca49b4-b330-440d-b018-059fe6e9b0fa,CSV,UTF-8
+26029,桃園市路燈,桃園市政府工務局,data.gov.tw/node/26029,"資料庫代碼,開關閥編號,位置X 坐標,位置Y 坐標",http://taoyuan.esritw.opendata.arcgis.com/datasets/0f664d219ac24632a378e60019534581_0.csv,其他,UTF-8
+26030,桃園市長者裝置活動假牙合約醫療院所,桃園市政府衛生局,data.gov.tw/node/26030,本市可補助老人裝置假牙之合約院所名單，含轄區、地址、連絡電話之資訊。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c0c21e97-fc4a-4b65-aa31-0550b4a007b6&rid=74b89f88-143a-4ed0-a223-25a564a53205,CSV,UTF-8
+26031,桃園市精神復健機構暨精神護理機構,桃園市政府衛生局,data.gov.tw/node/26031,待補,http://taoyuan.esritw.opendata.arcgis.com/datasets/8179992ae1724057b11afd9675e46258_27.csv,其他,UTF-8
+26032,桃園市福利補助資訊,桃園市政府研究發展考核委員會,data.gov.tw/node/26032,"項目代碼(AP0303_PKID)
+政策名稱(AP0303_NAME),
+所屬課室(AP0303D7_UNITFCODE, AP0303D7_UNITSCODE),
+政策說明(AP0303_WELFAREPLOICY),
+申請資格(AP0303_WELFAREQUAL),
+申辦流程網址(AP0303)
+申辦地點(AP0303_WELFAREPLACE),
+應備證件(AP0303D2),
+案件書表下載網址(AP0303D4),
+聯絡窗口(包含所屬局室 所屬課室 承辦人員 聯絡電話 電子郵件 傳真電話)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b20a8017-2736-448e-86e4-4032211073d7&rid=d5d9deed-89db-419c-ad5d-538709caf24a,XML,UTF-8
+26033,ESCO（能源技術服務業）資訊,桃園市政府環境保護局,data.gov.tw/node/26033,"公司名稱、姓名、電話、手機、e-mail、地址、類別
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ee2cb68e-979a-4db1-b199-db50fcee6c36&rid=eebe319e-367f-4cc4-b2fa-b559caf3fb90,CSV,UTF-8
+26034,桃園市合法燃氣熱水器承裝業清冊,桃園市政府消防局,data.gov.tw/node/26034,包含承裝業名稱、地址、電話、負責人姓名等資料,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9ddc2998-b945-47b7-880d-859a06086e13&rid=aac1bb95-b6d9-4917-826f-b4f15b6b1c17,CSV,UTF-8
+26035,桃園市會議室、簡報室及宿舍收費標準表,桃園市政府體育局,data.gov.tw/node/26035,場地、收費項目、收費內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=086b69db-1132-416c-a546-8480fbdef2cd&rid=e3a185ea-f2df-4955-ba6d-da7b249081ad,CSV,UTF-8
+26036,桃園市98-104年復查決定書處理資料表,桃園市政府地方稅務局,data.gov.tw/node/26036,文號、案名、復查決定,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=472de2c7-f7c9-4e8d-b024-5a18ab526839&rid=0fdda6c6-f146-486c-8fa0-782d5c64ca49,CSV,UTF-8
+26037,桃園市房屋地段等級表,桃園市政府地方稅務局,data.gov.tw/node/26037,等級、第一級、第二級、第三級、第四級、第五級、第六級、第七級、第八級、第九級、第十級、第十一級、調整率,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6c81cc24-4d81-4964-893d-2b89b216cfbc&rid=5320b117-edfe-4743-a491-9d1a46502ffa,CSV,UTF-8
+26038,桃園市官網徵才資訊,桃園市政府研究發展考核委員會,data.gov.tw/node/26038,發布單位、發布日期、截止日期、徵才機關、名額、性別、地址、工作地點、工作地點、有效日期、資格條件、工作項目、聯絡資訊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=48d8f589-5980-427d-b086-f360e32369b9&rid=c900ce98-0089-47cc-b044-ce87235078b4,JSON,UTF-8
+26039,桃姊妹格子舖服務據點,桃園市政府社會局,data.gov.tw/node/26039,據點名稱、地址、營業時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2eb9058b-b937-4262-82a0-e69f6282ac63&rid=177bb3c1-d744-4a83-84ed-453888969252,CSV,UTF-8
+26040,新訓單位駐地聯絡清冊,桃園市政府民政局,data.gov.tw/node/26040,"單位番號,駐地,郵政信箱,總機外線",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=93e26261-92b8-46cf-a8fa-1ae9028ceaa4&rid=09523532-6ca1-4891-872f-4116d0b9dd74,CSV,UTF-8
+26041,旅行時間偵測站 設備資訊,桃園市政府交通局,data.gov.tw/node/26041,UpdateTime(資料更新時間)、DeviceId(設備編號)、DeviceKind(設備種類)、Attribute(設備屬性)、Location(設備位置描述)、WgsX(WGS座標系統X座標)、WgsY(WGS座標系統Y座標),http://61.60.10.87/javaAndXml/xmldata/opendata/avi_info.xml,其他,UTF-8
+26042,桃園市客家文化館演藝廳及視聽簡報室收費標準表,桃園市政府客家事務局,data.gov.tw/node/26042,"場地別，時間，使用費平時，使用費，週末假日，	空調費，	清潔費，鋼琴	，音響反射板，單槍投影設備，外加接電費，保證金
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=513d9a7d-66eb-4e38-9269-2c0ab76b93cf&rid=7a898e56-bcda-40f6-a24b-18e43999d107,CSV,UTF-8
+26043,桃園市地方文化館,桃園市政府文化局,data.gov.tw/node/26043,館舍簡介、所在縣市、開放時間、館舍地址、連絡方式、文化局對應頁面連結,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=465f945d-6307-4db0-8258-3c053b0003b9&rid=0eeac96e-8298-4e53-9616-7e299268beee,CSV,UTF-8
+26044,桃園市現有雨水下水道系統建設分佈位置,桃園市政府水務局,data.gov.tw/node/26044,KMZ資料,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8fb9680f-e926-45e8-8da9-c4ae63f08358&rid=229e0afd-9fb0-462c-92bd-90525cc482ac,KMZ,Big5
+26045,桃園市交通事故-一級發布區,桃園市政府警察局,data.gov.tw/node/26045,事故時間、事故地點,http://taoyuan.esritw.opendata.arcgis.com/datasets/e21ccae9fcc7491893a56d5c0d392d19_31.csv,其他,UTF-8
+26046,桃園市刑事案件,桃園市政府警察局,data.gov.tw/node/26046,"年度	地區	案件種類	發生數	破獲數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00b58536-5d2c-4ec7-a7b2-227aedfffc86&rid=c515b11b-08c5-49a1-9904-d9251d68437f,CSV,Big5
+26047,桃園市嫌疑犯人數按年齡組別,桃園市政府警察局,data.gov.tw/node/26047,"年度	年齡	性別	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=489e5921-bbb4-489a-b3bc-be68c5666504&rid=8c5c6b3d-4b55-485b-940e-5ada1627cd3d,CSV,Big5
+26048,桃園市國民小學學區資訊,桃園市政府教育局,data.gov.tw/node/26048,桃園市國民小學學區(行政區、學校名稱、學區、聯絡電話),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=dc7bf1b9-fa11-4bf3-8d89-c917c07d97c0&rid=f858cc3d-d2d7-4b8c-98e9-24303ddaa512,CSV,UTF-8
+26049,職業安全衛生教育訓練機構,桃園市政府勞動局,data.gov.tw/node/26049,訓練單位名稱、地址、電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4f75303c-7d0c-4aaf-bba0-7413e684283d&rid=1ba02762-7601-47c9-9cb2-ac400e218ce1,CSV,UTF-8
+26050,桃園市桃園勞工育樂中心,桃園市政府勞動局,data.gov.tw/node/26050,"會議室,價目,使用時間,投影機租借",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=757c82b0-6360-4d60-a45f-1f3e43a73e5e&rid=47731d26-01c7-4750-b796-7f8b624b74eb,CSV,UTF-8
+26051,桃園市工商科技園區,桃園市政府經濟發展局,data.gov.tw/node/26051,設廠概況，設立緣起，地理位置，聯絡方式,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=fa368513-9d4a-43a9-8f0a-f9cfc269ff71&rid=06a391f6-b41d-487b-b2f5-72028cdad472,CSV,UTF-8
+26052,桃園市都市計畫委員會,桃園市政府都市發展局,data.gov.tw/node/26052,職稱、姓名、性別、現職/經歷、備註,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8bc68e19-91c2-44ce-8ddd-c1d8baff2e50&rid=684f56b5-084d-4b4c-bc1a-682ca61bf19c,CSV,UTF-8
+26053,桃園市政府警察局轄區現住人口、性別比例及人口密度,桃園市政府警察局,data.gov.tw/node/26053,"年度	區域	土地面積	村里數	鄰數	戶數	男	女	戶量	性比例	人口密度
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b60a1da3-568b-4be2-8412-42618dd03687&rid=a3e10e44-f877-48fe-9e2b-3a4d262d601f,CSV,Big5
+26054,桃園市嫌疑犯人數按教育程度別,桃園市政府警察局,data.gov.tw/node/26054,"年度	教育程度	性別	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d1940968-55c4-43bf-9c5e-2a72ad9f5a5c&rid=50973538-c93d-4aa3-9717-6a32cdb6bc33,CSV,Big5
+26056,104年桃園市水質檢驗報告,桃園市政府衛生局,data.gov.tw/node/26056,"""1. 編號：檢體編號2. 區：行政區3. 市招：招牌名稱4. 場所：營業設施之類型，例如泳池、三溫暖、水療池、兒童池5. PH值合格：酸鹼值落於6.5至8之間6. PH值不合格：酸鹼值小於6.5或是大於87. 自由有效餘氯合格：水中自由有效餘氯量落於1.0至3.0ppm8. 自由有效餘氯不合格：水中自由有效餘氯量小於1.0或大於3.0ppm9. 生菌數合格：每毫升低於500CFU10. 生菌數不合格：每毫升高於500CFU11. 大腸桿菌合格：每100毫升未檢出大腸桿菌，呈陰性12. 大腸桿菌不合格：每100毫升檢出大腸桿菌，呈陽性13. 抽驗日期：實際抽驗日""",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ff01dc8d-89f2-4d62-8d26-911a7d856738&rid=ad3b3780-be50-4acf-9e21-a04d629d4a8c,CSV,UTF-8
+26057,桃園市政府藝文設施管理中心民眾失物招領,桃園市政府文化局,data.gov.tw/node/26057,編號（遺失物品流水號）失物名稱（遺失物品名稱）拾獲時間（遺失物品被拾獲時間）拾獲地點（遺失物被拾獲的地點）,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c1d0aad0-0550-491f-a8ab-87337d9a097e&rid=448f71af-20e1-4b49-9ce1-2992ada27eb2,CSV,UTF-8
+26058,桃園市平均每戶家庭收支-支出 (91~97年),桃園市政府主計處,data.gov.tw/node/26058,Year(年別)、Current Expenditures(經常性支出總計(元))、Consumption Expenditures(消費支出(元))、Nonconsupton Expenditures(非消費支出(元))、Saving(儲蓄(元)),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0350cc47-f07b-41ae-bca0-6d519dc08bbc&rid=e5a8e31e-6af4-4c6c-b36b-bedb6ab9127c,CSV,Big5
+26059,桃園市勞工健檢指定醫療機構,桃園市政府衛生局,data.gov.tw/node/26059,序號、醫院名稱、勞健檢聯絡人、連絡電話、指定類別、地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=648ce9e9-5e9b-4028-b21e-35df69a02139&rid=d9c1d0ce-fe17-4d77-bcb5-a0903320351c,CSV,UTF-8
+26060,桃園市消防局消防分隊通訊錄,桃園市政府消防局,data.gov.tw/node/26060,中文欄位(單位名稱、地址、電話、傳真),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=11f82b77-3737-459d-8ca1-84ae5519dbf4&rid=f881bd34-84e8-4d0e-b2a4-e7f691667657,CSV,UTF-8
+26061,桃園市職災慰問金發放統計表,桃園市政府勞動局,data.gov.tw/node/26061,"年度,原因,補助人次,補助金額,備註",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a32957db-341b-46c8-9924-bd46103deaf9&rid=c72264bb-89a3-480c-960e-c81f6bc49041,CSV,UTF-8
+26062,桃園市污水系統人手孔,桃園市政府工務局,data.gov.tw/node/26062,"資料庫代碼,開關閥編號,位置X 坐標,位置Y 坐標",http://taoyuan.esritw.opendata.arcgis.com/datasets/6b33d1f92404405f935edd9100cb39e9_10.csv,其他,UTF-8
+26063,旅行時間偵測站 站間平均行駛車速,桃園市政府交通局,data.gov.tw/node/26063,UpdateTime(資料更新時間)、DeviceFrom(上游偵測站編號)、DeviceTo(下游偵測編號)、VehicleType(車種)、Speed(平均車速)、Volume(流量),http://61.60.10.87/javaAndXml/xmldata/opendata/avi_pair.xml,其他,UTF-8
+26064,桃園市公用天然氣導管承裝業業者名單,桃園市政府經濟發展局,data.gov.tw/node/26064,"編號 No.,公司名稱 Company Name,公司地址 Address,等級 Level,登記證字號 License Number",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=bc780f77-8195-4101-81b6-e0fed88b3716&rid=871b521f-3797-40ff-8c6d-9f81b6db2d47,CSV,UTF-8
+26065,桃園市橋梁資訊,桃園市政府工務局,data.gov.tw/node/26065,橋梁名稱、橋梁位置、行政區,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=42b5fb3a-da25-4a22-84ec-6d1cf1bae769&rid=a66e2e0c-781b-4db6-a81f-7db1bc570bdd,CSV,UTF-8
+26066,桃園市A1及A2類道路交通事故件數－按肇事場所別,桃園市政府警察局,data.gov.tw/node/26066,"年度	轄區	肇事場所	件數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=aeb5d36a-e429-4651-bcac-3e2e5f3ac3eb&rid=59d3afd4-eb3e-47ba-aa9d-ec01381d0ec4,CSV,Big5
+26067,車輛偵測器 設備資訊,桃園市政府交通局,data.gov.tw/node/26067,UpdateTime(資料更新時間)、DeviceId(設備編號)、DeviceKind(設備種類)、Attribute(設備屬性)、Location(設備位置描述)、SectionID(所在路段編號)、Direction(偵測方向)、WgsX(WGS座標系統X座標)、WgsY(WGS座標系統Y座標),http://61.60.10.87/javaAndXml/xmldata/opendata/vd_info.xml,其他,UTF-8
+26068,桃園市婦幼館,桃園市政府社會局,data.gov.tw/node/26068,婦幼館名稱、地址、借館聯絡人、社會課電話、館舍電話、傳真、館舍運用情形,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3ef8e8f0-9ed9-413f-aab1-f5e97d0987d0&rid=bc1ec890-c9bb-460f-9170-9d43fcafb14a,CSV,UTF-8
+26069,桃園市人行道管理,桃園市政府工務局,data.gov.tw/node/26069,"項次	公共設施名稱	位置	面積(平方公尺)	管理單位	施工時程",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1de35418-b949-4ace-89a2-cb92714be3eb&rid=6a4126e6-e1ee-43e2-b771-e49f6a532c45,CSV,UTF-8
+26070,桃園市政府警察局公務人員－按學歷別,桃園市政府警察局,data.gov.tw/node/26070,"年度	學歷	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3daf6e88-ac66-4cac-91a1-cdd8d0b60218&rid=8f23a876-3ba8-4659-abf3-d17f5fda7bcd,CSV,Big5
+26071,桃園市政府警察局公務人員－按性別及年齡別,桃園市政府警察局,data.gov.tw/node/26071,"年度	性別	年齡	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9cf53e2a-a87c-40be-98d3-1dd9cf1a8546&rid=869b8391-273c-4ec7-b345-2beea6bb7f91,CSV,Big5
+26072,桃園市政府免費法律諮詢服務時間及地點,桃園市政府法務局,data.gov.tw/node/26072,服務處所、服務時間、聯絡電話、地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=de252256-d928-4c3c-92e2-e89091610e6f&rid=8a719319-8b83-44dc-b7bb-fdc468d069cf,CSV,UTF-8
+26073,公車動態,桃園市政府交通局,data.gov.tw/node/26073,業者資料、路線站點資料、公車即時動態,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b3abedf0-aeae-4523-a804-6e807cbad589&rid=bf55b21a-2b7c-4ede-8048-f75420344aed,XML,UTF-8
+26074,桃園市狹小巷弄列管清冊,桃園市政府消防局,data.gov.tw/node/26074,序號、行政區、狹小巷弄地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=65c58683-220f-4075-a555-f80c7e580e5e&rid=f8924d17-a2a7-4079-8f36-0d57c89019d6,CSV,UTF-8
+26075,桃園市內公有零售市場,桃園市政府經濟發展局,data.gov.tw/node/26075,"各區	市場名稱	管理員聯絡電話	地址	總攤數	市場介紹	特色說明	休市日",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=88e2df55-cdd1-4fe6-b881-8c511839fca3&rid=b4f12d54-b102-4757-957f-fedd555e1a07,CSV,UTF-8
+26076,桃園市環境教育設施場所,桃園市政府環境保護局,data.gov.tw/node/26076,序號(場域編號，按照通過認證時間排序)、設施場所名稱(場域名稱)、地址(場域座落位置)、連絡電話(聯繫場域方式)、簡介(場域的簡單介紹)、網址(本市環境教育學習網網址),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=870ac05a-319c-4b58-8b23-fa4f18e8233e&rid=36fc6bae-f183-4291-8158-4745700dadd7,CSV,UTF-8
+26077,桃園市水務局管轄滯洪設統計資料,桃園市政府水務局,data.gov.tw/node/26077,"編號,區別,地點(滯洪池座標),面積",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3598ac2c-8e6f-448b-a175-23cc49d00bf4&rid=df6b76f8-c939-425d-a36a-5b82f225d7cc,CSV,UTF-8
+26078,104年度桃園市政府針對地籍清理之未能釐清權屬土地標售開標紀錄。,桃園市政府地政局,data.gov.tw/node/26078,"標號,行政區,段,小段,地/建號,面積,使用分區/使用分區類別,權利範圍分子,權利範圍分母,登記名義人,他項權利人姓名或名稱,他項權利種類,標售總底價,總投標金額(元),投標人,備註",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d2d37cb2-d5f5-4e48-ae2f-ae980326bc42&rid=5d87fa0a-8284-46e0-af97-b1d83d91e543,CSV,UTF-8
+26079,桃園市身心障礙者醫療輔具評估機構一覽表,桃園市政府衛生局,data.gov.tw/node/26079,"評估項目(法定提供補助15項目)
+機構名稱(12家機構可評估醫療輔具報告書)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=35eb07a5-487c-410c-bfcc-34589ce19534&rid=dc9005bf-fede-496a-b907-b6d145d95741,CSV,UTF-8
+26080,桃園市交通事故-最小統計區,桃園市政府警察局,data.gov.tw/node/26080,事故時間、事故地點,http://taoyuan.esritw.opendata.arcgis.com/datasets/4f021335490e49d9b4fa535fcb2749d5_33.csv,其他,UTF-8
+26081,桃園市調解業務民間團體名冊,桃園市政府勞動局,data.gov.tw/node/26081,"編號,名稱,電話,傳真,E-mail,地址,理事長,立案時間,備註",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b98f17e8-eb95-404a-b013-9d6509a839d7&rid=19257c9d-9313-40bf-a967-5dc34c1f7a37,CSV,UTF-8
+26082,桃園國際棒球場及青埔運動公園收費標準表,桃園市政府體育局,data.gov.tw/node/26082,場地 收費項目 收費內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=fd70bee5-9d1b-4250-9039-318c6e4eca88&rid=b7f05534-3ff3-4a19-93d8-933dbaffebab,CSV,UTF-8
+26083,桃園市官網最新消息,桃園市政府研究發展考核委員會,data.gov.tw/node/26083,發布單位、發布日期、截止日期、提供單位、詳細內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=81ac9cd3-bce7-4e62-8134-ac89dc54ef3e&rid=73644460-c76f-4afa-aa30-064bfef291d8,JSON,UTF-8
+26084,桃園市用電設備檢驗維護業,桃園市政府經濟發展局,data.gov.tw/node/26084,"編號 No.,公司名稱 Company Name,公司地址 Address,登記證字號 Licence Number",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ac536e57-519f-4d67-a638-a1fd41b4d015&rid=90e72112-491b-4d97-a2c1-859adc4c5474,CSV,UTF-8
+26085,桃園市有財產統計表,桃園市政府財政局,data.gov.tw/node/26085,"項目(土地,土地改良物,房屋建築及設備,機械及設備,交通及運輸設備,雜項設備,有價證券,權利),筆數,面積,金額",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2608f681-5ddf-4657-bcbb-445db26781a0&rid=540527bc-a3be-4d5a-b4a8-c1c982d8ee77,CSV,UTF-8
+26086,桃園市原住民族公共服務資源,桃園市政府原住民族行政局,data.gov.tw/node/26086,編號市區別地址聯絡資訊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5eb99b91-2361-46af-bbd9-4070ecca1d88&rid=aeecaea6-9ab0-4ceb-82e2-d6ce625ab873,CSV,UTF-8
+26087,桃園市GMP動物用藥廠名冊,桃園市政府農業局,data.gov.tw/node/26087,藥廠名稱、地址、電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=579f5e71-4f67-4d5b-b0a5-a46b58ad4df3&rid=d9ad8d26-9920-4e38-b5b0-509144507326,CSV,UTF-8
+26088,桃園市各役政單位聯絡清冊,桃園市政府民政局,data.gov.tw/node/26088,單位，地址，聯絡電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=49ba7319-3d1e-4f42-8ab9-d9df4e44589e&rid=0b105e3b-3740-4e2a-842c-d07cab9e0137,CSV,UTF-8
+26089,桃園市免費勞工法律諮詢,桃園市政府勞動局,data.gov.tw/node/26089,"編號,諮詢地點,服務時段,聯絡電話,備註",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e4d890e9-ca68-4ef1-ad41-bdaefea2a827&rid=c061c88e-0e3a-46e1-84e0-7b9c4dbc1183,CSV,UTF-8
+26090,桃園市各級農會通訊資料,桃園市政府農業局,data.gov.tw/node/26090,各級農會名稱、電話、地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=102a51e8-f4ff-47ab-b32b-48b7802214d7&rid=4e4db78e-9f80-4990-9f87-0da0f9c4902a,CSV,Big5
+26091,桃園市藥商家數,桃園市政府衛生局,data.gov.tw/node/26091,藥局 販賣業西藥商 製造業西藥商 販賣業中藥商 製造業中藥商 販賣業醫療器材商 製造業醫療器材商,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f752ce71-5939-4798-8c9b-d9351a9f3921&rid=e6423ef9-9f4d-4e73-8558-f9ead1ab608b,CSV,UTF-8
+26092,桃園市身心障礙類別、向度之鑑定醫院名冊,桃園市政府衛生局,data.gov.tw/node/26092,"""新制鑑定類別及向度(新制鑑定類別及向度)
+相關疾病類別(相關疾病類別)
+鑑定機構(17家鑑定機構)""",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=55a4a137-f40b-40ae-b960-fc0bff31db25&rid=27993028-e4e4-4042-8c70-24387f51b2eb,CSV,UTF-8
+26093,桃園市寬頻管道人手孔,桃園市政府工務局,data.gov.tw/node/26093,"資料庫代碼,開關閥編號,位置X 坐標,位置Y 坐標",http://taoyuan.esritw.opendata.arcgis.com/datasets/3a982c63773848fcbfcca61c5db8ab81_5.csv,其他,UTF-8
+26094,財團法人教育基金會清冊,桃園市政府教育局,data.gov.tw/node/26094,基金會為桃園市財團法人教育是務基金會類似屬公共資訊及公益性質。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=43a36ed0-0fcf-4cf1-94af-f1a062360a44&rid=f841eef3-5a14-448e-91d9-ac5933cf1e42,CSV,UTF-8
+26095,桃園市政府川堂及府前廣場場地資訊,桃園市政府秘書處,data.gov.tw/node/26095,地點、面積、開放時間、開放借用對象、地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=36fc550f-2613-409d-9282-bc5ce6186718&rid=827bd4fa-65f2-46b8-b435-d08327307970,CSV,UTF-8
+26096,桃園市平均每戶家庭收支(98~103年),桃園市政府主計處,data.gov.tw/node/26096,"fieldDescription"":""Year(年別)、Receipts(所得收入(元))、Consumption Expenditures(消費支出(元))、Nonconsupton Expenditures(非消費支出(元))、Disposable Income(可支配所得(元))、Saving(儲蓄(元))、Current Receipts(所得總額(元))",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ad64dc11-e0b7-40d2-ad19-19a7eb0d3446&rid=b1e48168-5ace-4bd9-9dfb-55cf274dc0b2,CSV,UTF-8
+26097,桃園市查獲經濟案件,桃園市政府警察局,data.gov.tw/node/26097,"時間	案類	種類	件數	人數	金額
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8643d062-3909-4385-b3a9-315b7a1767a5&rid=f9fb3147-abea-442c-a732-552601c9b3fa,CSV,Big5
+26098,桃園市嫌疑犯人數按職業別,桃園市政府警察局,data.gov.tw/node/26098,"年度	職業別	性別	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=84f016e1-5224-448a-871d-6a8efec75f6b&rid=b7ec0d40-0972-4a8a-9ef8-caa81989e5e5,CSV,Big5
+26099,桃園市身心障礙者庇護工場,桃園市政府勞動局,data.gov.tw/node/26099,庇護工場名稱.辦理單位.營業項目.聯絡方式,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3c20c612-3159-4219-9868-be44a7712fee&rid=0544e8d9-ee61-4e48-8d2d-59b0d31643e1,CSV,UTF-8
+26100,桃園市違反社會秩序維護法案件,桃園市政府警察局,data.gov.tw/node/26100,"年度	案件種類	件數	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ba433e77-3031-40aa-8617-7895f7ef6dbc&rid=4f106d1a-2311-4377-a42e-40704982a57d,CSV,Big5
+26101,桃園市政府警察局執行家戶訪查發現及處理戶口(籍)案件成果,桃園市政府警察局,data.gov.tw/node/26101,"年度	種類	件數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8c5fab1f-fdbe-4b29-bcde-7de8ba86aa9f&rid=a4b690d4-556d-4f87-becd-231e964ede1c,CSV,Big5
+26102,路邊停車資訊,桃園市政府交通局,data.gov.tw/node/26102,rd_name(路段名稱)、rd_begin(路段起點)、rd_end(路段迄點)、rd_count(路段格位數)、use_cnt(已停格位數)、last_time(最近更新時間)、tp_name(路段收費標準),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6ba44925-43ed-4bc7-8243-c22ab10ca4ff&rid=27d2edc9-890e-4a42-bcae-6ba78dd3c331,XML,UTF-8
+26103,桃園市就業服務據點,桃園市政府勞動局,data.gov.tw/node/26103,設置地點，地址，聯絡電話，營業時間，簡介,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=34ac8002-7a88-4a20-b443-ab3669505973&rid=52e04bd3-59c2-46a2-8957-148e68a0da78,CSV,UTF-8
+26104,桃園市早期療育社區資源中心,桃園市政府社會局,data.gov.tw/node/26104,中心名稱、委辦單位、服務區、服務內容、服務對象、服務時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=01a08d76-77dc-433f-906c-1c6d960881c0&rid=5e37b1bd-71ae-4d33-984d-40c06ed342e7,CSV,UTF-8
+26105,環境音量監測,桃園市政府環境保護局,data.gov.tw/node/26105,監測地點、管制區,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=fe3257ca-c3e0-40e4-bf56-01e70417a393&rid=f3d8afa2-f501-417b-9283-f6e48a1d9f60,CSV,UTF-8
+26106,桃園市政府教育局志工表揚名單,桃園市政府教育局,data.gov.tw/node/26106,桃園市政府教育局志工表揚名單志工服務表揚,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b5f00208-1f50-4ee5-8d74-aa0b1c58e434&rid=50360c8a-7cf6-4aac-8901-ac0769c4d052,CSV,UTF-8
+26107,臺灣桃園國際機場103年度固定式航空噪音監測站監測資料,桃園市政府環境保護局,data.gov.tw/node/26107,"年,月,測站名稱,監測數據",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8c4eab11-05c5-4c38-9bd2-889f434fcaf5&rid=6a806a80-8440-4d41-823d-da8fe4b5a7cd,CSV,UTF-8
+26108,桃園市地方型SBIR,桃園市政府經濟發展局,data.gov.tw/node/26108,年度，公司名稱，地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=db513c93-32e8-4bea-bb7e-2971276cb541&rid=fe9a12f2-f5b7-4611-914e-3180d3c779c5,CSV,UTF-8
+26109,桃園市石門山勞工育樂中心,桃園市政府勞動局,data.gov.tw/node/26109,"房型,價位,設施,交通資訊",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=86a93af5-c032-4f3b-b3ff-f0497d9d244a&rid=4b76e172-d74e-404c-92a8-ac7729ee4c5e,CSV,UTF-8
+26110,桃園市政府警察局為民服務成果,桃園市政府警察局,data.gov.tw/node/26110,"年度	為民服務種類	件數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=747596e9-0a3a-4103-97fb-5626b6672adb&rid=a2b0dfd0-ea01-46cd-8665-309f9ac70d41,CSV,Big5
+26111,桃園市新移民家庭服務中心服務據點,桃園市政府社會局,data.gov.tw/node/26111,所在區域、據點名稱、聯絡人、聯絡電話、單位地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b4c7d9a7-45c8-43fc-8dcc-3ae19e3bf91a&rid=df10842f-2d14-4bd9-849e-65d471dce482,CSV,UTF-8
+26112,資訊可變標誌 動態資訊,桃園市政府交通局,data.gov.tw/node/26112,UpdateTime(資料更新時間)、DeviceId(設備編號)、Content(內容訊息)、Status(設備狀態),http://61.60.10.87/javaAndXml/xmldata/opendata/cms_value.xml,其他,UTF-8
+26113,桃園市漁會通訊資料,桃園市政府農業局,data.gov.tw/node/26113,電話(電話)、傳真(傳真),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e5f8d415-5739-486f-9d8c-2600768d299b&rid=0e049833-f2ec-44f4-8c04-02428a924bf8,CSV,UTF-8
+26114,桃園市托嬰中心名冊,桃園市政府社會局,data.gov.tw/node/26114,托嬰中心名稱、負責人、核定收托人數、地址、聯絡電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=92ac0ec4-fcb9-413b-ad0c-72c040d74fb9&rid=fe88378d-fba0-4499-b95d-69a439b4a8c4,CSV,UTF-8
+26115,桃園機場航空噪音防制區,桃園市政府環境保護局,data.gov.tw/node/26115,"防制區,區,里",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4eecbb62-3cf4-41dc-92af-0324c656425a&rid=1404c770-ac70-4dbc-aab3-f30093b2365c,CSV,Big5
+26116,桃園市公告市管區域排水基本資料,桃園市政府水務局,data.gov.tw/node/26116,1.NO.(編號)2.行政區(所流經之行政區域)3.排水路名稱(公告市管區域排水名稱)4.排水出口(排水最終流出口)5.權責起點(TWD97)(權責起始點及座標)6.權責終點(TWD97)(權責終止點及座標)7.長度(m)(區域排水長度，單位:公尺),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ffbc08f7-c7ee-4043-886b-e1f462354991&rid=784b4dc1-e130-493d-9519-c5e33fd6c0f0,CSV,UTF-8
+26117,桃園市政府警察局公務人員－按職等別,桃園市政府警察局,data.gov.tw/node/26117,"年度	職別	官職等	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f3292c79-a7b4-4d06-8082-0d85b26193ce&rid=27d94919-a91d-44d1-b9dc-df15f6748ba0,CSV,Big5
+26118,桃園市優良企業,桃園市政府經濟發展局,data.gov.tw/node/26118,活動企劃介紹，得獎企業介紹，表揚會花絮,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6c62975d-3dfc-4ace-a2ed-0628360b49d8&rid=a5ff9c8b-ad13-41cb-b6d4-7698d844eb30,CSV,UTF-8
+26119,桃園市河濱自行車道資料,桃園市政府水務局,data.gov.tw/node/26119,"編號,名稱(自行車道名稱),長度(車道長度),平均寬度(m),起點,終點",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e32ab501-ddb3-4f18-ac7f-b54ebe5e8604&rid=74b1e522-f721-43d0-89af-3365dab3b568,CSV,UTF-8
+26120,桃園市取締攤販績效,桃園市政府警察局,data.gov.tw/node/26120,"時間	種類	件數	人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4e5eeab7-3224-4302-add4-107855a0937e&rid=06e9937b-3fbd-48fb-b155-b866e04096d9,CSV,Big5
+26121,桃園市田徑場及體育館收費標準表,桃園市政府體育局,data.gov.tw/node/26121,收費項目，收費內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4034aa52-748a-4f59-922d-918df3391e51&rid=ab554ca6-b8b5-49fa-839a-88c3b7950e8c,CSV,UTF-8
+26123,桃園市政府辦理土地及建物代為標售價金保管款清冊,桃園市政府地政局,data.gov.tw/node/26123,"鄉鎮市區,段,小段,地/建號,面積,權利範圍分子,權利範圍分母,土地/建物所有權人姓名,土地/建物所有權人住址,保管款金額(元),保管字號,備註",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0725ed27-24e6-4c6e-bc14-4e8e2aec6fd0&rid=cccb04be-104b-4d39-b6cc-a59cb729f41c,CSV,UTF-8
+26124,公廁點位資訊,桃園市政府環境保護局,data.gov.tw/node/26124,公廁編號、鄉鎮名稱、村里名稱、公廁名稱、地址或地點描述、管理單位名稱、管理單位聯絡電話、緯度、經度、最新公廁級別,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=daccd04c-875a-4e1f-b436-5bb66661e7b6&rid=a3bae18a-3a5a-4953-9ac6-fd1e16337b07,CSV,UTF-8
+26125,藝文人士名冊,桃園市政府文化局,data.gov.tw/node/26125,藝文人士姓名、專長領域,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b254cb69-02a4-46b1-a0b6-04071b194e49&rid=8f122059-8634-4420-ac61-41a0ba49ee0f,CSV,UTF-8
+26126,桃園市休閒農場,桃園市政府農業局,data.gov.tw/node/26126,休閒農場名稱、地址、電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d28bbe38-f849-4a5c-951d-86161d093691&rid=3e7b3f2f-9531-4e2b-a39d-ce449cd0f0c2,CSV,UTF-8
+26127,桃園市交通事故-二級發布區,桃園市政府警察局,data.gov.tw/node/26127,事故時間、事故地點,http://taoyuan.esritw.opendata.arcgis.com/datasets/27d4442bd4824885b9908916c8d80e1e_32.csv,其他,UTF-8
+26128,桃園市社區大學一覽表,桃園市政府教育局,data.gov.tw/node/26128,桃園市社區大學一覽表(名稱、地址、電話),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=fe05f7e9-37ed-450c-b885-c296c51b8ca9&rid=1a74e6a7-2c82-4f9f-afc6-dee26892b3fa,CSV,UTF-8
+26129,桃園市珍貴樹木資料,桃園市政府農業局,data.gov.tw/node/26129,Sno:樹木編號、town_na:區域、area_location:地址、x:TWD97X座標、tree_na:樹種、age:樹齡、y:TWD97Y座標,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=25bbcd34-16a8-4c4e-a341-4666cd0db5b4&rid=475d7ece-32b8-4b5f-a31a-910d58aac908,CSV,UTF-8
+26130,桃園市政府職訓開班一覽表,桃園市政府勞動局,data.gov.tw/node/26130,班次、訓練班別、訓練單位及報名電話、報名及洽詢電話、人數、時數、預定開訓日期、預定結訓日期、自行負擔費用、上課地點,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=be264247-ac51-4eb4-86aa-78f5ce939597&rid=6fee5474-a205-49d6-87d4-12423ffc89c0,CSV,UTF-8
+26138,動產擔保交易登記統計表,桃園市政府經濟發展局,data.gov.tw/node/26138,動產抵押  附條件買賣  信託占有  合計  核准  抄錄  退補  其他  總計,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cd69173e-2f45-4a93-94bc-ae2f37cd0744&rid=658f25c5-3c4f-45d2-9d64-f2443c1a312c,CSV,UTF-8
+26272,桃園市易發生婦幼被害點位,桃園市政府警察局,data.gov.tw/node/26272,"1.type：犯罪發生的種類。
+2.year：犯罪發生的年度。
+3.breau：該案管轄的分局。
+4.Latitude：鄰近緯度。
+5.Longitude：鄰近經度。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=99b80099-45ab-4c05-9081-5f9e6e16a0a1&rid=85181312-fe58-47c5-ad35-e3324ba4402b,CSV,UTF-8
+26273,經濟部推薦桃園市工商綜合區總表,桃園市政府經濟發展局,data.gov.tw/node/26273,名稱、開發地區、開發分區、電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e49df3fe-0347-4df1-91e5-7cf8fbf20dba&rid=c92d05e9-49e9-4b69-8fe8-0e87605d8737,CSV,UTF-8
+26274,桃園上好攤歷屆得獎名單,桃園市政府經濟發展局,data.gov.tw/node/26274,「2014桃園上好攤」金牌獎、「2014桃園上好攤」銀牌獎、「2014桃園上好攤」銅牌獎、「2014桃園上好攤」微笑美食獎、「2014桃園上好攤」人氣美食獎、「2014桃園上好攤」超值美食獎,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b12432b0-a3cd-46e9-85d3-c56ca2853f68&rid=c9fb3772-f3b6-4725-ab9e-8063270283ef,CSV,UTF-8
+26275,優良市集歷屆得獎名單,桃園市政府經濟發展局,data.gov.tw/node/26275,興國公有零售市場、八德公有零售市場、大園公有零售市場、中壢觀光夜市、大湳公有零售市場、桃園觀光夜市,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c882d75e-4686-4f48-9bbb-b5a5da529fcd&rid=50a9e7e9-5a9e-4213-b675-fe6db80c8b18,CSV,UTF-8
+26276,桃園市住宅竊盜點位,桃園市政府警察局,data.gov.tw/node/26276,"1.type：犯罪發生的種類。
+2.time：犯罪發生的年、月、日
+3.year：犯罪發生的年度。
+4.month：犯罪發生的月份。
+5.date：犯罪發生日期。
+6.breau：該案管轄的分局。
+7.station：該案管轄的派出所。
+8.Latitude：犯罪發生的緯度。
+9.Longitude：犯罪發生的經度。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ad727cc5-4de1-40ef-8184-5cb1b8c65edd&rid=c5d30784-ecb1-4d18-946d-b37f6f0226bf,CSV,UTF-8
+26277,桃園市商圈特色店家,桃園市政府經濟發展局,data.gov.tw/node/26277,"「公司名稱」、「店家名稱」、「公司電話」、「營業地址」
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=de534f0f-14d1-4df9-9eef-f33d79b0b0dc&rid=78396998-8727-47aa-8ef3-3b44383fc77b,CSV,UTF-8
+26278,桃園市『台灣智慧航空城產業聯盟』會員廠商列表,桃園市政府經濟發展局,data.gov.tw/node/26278,編號、公司名稱,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e4cb47e3-35ad-461c-933e-afbe4407676a&rid=95dacbe2-bea0-41b6-bc24-727d59a6c345,CSV,UTF-8
+26279,桃園市機車竊盜點位,桃園市政府警察局,data.gov.tw/node/26279,"1.type：犯罪發生的種類。
+2.time：犯罪發生的年、月、日
+3.year：犯罪發生的年度。
+4.month：犯罪發生的月份。
+5.date：犯罪發生日期。
+6.breau：該案管轄的分局。
+7.station：該案管轄的派出所。
+8.Latitude：犯罪發生的緯度。
+9.Longitude：犯罪發生的經度。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=200934fc-4501-4477-88f8-86a7f15d590e&rid=75a851f8-62d0-475a-83cf-9d2a7c5bc059,CSV,UTF-8
+26280,桃園市汽車竊盜點位,桃園市政府警察局,data.gov.tw/node/26280,"1.type：犯罪發生的種類。
+2.time：犯罪發生的年、月、日
+3.year：犯罪發生的年度。
+4.month：犯罪發生的月份。
+5.date：犯罪發生日期。
+6.breau：該案管轄的分局。
+7.station：該案管轄的派出所。
+8.Latitude：犯罪發生的緯度。
+9.Longitude：犯罪發生的經度。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d4343eab-492e-444c-b3f0-c267f90d2bb4&rid=f2219d56-1ca3-47c6-8dd8-ed9c352d0003,CSV,UTF-8
+26349,桃園市遠距健康量測據點,桃園市政府衛生局,data.gov.tw/node/26349,地點，地址，電話，類別,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=952d4f99-1d83-4af4-9a2b-dde0863a711f&rid=a5cc0399-6db7-4138-9517-9203db3090d3,CSV,UTF-8
+26352,桃園市景點資料(中),桃園市政府觀光旅遊局,data.gov.tw/node/26352,Info Id(序號) 、Name(名稱)、Description(副標題)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、Travellinginfo(交通資訊)、Opentime(開放時間)、Gov(管理單位)、Px(X座標)、Py(Y座標)、Website(網址)、Ticketinfo(費用資訊)、Tel(電話)、Fax(傳真電話)、Changetime(更新時間)、Parkinginfo(停車資訊),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=bed8a800-be39-4750-89a6-324b71f5d5fa&rid=bd906b29-9006-40ed-8bd7-67597c2577fc,XML,UTF-8
+26353,桃園市旅遊諮詢中心資料,桃園市政府觀光旅遊局,data.gov.tw/node/26353,名稱(諮詢中心名稱)開放時間(諮詢中心開放時間)聯絡地址(諮詢中心地址)聯絡電話(諮詢中心電話)相關連結(諮詢中心相關連結)WGS84 北緯(諮詢中心位置緯度)WGS84 東經(諮詢中心位置經度),http://travel.tycg.gov.tw/zh-tw/OpenData/ServiceCenterXML,其他,UTF-8
+26354,桃園市104年每月觀光遊憩區遊客人次資料,桃園市政府觀光旅遊局,data.gov.tw/node/26354,觀光遊憩區別(風景遊樂區名稱)門票收入(以新台幣為單位)遊客人次(當月遊客人次)上年同月份遊客人次(上年同月份遊客人次)增減數(與上年同月份相比)成長率(與上年同月份相比)備註(人次計算方式) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6527bea5-f004-42d1-a6f8-1c8c8e72a010&rid=0c56ed15-41d2-4080-8de6-f16f16bdd311,CSV,UTF-8
+26356,桃園市景點資料(英),桃園市政府觀光旅遊局,data.gov.tw/node/26356,Info InfoId(序號)、TYWebsite(導覽網網址)、Name(名稱)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、Travellinginfo(交通資訊)、Opentime(開放時間)、Px(X座標)、Py(Y座標)、Website(網站)、Parkinginfo(停車資訊)、Ticketinfo(費用資訊)、Remarks=(旅遊叮嚀)、Tel(電話)、Fax(傳真)、Changetime(更新時間),http:// http://travel.tycg.gov.tw/en-us/OpenData/TYCGAttractions,其他,UTF-8
+26357,桃園市消費資料(日),桃園市政府觀光旅遊局,data.gov.tw/node/26357,Info InfoId(序號)、TYWebsite(導覽網網址)、Name(名稱)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、Travellinginfo(交通資訊)、Opentime(開放時間)、Px(X座標)、Py(Y座標)、Website(網站)、Parkinginfo(停車資訊)、Remarks(旅遊叮嚀)、Tel(電話)、Fax(傳真)、Changetime(更新時間),http:// http://travel.tycg.gov.tw/ja-jp/OpenData/TYCGGourmet,其他,UTF-8
+26358,桃園市住宿資料(英),桃園市政府觀光旅遊局,data.gov.tw/node/26358,"Info InfoId(序號)、TYWebsite(導覽網網址)、Name(名稱)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、Travellinginfo(交通資訊)、Opentime(開放時間)、Px(X座標)、Py(Y座標)、Website(網站)、Parkinginfo(停車資訊)
+、Remarks(旅遊叮嚀)、Tel(電話)、Fax(傳真)、Changetime(更新時間)、Charge(定價)",http://travel.tycg.gov.tw/en-us/OpenData/TYCGAccommodation,其他,UTF-8
+26359,桃園市消費資料(英),桃園市政府觀光旅遊局,data.gov.tw/node/26359,Info InfoId(序號)、TYWebsite(導覽網網址)、Name(名稱)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、Travellinginfo(交通資訊)、Opentime(開放時間)、Px(X座標)、Py(Y座標)、Website(網站)、Parkinginfo(停車資訊)、Remarks(旅遊叮嚀)、Tel(電話)、Fax(傳真)、Changetime(更新時間),http://travel.tycg.gov.tw/en-us/OpenData/TYCGGourmet,其他,UTF-8
+26360,桃園市住宿資料(日),桃園市政府觀光旅遊局,data.gov.tw/node/26360,"Info InfoId(序號)、TYWebsite(導覽網網址)、Name(名稱)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、Travellinginfo(交通資訊)、Opentime(開放時間)、Px(X座標)、Py(Y座標)、Website(網站)、Parkinginfo(停車資訊)
+、Remarks(旅遊叮嚀)、Tel(電話)、Fax(傳真)、Changetime(更新時間)、Charge(定價)",http:// http://travel.tycg.gov.tw/ja-jp/OpenData/TYCGAccommodation,其他,UTF-8
+26361,桃園市住宿資料(中),桃園市政府觀光旅遊局,data.gov.tw/node/26361,Info Id(序號) 、Name(名稱)、Description(副標題)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、Travellinginfo(交通資訊)、Opentime(開放時間)、Gov(管理單位)、Px(X座標)、Py(Y座標)、Website(網址)、Ticketinfo(費用資訊)、Tel(電話)、Fax(傳真電話)、Changetime(更新時間)、Parkinginfo(停車資訊),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=908d67d9-eb77-4f17-88c2-068b2dd74d27&rid=c3340a19-9219-498a-9a46-21de506ba85b,XML,UTF-8
+26362,桃園市景點資料(韓),桃園市政府觀光旅遊局,data.gov.tw/node/26362,Info InfoId(序號)、TYWebsite(導覽網網址)、Name(名稱)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、Travellinginfo(交通資訊)、Opentime(開放時間)、Px(X座標)、Py(Y座標)、Website(網站)、Parkinginfo(停車資訊)、Ticketinfo(費用資訊)、Remarks(旅遊叮嚀)、Tel(電話)、Fax(傳真)、Changetime(更新時間),http://travel.tycg.gov.tw/ko-kr/OpenData/TYCGAttractions,其他,UTF-8
+26363,桃園市景點資料(日),桃園市政府觀光旅遊局,data.gov.tw/node/26363,Info InfoId(序號)、TYWebsite(導覽網網址)、Name(名稱)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、ravellinginfo(交通資訊)、Opentime(開放時間)、Px(X座標)、Py(Y座標)、Website(網站)、Parkinginfo(停車資訊)、Ticketinfo(費用資訊)、Remarks(旅遊叮嚀)、Tel(電話)、Fax(傳真)、Changetime(更新時間),http:// http://travel.tycg.gov.tw/ja-jp/OpenData/TYCGAttractions,其他,UTF-8
+26365,桃園市旅遊資訊站,桃園市政府觀光旅遊局,data.gov.tw/node/26365,名稱(旅遊資訊站名稱)聯絡地址(旅遊資訊站地址)聯絡電話(旅遊資訊站電話)相關連結(旅遊資訊站連結網址)WGS84 北緯(旅遊資訊站緯度)WGS84 東經(旅遊資訊站經度),http://travel.tycg.gov.tw/zh-tw/OpenData/ServiceStationXML,其他,UTF-8
+26366,桃園市消費資料(中),桃園市政府觀光旅遊局,data.gov.tw/node/26366,Info Id(序號) 、Name(名稱)、Description(副標題)、Toldescribe(簡述)、Add(地址)、Zipcode(郵遞區號)、Travellinginfo(交通資訊)、Opentime(開放時間)、Gov(管理單位)、Px(X座標)、Py(Y座標)、Website(網址)、Ticketinfo(費用資訊)、Tel(電話)、Fax(傳真電話)、Changetime(更新時間)、Parkinginfo(停車資訊),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8dc035f1-0770-4522-8c98-96d98bb0530e&rid=9f126a52-5bea-41ff-a769-96b0f1df0f51,XML,UTF-8
+26397,104年11月份服務業用電量,桃園市政府經濟發展局,data.gov.tw/node/26397,"縣市	A.售電量(度)，A.查詢月份抄表戶數總計，A.用電佔比(%)	，B.售電量(度)，B.查詢月份抄表戶數總計，B.用電佔比(%)	，C.售電量(度)，C.查詢月份抄表戶數總計，C.用電佔比(%)，合計(A+B+C)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6832f351-e3ab-44ae-a868-0514f98f6350&rid=0bbe0718-df1f-4765-bd32-28e6ef1f4ccc,CSV,UTF-8
+26477,桃園市合法不動產經紀業業者名冊,桃園市政府地政局,data.gov.tw/node/26477,"統一編號,經紀業名稱,許可日期,設立備查日期,地址,加盟經營加盟公司名稱,營業項目_不動產仲介經紀業,營業項目_不動產代銷經紀業,經營國外不動產仲介或代銷業務,負責人姓名,加入公會名稱1,加入公會名稱2,個人資料檔案安全維護計畫",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=035c5823-7131-4a8c-8fed-d4e260e2872b&rid=c01da8c3-ca9d-4e61-9268-cc33f3f4bbd0,CSV,Big5
+26480,桃園市財團法人教會堂名冊,桃園市政府民政局,data.gov.tw/node/26480,"財團法人名稱,住址,電話,負責人",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0ae8f890-c8de-4447-8c68-601c17c01d44&rid=1e725bd2-803c-445b-a9d9-41dcfd98ccbd,CSV,UTF-8
+26481,桃園市各地所及工作站服務據點,桃園市政府地政局,data.gov.tw/node/26481,"地政服務據點,聯絡電話,地址,地理座標(TWD67),地理座標(TWD97),地理座標(WGS84)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f1dece66-1643-4ee3-ac04-f5c8fa1f5140&rid=c5058874-e651-4577-a3ec-39168c7d36c0,CSV,UTF-8
+26484,「桃園埤圳重要濕地」公告範圍資訊,桃園市政府都市發展局,data.gov.tw/node/26484,內政部,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1a2bb41e-1804-4e7f-b858-08de21b7c54d&rid=7333b136-a622-4c3f-a5b6-1940e75f5064,CSV,UTF-8
+26486,桃園市各區里集會場所名冊,桃園市政府民政局,data.gov.tw/node/26486,編號、集會場所名稱、地址、公所承辦人、公所電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9e824281-eb6e-41f3-9868-13f5063b6c27&rid=276f8830-7678-495d-a61d-24a48798f5f8,CSV,UTF-8
+26487,105年土地段名及代碼對照資料,桃園市政府地政局,data.gov.tw/node/26487,"地段代碼,地段名稱,行政區",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6a35adf3-ee77-4eea-bf83-2548a797fe82&rid=cc76f60c-f511-4131-aa33-5dbdb415b875,CSV,UTF-8
+26488,桃園市第1屆里長通訊錄,桃園市政府民政局,data.gov.tw/node/26488,"區別,姓名,電話,手機,傳真,住址",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0c4d0c86-8cec-4da8-97e4-e870feea4a7f&rid=5f15ca2e-85a2-4668-81fc-751ca5b577a3,CSV,UTF-8
+26489,105年桃園市桃園區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26489,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f50372c6-bca2-4bc3-9d50-d62f93fd7076&rid=a84a70d0-e3c3-4b8e-9bdd-06c61ba6df3b,CSV,UTF-8
+26492,桃園市復興區第1屆區民代表通訊錄,桃園市政府民政局,data.gov.tw/node/26492,"區別,姓名,電話,手機,傳真,住址",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=605110f1-a9cc-4d43-9721-43d6baf19a25&rid=cd13cd9f-e494-4273-9527-617f87ba7146,CSV,UTF-8
+26493,桃園市寺廟名冊,桃園市政府民政局,data.gov.tw/node/26493,"序號,寺廟名稱,主祀神祇,教別,組織型態,住址,負責人姓名,登記證字號,電話",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6484b20f-8525-4437-ae81-d1e1601067d0&rid=03643c01-076b-41f4-8316-22db8bec7ddd,CSV,UTF-8
+26494,桃園市已登記祭祀公業法人名冊,桃園市政府民政局,data.gov.tw/node/26494,登記簿、區、祭祀公業法人名稱、住址、設立許可日期,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5abd3514-a6c9-42c3-b59a-6815f3a218ad&rid=d96b4951-fe37-449a-89a4-2d251921a724,CSV,UTF-8
+26495,桃園市殯葬禮儀服務業許可名冊,桃園市政府民政局,data.gov.tw/node/26495,"編號,商號(公司)名稱,負責人,營業所在地,電話,備註或許可日期",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5543eb0e-454c-4c4e-9897-24ebcf766aa3&rid=867b40df-e0c0-4ede-a1d3-95611434003c,CSV,UTF-8
+26727,105年桃園市大園區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26727,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8afa12f0-83bc-4475-90d4-b3274ace2b86&rid=31944221-d737-4bb7-bc03-6199aa61a5c1,CSV,UTF-8
+26729,105年桃園市龜山區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26729,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c85b3e5b-0a9b-4a24-81e2-eca25ba8ead1&rid=c3fd4f3f-ab0f-4729-a557-b25db2f1da4e,CSV,UTF-8
+26730,105年桃園市大溪區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26730,"行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺)
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2bb39335-9b96-405e-be76-4a8b2ea3e0be&rid=d1e778be-e422-4087-bc36-5b119300f9c6,CSV,UTF-8
+26731,105年桃園市八德區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26731,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a3907df4-84a6-4a3d-bb6b-d53fd916839f&rid=d57d7125-546e-4e9d-abad-f892c44dafc2,CSV,UTF-8
+26733,105年桃園市復興區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26733,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=fef74b27-7dfa-4d4e-9ca3-3bd7a6b7de31&rid=50aa260d-14be-4706-9130-63a007b4ae68,CSV,UTF-8
+26759,105年桃園市中壢區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26759,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=dafd1114-ea1a-4420-a162-a79b70625b4f&rid=7f94a0f9-7878-4736-8086-7b3d5344f834,CSV,UTF-8
+26762,桃園市政府地政局區段徵收開發案已標售土地一覽表,桃園市政府地政局,data.gov.tw/node/26762,"標售日期,行政區,地段,地號,面積(平方公尺),標售底價(元),得標金額(元)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4c526bdd-5869-4f45-b86d-d362159c492a&rid=4e699005-399a-40c5-a3d2-4a7fddecb1ab,CSV,UTF-8
+26763,105年桃園市新屋區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26763,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c754091c-cd78-498d-bd1c-f93617e6e7ab&rid=177d7591-29e2-4445-bec3-f6931a1a9c77,CSV,UTF-8
+26805,105年桃園市觀音區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26805,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=32b70ba8-50fa-408c-ba79-d199270cf19d&rid=ead1e5b4-70e5-4ce7-a969-475bac38782a,CSV,UTF-8
+26806,105年桃園市平鎮區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26806,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ae1e81cd-21b8-4464-94b7-ae929398819c&rid=a32e0d07-f592-4023-a767-ad96ff8c5b6f,CSV,UTF-8
+26808,105年度桃園市都市設計審議委員第二審議會委員,桃園市政府都市發展局,data.gov.tw/node/26808,專業類別/職稱、姓名、性別、現職,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=96ec662d-11ef-4898-910f-7a51abb5d31b&rid=220742dd-a767-4d27-ab0f-b85f83fe9c63,CSV,UTF-8
+26810,105年桃園市蘆竹區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26810,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=12fedd80-3574-40b5-8350-cb4764a85b93&rid=4a38d747-d461-4d44-abc4-83cde28383ef,CSV,UTF-8
+26811,105年度桃園市都市設計審議委員第一審議會委員,桃園市政府都市發展局,data.gov.tw/node/26811,專業類別/職稱、姓名、性別、現職,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ea90a83a-5abf-4611-a3e6-008f6bf2f08a&rid=bae5ee06-657f-4ea2-a407-6d9c06290bf8,CSV,UTF-8
+26812,105年桃園市楊梅區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26812,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0ec79fdb-c56a-4314-84c1-7e9f73deaae4&rid=8dea8b7f-0b2e-4b63-80f6-8de730cc393b,CSV,UTF-8
+26813,105年桃園市龍潭區土地公告現值及公告地價,桃園市政府地政局,data.gov.tw/node/26813,行政區(行政區名稱)，段小段(地段名稱)，地號，公告現值(元/平方公尺)，公告地價(元/平方公尺) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b588b704-ad00-4bd4-95db-47839c192ce9&rid=fb32ad72-7955-4c00-97ef-37e9a907ab6b,CSV,UTF-8
+26987,桃園市立大溪木藝生態博物館104年度街角館,桃園市政府文化局,data.gov.tw/node/26987,"街角館名稱，開放時間，地址，電話
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9ec7a1ee-1542-4189-8fbc-7616f84b7ba3&rid=67753d1c-a411-4f6a-9cdc-0da93f631eb5,CSV,UTF-8
+27132,桃園市政府都市發展局職員異動資料統計報表,桃園市政府都市發展局,data.gov.tw/node/27132,"""合
+計""	""小
+計""	""辭
+職""	""免
+徹
+職""	""解
+僱""	""退
+休
+(職)""	""資
+遣""	""死
+亡""	""其
+他""	""小
+計""	""本調
+機
+關動""	""調
+進""	""調
+出""	""小
+計""	""考分
+試發""	""其因
+他進
+原用""	""小
+計""	""出進
+國修""	""因停
+案職""	""留停
+職薪""	""應入
+征伍""	""復
+職""	""待
+命""	""其
+他""	""備
+註""
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8ff84430-7c73-4115-8124-63d84b5f0293&rid=94760401-a69e-46bb-b146-a6a9fe58251f,CSV,UTF-8
+27133,桃園市政府都市發展局新訂自治法規,桃園市政府都市發展局,data.gov.tw/node/27133,"項次	法規名稱
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=953088a5-1f61-423d-b6a7-4f5b329f2e11&rid=99dc339b-23bb-47d8-b45d-d759b6a2d535,CSV,UTF-8
+27134,桃園市區域計畫委員會第1屆第1期委員名冊,桃園市政府都市發展局,data.gov.tw/node/27134,"項次	職稱	姓名	性別	現職/經歷	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=218baf78-8b6a-4a1f-9525-26cd05bcccf9&rid=f4334886-172f-486b-b412-85d813e7791b,CSV,UTF-8
+27135,桃園市軍方管有土地使用情形面積統計表,桃園市政府都市發展局,data.gov.tw/node/27135,"序號	行政區	軍方使用	非軍方使用	閒置	總計
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=541d07bd-1495-4068-921e-efb021f87bc8&rid=53147412-a3b1-4c80-a923-0a981ad23f13,CSV,UTF-8
+27136,桃園市政府文化局補助私有古蹟及歷史建築日常管理維護經費作業要點,桃園市政府文化局,data.gov.tw/node/27136,補助條件、補助項目、補助標準、申請資格及應備文件、審核及注意事項、撥款及結案核銷方式,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d5df52cb-f657-42da-88ff-570a53555456&rid=47fca8c3-22e1-4e8c-81e2-90fe91b2a886,CSV,UTF-8
+27138,桃園市政府都市發展局各項申辦業務列表,桃園市政府都市發展局,data.gov.tw/node/27138,"項次	項目名稱	處理時間	類型
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9e3f945e-49d6-4217-880f-e1146f20d6d7&rid=829991ea-4e65-47a0-940b-c7bd9fadf0f3,CSV,UTF-8
+27139,桃園市交通事故資料表,桃園市政府警察局,data.gov.tw/node/27139,年、月、日、時、分、縣市、區、死、受傷、天候、光線、道路類別、速限、道路型態、事故位置、路面鋪裝、路面狀態、路面缺陷、障礙物、視距、號誌種類、號誌動作、分向設施、快車道或一般車道間、快慢車道間、路面邊線、事故類型及型態、主要肇因、受傷程度、主要傷處、保護裝備、行動電話、當事者區分、車輛用途、當事者行動狀態、駕駛資格情形、駕駛執照種類、飲酒情形、車輛撞擊部位最初、車輛撞擊部位其他、肇事因素個別、肇事因素主要、肇事逃逸、職業、旅次目的、車種,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ae56dbc1-0d76-4956-b028-cd03b81c4f26&rid=27d04f05-de4b-42ae-9763-affe1f9a75b3,DOC,Big5
+27140,桃園市政府住宅發展處職員考試統計報表,桃園市政府都市發展局,data.gov.tw/node/27140,總人數、合計、小計、高考、普考、特考、其他考試、依其他法令進用人數、備註,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=73656123-5be7-4daf-b970-2a6298a60971&rid=62443c27-88d9-42aa-9a66-4a247b93b73d,CSV,UTF-8
+27141,桃園市政府建築管理處職員學歷統計報表,桃園市政府都市發展局,data.gov.tw/node/27141,"合計 小計 研究院(所)  大學 專科	高中(職)(含師範)	國(初)中以下及其他	備　註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=05845485-c75e-4f36-9db3-64da7c000632&rid=31779453-dfa5-4afd-9aee-7c65c89fdd71,CSV,UTF-8
+27142,桃園市政府都市發展局104年度採購招標案件一覽表,桃園市政府都市發展局,data.gov.tw/node/27142,"項次	分類	標案案號	採購案名	招標方式	公告日期	截止投標	預算金額
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=062e62bb-1442-418b-b583-99d9110590ea&rid=10354ef3-11f4-4b07-8ada-b8cfa25d0ecb,CSV,UTF-8
+27143,桃園市政府都市發展局職員學歷統計報表,桃園市政府都市發展局,data.gov.tw/node/27143,"合計	小計	研究院(所)	大學	專科	高中(職)(含師範)	國(初)中以下及其他	備　註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a1e5f669-d3b1-4bf3-a5a8-ceea45bd2a25&rid=445f90bc-6b4a-43c0-a31e-a93533d5ad23,CSV,UTF-8
+27144,桃園市政府住宅發展處職員異動資料統計報表,桃園市政府都市發展局,data.gov.tw/node/27144,"""合
+計""	""小
+計""	""辭
+職""	""免
+徹
+職""	""解
+僱""	""退
+休
+(職)""	""資
+遣""	""死
+亡""	""其
+他""	""小
+計""	""本調
+機
+關動""	""調
+進""	""調
+出""	""小
+計""	""考分
+試發""	""其因
+他進
+原用""	""小
+計""	""出進
+國修""	""因停
+案職""	""留停
+職薪""	""應入
+征伍""	""復
+職""	""待
+命""	""其
+他""	""備
+註""
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3ddcec3a-22bf-43b0-b2b6-12aadc3e2386&rid=42820caf-e65e-471b-a40a-95167608c948,CSV,UTF-8
+27145,桃園市政府藝文設施管理中心所屬場地使用管理要點,桃園市政府文化局,data.gov.tw/node/27145,條款、內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=40038162-58c8-4f23-90e0-145414586d98&rid=7a437a0c-7d4c-475a-81cf-7caf6d3e2c3e,CSV,UTF-8
+27146,桃園市政府都市發展局職員考試統計報表,桃園市政府都市發展局,data.gov.tw/node/27146,"總人數	合計	小計	高考	普考	特考	其他考試	依其他法令進用人數	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f163e8ff-6d1c-4c54-a341-ce57e8dd565a&rid=bcfd25f8-a3e3-4a31-9295-5fc6d9c7d7d3,CSV,UTF-8
+27147,桃園市政府建築管理處職員官等性別統計報表,桃園市政府都市發展局,data.gov.tw/node/27147,"合計	男	女	合計	男主管	女主管	合計	男非主管	女非主管	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=93082b1c-0665-49f9-b156-ade126a188b9&rid=5b6d499a-0319-4d24-8b25-fcbdd2ebd1ca,CSV,UTF-8
+27148,桃園市政府住宅發展處職員官等性別統計報表,桃園市政府都市發展局,data.gov.tw/node/27148,"合計	男	女	合計	男主管	女主管	合計	男非主管	女非主管	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ff1f34ab-c90a-4be6-bc2a-88ca7206f8c2&rid=6f204579-de5e-4b4d-8d64-28e529368fc8,CSV,UTF-8
+27149,桃園市政府建築管理處職員考試統計報表,桃園市政府都市發展局,data.gov.tw/node/27149,"總人數	合計	小計	高考	普考	特考	其他考試	依其他法令進用人數	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0f85a4a7-0402-4dd7-b877-048df90aab69&rid=60ef86d2-7235-4933-95b8-64adb6df78fc,CSV,UTF-8
+27150,桃園市政府都市發展局職員官等性別統計報表,桃園市政府都市發展局,data.gov.tw/node/27150,"合計	男	女	合計	男主管	女主管	合計	男非主管	女非主管	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=da9c4677-3187-4bd1-88c7-771329a33210&rid=09163670-6b4b-40a3-bc39-586b052b0d85,CSV,UTF-8
+27151,桃園市政府藝文設施管理中心演藝活動補助作業要點,桃園市政府文化局,data.gov.tw/node/27151,條款、內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8700dc37-6c12-44b0-b9d5-699d53bdfbea&rid=813f33c9-c6bc-4782-a0d0-a33deccef487,CSV,UTF-8
+27152,桃園市政府住宅發展處職員學歷統計報表,桃園市政府都市發展局,data.gov.tw/node/27152,"合計	小計	研究院(所)	大學	專科	高中(職)(含師範)	國(初)中以下及其他	備　註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7c88010b-245c-400c-8993-5073a590d7eb&rid=e7c47c8d-3f7b-4bc2-8861-c7bc1599e065,CSV,UTF-8
+27153,桃園市政府住宅發展處職員年齡統計報表,桃園市政府都市發展局,data.gov.tw/node/27153,"合計	二十九以下	三十至三十九	四十至四十九	五十至五十九	六十至六十五	六十六以上	平均年齡	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f7bd91bc-3353-4b2d-9b7e-e93dfc2471ee&rid=86f47ea8-36ce-4cbc-ae35-d01341ea3742,CSV,UTF-8
+27155,桃園市政府都市發展局職員年齡統計報表,桃園市政府都市發展局,data.gov.tw/node/27155,"合計	二十九以下	三十至三十九	四十至四十九	五十至五十九	六十至六十五	六十六以上	平均年齡	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=926156a0-5ec4-4695-9504-15e1fbe707e8&rid=9152a899-47ca-4d17-abd7-b4a72512e70b,CSV,UTF-8
+27156,桃園市政府住宅發展處職員年資統計報表,桃園市政府都市發展局,data.gov.tw/node/27156,"合計	五年以下	六至九年	十至十四年	十五至十九年	二十至二十四年	二十五至二十九年	三十年以上	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=431cb127-128a-4a86-a0be-d5cfa7f5fe20&rid=862565da-188c-45d5-b1a8-4a4dc7b6f799,CSV,UTF-8
+27157,桃園市政府建築管理處職員年齡統計報表,桃園市政府都市發展局,data.gov.tw/node/27157,"合計	二十九以下	三十至三十九	四十至四十九	五十至五十九	六十至六十五	六十六以上	平均年齡	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f30b046c-de29-4546-a4b5-aa1ec07720b3&rid=c92101c4-4dd7-40b1-8b4c-92b43acf918b,CSV,UTF-8
+27158,桃園市政府建築管理處職員年資統計報表,桃園市政府都市發展局,data.gov.tw/node/27158,"合計	五年以下	六至九年	十至十四年	十五至十九年	二十至二十四年	二十五至二十九年	三十年以上	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=24e1d569-a1ad-4c23-9b3d-49372948d386&rid=e3e85a34-a2e7-490d-b218-f434afa69d13,CSV,UTF-8
+27159,桃園市政府都市發展局職員年資統計報表,桃園市政府都市發展局,data.gov.tw/node/27159,"合計	五年以下	六至九年	十至十四年	十五至十九年	二十至二十四年	二十五至二十九年	三十年以上	備註
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=43341632-8785-419b-86bc-47480d068834&rid=2d154618-acc5-4f51-9315-e213fce8af58,CSV,UTF-8
+27160,桃園市政府都市發展局新訂行政規則,桃園市政府都市發展局,data.gov.tw/node/27160,"項次	法規名稱
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5855ed1f-f191-495b-8a3b-0dc6a9abcb57&rid=78f15954-b1ac-4f93-b9af-2061f5eb7a4b,CSV,UTF-8
+27161,桃園市政府都市發展局100-104年數值地形圖查詢及申請案件統計一覽表,桃園市政府都市發展局,data.gov.tw/node/27161,"年度	申請案件數	申請總圖幅數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2dbb3bd1-c832-49e1-a215-d1c9742746b3&rid=ddcccf5f-8e6c-4b95-8453-952de57980c2,CSV,UTF-8
+27162,桃園市政府建築管理處職員異動資料統計報表,桃園市政府都市發展局,data.gov.tw/node/27162,"""合
+計""	""小
+計""	""辭
+職""	""免
+徹
+職""	""解
+僱""	""退
+休
+(職)""	""資
+遣""	""死
+亡""	""其
+他""	""小
+計""	""本調
+機
+關動""	""調
+進""	""調
+出""	""小
+計""	""考分
+試發""	""其因
+他進
+原用""	""小
+計""	""出進
+國修""	""因停
+案職""	""留停
+職薪""	""應入
+征伍""	""復
+職""	""待
+命""	""其
+他""	""備
+註""
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=acd905c6-a327-4be0-9cac-c237547a5fb1&rid=f71b596b-1d19-4f50-8324-be08b6a7e3d3,CSV,UTF-8
+27163,桃園市政府文化局周邊廣場使用管理要點,桃園市政府文化局,data.gov.tw/node/27163,條款、內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=67d963a2-39a6-42b8-82c3-c663d1eb45a9&rid=87c15afb-f6db-4ac5-b29b-7a7b6ba3b5cd,CSV,UTF-8
+27352,桃園市政府文化局表演藝術活動補助要點,桃園市政府文化局,data.gov.tw/node/27352,項目  條款內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=20497623-f47f-4d2b-a53a-b04c9cde9c4e&rid=961414fc-e514-49e1-9464-a2e9d049937e,CSV,UTF-8
+27354,文化局展覽場地管理規則,桃園市政府文化局,data.gov.tw/node/27354,場地管理辦法之連結,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=db6a9173-232a-4612-b8ed-cea5ec52db26&rid=0310a1dd-4b19-4a89-aeb5-69ab6452cec4,CSV,UTF-8
+27356,視覺藝術活動補助要點,桃園市政府文化局,data.gov.tw/node/27356,視覺藝術活動補助之條文,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=434f20f0-2fcd-4e28-a716-7e5c1ca631da&rid=4ff2efea-2ca9-49c8-bfb4-2901254f92bf,CSV,UTF-8
+27359,桃園市政府文化局演藝廳演藝活動補助申請作業要點,桃園市政府文化局,data.gov.tw/node/27359,項目  條款內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d9468322-0964-40de-bcb0-2b522e9ec562&rid=5c8248fc-3df3-4d58-a993-33b0ef2506e4,CSV,UTF-8
+27396,桃園市各區結離婚統計,桃園市政府民政局,data.gov.tw/node/27396,區域別、結婚對數、離婚對數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f95d1a33-ec56-44c5-a9ec-3afba8157e39&rid=3e9f6bb6-3531-4f54-aee7-fca697a0dfeb,CSV,UTF-8
+27511,桃園市政府文化局獎助影視產業實施要點,桃園市政府文化局,data.gov.tw/node/27511,桃園市政府文化局獎助影視產業實施要點,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ef48c855-9ac3-4df9-9f11-3ead85f572b0&rid=ed40b20d-50b0-41dd-9900-2a661b3443a5,CSV,UTF-8
+27513,桃園市政府文化局文化創意產業補助要點,桃園市政府文化局,data.gov.tw/node/27513,桃園市政府文化局文化創意產業補助要點,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6144f0ef-4fd6-4c76-ac81-6393b9ffa6f6&rid=56902669-2495-4bb8-8dc5-f90b770b9920,CSV,UTF-8
+27584,桃園藝文,桃園市政府文化局,data.gov.tw/node/27584,出刊號、出刊日、電子版下載連結,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8ff4c96c-dd8e-4061-961f-4f0a4be560fb&rid=21e9b678-6c1b-46ca-b313-59b572345f8d,CSV,Big5
+27684,桃園市房屋標準單價表(1-30樓)-104.6.30以前建造完成,桃園市政府地方稅務局,data.gov.tw/node/27684,構造(用途)、樓層、單價,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b09bbad5-0d56-4cb4-9567-3326557858e8&rid=4c436122-6b5b-482f-92c8-26573c45eb60,CSV,UTF-8
+27721,桃園市親子館,桃園市政府社會局,data.gov.tw/node/27721,館名、地址、聯絡電話、服務時間、服務對象、服務內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2e94a76a-6328-4ee0-bd67-f2dc632da0c6&rid=5b754fa3-d83b-4399-afc6-f8e29c6bb8eb,CSV,Big5
+27814,105年度復興區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/27814,新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2158eb57-1927-49ff-bc29-6e635fc8f990&rid=10591dec-9a37-481a-81bf-b3fd22adfa4c,CSV,UTF-8
+27873,桃園市政府文化局展演場地使用管理要點,桃園市政府文化局,data.gov.tw/node/27873,項目 條款內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7abc5c12-847c-47ce-b332-1ee0410a55ee&rid=8fd19909-3114-4e80-9567-bb0ea65320ba,CSV,UTF-8
+27874,桃園市政府地方稅務局員工人數,桃園市政府地方稅務局,data.gov.tw/node/27874,桃園市政府地方稅務局員工人數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=91625c1b-eafa-4b0b-8727-33c9af9bced4&rid=2bf4c5c2-db95-4f5e-b877-47663cbd979e,CSV,Big5
+27875,桃園市立圖書館文學閱讀推廣活動補助要點,桃園市政府文化局,data.gov.tw/node/27875,桃園市立圖書館文學閱讀推廣活動補助要點,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=66bb1455-a91c-4688-bc21-d434eb2bb1da&rid=1020f4c2-5638-406f-a3af-5d4f61d5db96,CSV,Big5
+27877,桃園市地方稅欠稅概況-按納稅義務人性別分,桃園市政府地方稅務局,data.gov.tw/node/27877,桃園市地方稅欠稅概況-按納稅義務人性別分,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a94416f7-8e32-4267-b5d7-3dc0bea1a299&rid=0029111b-7092-464f-9828-6a31681168cf,CSV,Big5
+27878,105年度新屋區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/27878, 新、舊建號行政區，新、舊地段名稱，新、舊建號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d7852b7a-c04d-401f-a171-c685880e784b&rid=bb995050-6282-4448-bc8c-23250fd452df,CSV,Big5
+27879,桃園市多元化繳稅統計表,桃園市政府地方稅務局,data.gov.tw/node/27879,年度、金融機構臨櫃繳納、便利商店繳稅、長期約定轉帳納稅、信用卡繳稅、自動櫃員機轉帳繳稅、活期儲蓄存款帳戶轉帳繳稅、晶片金融卡網際網路轉帳繳稅、,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=dbd3a1eb-910c-40d4-8342-576c08e2a156&rid=0a866b0a-6019-4d30-9841-a46f8572651b,CSV,Big5
+27880,104年桃園市各項稅捐實徵淨額與預算數及上年同期比較-累積數,桃園市政府地方稅務局,data.gov.tw/node/27880,稅目別、截至本月底止累計實徵數、截至本月底止累計退還以前年度歲入款、截至本月底止累計實徵淨額、累計實徵淨額與全年預算數比較、累計實徵淨額與同期分配預算數比較、累計實徵淨額與上年同期比較,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=bf35ce77-f83a-45ac-bd8f-b0b53c0f9fac&rid=e063606b-0bed-4ad3-adee-157ced11c2c3,CSV,Big5
+27908,桃園航空城計畫機場園區第7場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/27908,桃園航空城計畫機場園區第7場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgYWtwOTJiTFpBX1E/view?usp=sharing,其他,UTF-8
+27909,桃園航空城計畫機場園區第10場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/27909,桃園航空城計畫機場園區第10場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgUE56MmhVdHU4WjQ/view?usp=sharing,其他,UTF-8
+28053,桃園市104年度建築物公共安全檢查申報數量,桃園市政府都市發展局,data.gov.tw/node/28053,月份、申報件數、符合件數、審查未完成,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d7b7ebed-331a-4e74-8845-c85ed7b31824&rid=4b5beaae-7027-468e-9f3d-768488fc3bdb,CSV,UTF-8
+28054,桃園市104年度建築物公共安全檢查稽查數量,桃園市政府都市發展局,data.gov.tw/node/28054,月份、檢查件數、不合格家數含違建、罰鍰件數、斷水斷電件數、限期改善列管複查件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6d788c6c-da79-4e77-bfc5-117e07c60e00&rid=483a3f6c-5791-4210-a62a-66f20e02a14c,CSV,UTF-8
+28055,桃園市政府住宅發展處機關通訊錄,桃園市政府都市發展局,data.gov.tw/node/28055,項次、單位名稱、總機、電話分機,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b446e7c9-3c40-4f9f-93f8-465bdeb7ee62&rid=12b7abf0-5df0-4466-a055-a4ca06b6327f,CSV,UTF-8
+28056,桃園市102-104年民眾使用線上申辦件數統計表,桃園市政府地方稅務局,data.gov.tw/node/28056,申辦管道、線上102年、線上103年、線上104年,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3477c0cd-ef07-4a81-b042-e1d83562f245&rid=b0258f87-5f99-4b84-9ad4-fd2e45ca230c,CSV,Big5
+28057,桃園市都市計畫私有公共設施保留地與公有非公用土地交換辦法統計,桃園市政府都市發展局,data.gov.tw/node/28057,年度、公告之公有非公用土地交換標的件數(件)、公告之公有非公用土地交換標的面積(㎡)、公告之公有非公用土地交換標的總價(千元)、完成交換之公有非公用土地標的件數(件)、完成交換之公有非公用土地標的面積(㎡)、完成交換之公有非公用土地標的總價(千元)、取得之私有公共設施保留地總面積(㎡) 、取得之私有公共設施保留地總價(千元) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=03c5ff89-2fa1-4cca-ae56-a4a0b66d5f34&rid=ddf3f8d1-1450-44d1-8e2c-cf50f11c0ab5,CSV,UTF-8
+28058,桃園航空城計畫附近地區第1場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28058,桃園航空城計畫附近地區第1場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgZllGVmJfdmFJakU/view?usp=sharing,其他,UTF-8
+28059,桃園市96-98年地價稅累進起點地價及課稅級距表,桃園市政府地方稅務局,data.gov.tw/node/28059,種類、級距、基準地價、累進差額、稅率,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5e7befec-5aaf-4924-94c7-2f9758602a68&rid=2bc9aedc-cfd1-4587-ac79-39c951a8e319,CSV,Big5
+28060,104年度桃園市都市設計審議委員第1審議會全年審議結果數,桃園市政府都市發展局,data.gov.tw/node/28060,開會次數、通過件數、未通過件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6d9ec982-2f28-4fe8-9cd9-e07530d6a4bd&rid=abc9821e-23c2-4ac3-85d7-04fe2091295c,CSV,UTF-8
+28061,桃園航空城計畫機場園區第9場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28061,桃園航空城計畫機場園區第9場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgdUNxbE5lRklOX1U/view?usp=sharing,其他,UTF-8
+28062,桃園市房屋標準單價表(31樓以上)-104.7.1以後建造完成,桃園市政府地方稅務局,data.gov.tw/node/28062,構造別、總樓層數、標準單價,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=04e92612-2623-4879-9e5d-6ee7adc4f170&rid=bc204bf3-635d-48a8-868f-42727c004dfb,CSV,Big5
+28063,桃園市各行政區住宅補貼受理情形(103年度),桃園市政府都市發展局,data.gov.tw/node/28063,區、租金補貼申請戶數、租金補貼核定戶數、購屋貸款申請戶數、購屋貸款核定戶數、修繕貸款申請戶數、修繕貸款核定戶數、合計申請戶數、合計核定戶數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=df1897be-99fa-42e4-aadc-0921fe3e34c4&rid=4ff3f386-32fa-4411-b68c-d4ff27731798,CSV,UTF-8
+28065,桃園航空城計畫附近地區第2場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28065,桃園航空城計畫附近地區第2場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgWjU4SlNRbXBrblk/view?usp=sharing,其他,UTF-8
+28066,桃園航空城計畫附近地區第4場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28066,桃園航空城計畫附近地區第4場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgSTBWU1JpYktHRWc/view?usp=sharing,其他,UTF-8
+28067,桃園航空城計畫附近地區第11場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28067,桃園航空城計畫附近地區第11場預備聽證會議實錄,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=782c9e77-e0fa-490c-8fd9-09501759c4e1&rid=fdd03ae8-5fa2-4b67-ad6b-b8e1270a43d0,PDF,Big5
+28068,桃園航空城計畫附近地區第5場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28068,桃園航空城計畫附近地區第5場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgVThMYjhLc0NuaXM/view?usp=sharing,其他,UTF-8
+28069,桃園航空城計畫附近地區第12場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28069,桃園航空城計畫附近地區第12場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgNnhOcUZ5RDdhRlk/view?usp=sharing,其他,UTF-8
+28070,桃園市都市計畫整併範圍界定方式綜整表,桃園市政府都市發展局,data.gov.tw/node/28070,項次、都市計畫群組、整併範圍、面積公頃,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cdbdddd1-b121-44c7-9425-2f804f8c69bf&rid=4619d14b-b430-4005-ae11-2781fffbffae,CSV,UTF-8
+28071,桃園航空城計畫附近地區第3場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28071,桃園航空城計畫附近地區第3場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgMWVwR0JYemdZdms/view?usp=sharing,其他,UTF-8
+28072,桃園航空城計畫附近地區第6場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28072,桃園航空城計畫附近地區第6場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgM1EzUVBYSzh5OE0/view?usp=sharing,其他,UTF-8
+28073,桃園市103年度各月公寓大廈管理組織報備數量,桃園市政府都市發展局,data.gov.tw/node/28073,月份、報備件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6cfd5d2c-b971-4201-a800-f04d4b82d672&rid=c34f3985-c5f9-4957-8b7d-7003eeafb5b3,CSV,UTF-8
+28074,桃園航空城計畫附近地區第7場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28074,桃園航空城計畫附近地區第7場預備聽證會議實錄,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=db1b5a0c-a09c-4eda-bb1a-5e70c0c8d1ca&rid=b8a7e739-09a5-48aa-9c60-a57cbdeb22a2,PDF,Big5
+28075,桃園市政府都市發展局104年度遊說法案件受理情形月報表,桃園市政府都市發展局,data.gov.tw/node/28075,年度、月份、受理案件,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5f761334-0319-4f18-ae9b-f14552f5172f&rid=589864f8-12d9-4ca0-a595-b8fae11c02c1,CSV,UTF-8
+28076,桃園市各都市計畫-土地使用管制彙整表(1),桃園市政府都市發展局,data.gov.tw/node/28076,名稱都市計畫名稱土管規定建蔽率容積率、桃園市都市計畫、縱貫公路桃園內壢間都市計畫、中壢平鎮都市擴大修訂計畫、中壢龍岡地區都市計畫、中壢過嶺地區楊梅高榮地區新屋頭洲地區觀音富源地區主要計畫、平鎮山仔頂地區都市計畫、龍壽、迴龍地區都市計畫、南崁地區都市計畫、楊梅都市計畫、楊梅富岡豐野地區都市計畫、大溪鎮埔頂地區都市計畫、八德大湳地區都市計畫、八德八德地區都市計畫、龜山都市計畫、復興都市計畫,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e7dc69e4-e31e-43db-9703-57e81353b4dc&rid=74efda9b-bd1e-4fb8-bfe6-c96e97ef2d8c,CSV,UTF-8
+28077,104年度桃園市都市設計審議委員第1審議會受理審議案件通過/未通過率,桃園市政府都市發展局,data.gov.tw/node/28077,開會次數、審議件數、通過件數、未通過件數、通過率百分比、未通過率百分比,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1f9054eb-f312-40b4-9f78-2e4d4ecde059&rid=e94f0002-97b7-42a5-9023-b504046ea303,CSV,UTF-8
+28078,桃園市歷年住宅補貼受理情形統計表,桃園市政府都市發展局,data.gov.tw/node/28078,項目、租金補貼申請戶數 、租金補貼中央計畫戶數 、租金補貼核定戶數 、購屋貸款利息補貼申請戶數 、購屋貸款利息補貼 中央計畫戶數 、購屋貸款利息補貼 核定戶數 、修繕貸款利息補貼 申請戶數 、修繕貸款利息補貼 中央計畫戶數 、修繕貸款利息補貼 核定戶數 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6b510bb6-fbaa-41ee-baea-d3b8e526b974&rid=804f9191-a8f3-4ef3-9a8b-df4e9b0cca64,CSV,UTF-8
+28079,桃園市容積移轉執行成果統計(折繳代金),桃園市政府都市發展局,data.gov.tw/node/28079,年度、案件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5a64f69f-36d0-4d39-baf2-794afd60bfe1&rid=8fd033b5-7be3-4283-9f2a-8608c2ff8347,CSV,UTF-8
+28080,桃園航空城計畫機場園區第3場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28080,桃園航空城計畫機場園區第3場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgd2ZzUFB6RzdYSW8/view?usp=sharing,其他,UTF-8
+28081,桃園航空城計畫機場園區第4場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28081,桃園航空城計畫機場園區第4場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgX0w3UHBQc3ZHbEE/view?usp=sharing,其他,UTF-8
+28082,104年度桃園市都市設計審議委員第2審議會受理案件量,桃園市政府都市發展局,data.gov.tw/node/28082,開會次數、審議件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=231eb67a-682d-45e9-ae76-2c5cadb394b4&rid=dd04e963-ec33-4660-ab53-622b022da859,CSV,UTF-8
+28083,桃園市各都市計畫人口發展概況表,桃園市政府都市發展局,data.gov.tw/node/28083,編號、都市計畫名稱、計畫人口(人)、現況人口(人)、現況占計畫人口比例(%),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=427743ba-4e4f-496a-8236-73707ad71086&rid=53fb5ba6-6c71-4431-8eb0-3d0d8b0ad1bc,CSV,UTF-8
+28084,桃園市政府地方稅務局103年度稅務服務中心服務統計表,桃園市政府地方稅務局,data.gov.tw/node/28084,服務項目、件數、次數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7322c153-e80f-4ee6-a0ac-e8a5fcfac5a3&rid=eeaa54a5-97e1-4458-b83a-24ce48ae4407,CSV,UTF-8
+28085,桃園市容積移轉申請案件核准移入容積量,桃園市政府都市發展局,data.gov.tw/node/28085,年度、核准移入容積,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5f273bb4-65a8-425d-a567-3756a0b90b50&rid=83cf9eaf-f1c3-42c6-bf8d-197f90b5a512,CSV,UTF-8
+28086,桃園市各都市計畫-土地使用內容類型分析表,桃園市政府都市發展局,data.gov.tw/node/28086,編號、都市計畫名稱、住宅區面積公頃、住宅區比例、商業區面積公頃、商業區比例、工業區面積公頃、工業區比例、文教區面積公頃、文教區比例、農業區面積公頃、農業區比例、保護區面積公頃、保護區比例、河川區面積公頃、河川區比例、總使用分區面積公頃、總使用分區比例、,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8bd77a5f-8fbc-4132-a5d3-9c71e10b10ef&rid=6f926ceb-5de3-4503-a934-ff1a923aadd3,CSV,UTF-8
+28087,桃園市各都市計畫-土地使用管制彙整表(2),桃園市政府都市發展局,data.gov.tw/node/28087,名稱都市計畫名稱土管規定建蔽率容積率、石門都市計畫、蘆竹大竹地區都市計畫、大園都市計畫、大園?林地區都市計畫、觀音都市計畫、觀音草漯地區都市計畫、觀音新坡地區都市計畫、新屋都市計畫、大溪都市計畫、變更高速公路中壢及內壢交流道附近特定區計畫、林口特定區都市計畫桃園、小烏來風景特定區計畫、巴陵達觀山風景特定計畫區、石門水庫水源特定區計畫、桃園航空貨運園區暨客運園區大園南港地區特定區計畫、高速鐵路桃園車站特定區計畫、高速公路楊梅交流道附近特定區計畫,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=97ba5b18-8612-462f-b265-d706240a7214&rid=f258ee32-b0f2-42a6-b34d-305b612bca1c,CSV,UTF-8
+28088,桃園市第一屆市議員名錄,桃園市政府民政局,data.gov.tw/node/28088,選區姓名電話傳真通訊地址電子郵件信箱,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8cf91d82-5d5d-4291-8e4c-8e2d329119a2&rid=5da75a39-e3d8-4f99-a618-431a9bde6704,CSV,UTF-8
+28089,桃園航空城計畫機場園區第12場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28089,桃園航空城計畫機場園區第12場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjga0Y3alVsbUJqZE0/view?usp=sharing,其他,UTF-8
+28090,桃園市都市計畫容積移轉申請案件數,桃園市政府都市發展局,data.gov.tw/node/28090,年度、案件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7f232dff-bf87-4040-b6c9-b0dbf12512c2&rid=0d4a76f3-271d-46fd-bd65-ea1fbfc7ab66,CSV,UTF-8
+28091,桃園航空城計畫機場園區第1場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28091,桃園航空城計畫機場園區第1場預備聽證會議實錄,https://drive.google.com/open?id=0B3LjAORzsBjgNE5YQU5GbHBEMlk,其他,UTF-8
+28092,桃園市各都市計畫-公共設施開闢水準與保留地分析表,桃園市政府都市發展局,data.gov.tw/node/28092,編號、都市計畫名稱、計畫人口、公共設施面積(公頃)、計畫人均公設面積(㎡)、公設已開闢面積(公頃)、公設開闢率、公設已取得面積(公頃)、公設未取得面積(公頃)、公設保留地比例,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=bee0652f-7f26-48c3-9b97-f7837f4ff6a2&rid=9aa8586a-744e-41c1-9233-07f2dde17ed3,CSV,UTF-8
+28093,桃園市各都市計畫-圖資重置辦理情形彙整表,桃園市政府都市發展局,data.gov.tw/node/28093,編號、都市計畫名稱、計畫圖重製與數值化辦理情形已完成、計畫圖重製與數值化辦理情形重製辦理中、計畫圖重製與數值化辦理情形數值化辦理中/已完成、計畫圖重製與數值化辦理情形未辦理、比例尺、座標系統,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3864f30e-cbfc-4b44-b2b9-e81ef60ccee2&rid=ee188188-1a2d-44c3-a340-798dec4b317a,CSV,UTF-8
+28094,桃園市99-101年地價稅累進起點地價及課稅級距表,桃園市政府地方稅務局,data.gov.tw/node/28094,級距、基準地價、累進差額、稅率,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8592ac83-45a9-4a7e-ac7a-a8b1562fcd67&rid=02c45d7f-cd47-4611-8c7b-e742c4fd854d,CSV,Big5
+28095,桃園市各都市計畫-土地使用內容概要統計表,桃園市政府都市發展局,data.gov.tw/node/28095,編號、都市計畫名稱、土地使用分區面積_公頃、公共設施用地面積(公頃)、計畫總面積(公頃)、都市發展用地、都市發展用地佔都市計畫總面積之比例,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f16e7689-4b96-416f-8993-9564c246891e&rid=3f5ac15b-d8b4-43f7-936e-0ad15e834757,CSV,UTF-8
+28096,99年桃園市各項稅捐實徵淨額與預算數及上年同期比較-累計數,桃園市政府地方稅務局,data.gov.tw/node/28096,稅目別、截至本月底止累計實徵數、截至本月底止累計退還以前年度歲入款、截至本月底止累計實徵淨額、累計實徵淨額與全年預算數比較、累計實徵淨額與同期分配預算數比較、累計實徵淨額與上年同期比較,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=477c1015-69bf-4651-8e4a-6658aef6c73d&rid=6a5a865f-9b86-499e-a3d5-5f344de6506c,CSV,Big5
+28097,桃園市都市計畫樁位成果公告數,桃園市政府都市發展局,data.gov.tw/node/28097,地區、100、101、102、103、104,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d418f5c5-cf83-4e12-b387-33bc46de5e99&rid=67461e7e-0d7c-4c95-a5d9-a80d6e0085ba,CSV,UTF-8
+28098,101年桃園市各項稅捐實徵淨額與預算數及上年同期比較-累計數,桃園市政府地方稅務局,data.gov.tw/node/28098,稅目別、截至本月底止累計實徵數、截至本月底止累計退還以前年度歲入款、截至本月底止累計實徵淨額、累計實徵淨額與全年預算數比較、累計實徵淨額與同期分配預算數比較、累計實徵淨額與上年同期比較,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a8794af8-c884-4d34-baa9-1713cea2d880&rid=2586b960-e8c2-451c-98de-934e4437266f,CSV,Big5
+28099,桃園市都市計畫土地使用分區證明書申請方式統計,桃園市政府都市發展局,data.gov.tw/node/28099,年度、臨櫃、線上、便利商店、總計,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=bed4f462-8278-4752-9c8d-3f188b707059&rid=f2c4ec6b-727b-48cc-b5c0-6ddd9da363a8,CSV,UTF-8
+28100,桃園市各都市計畫-公共設施總面積比例分析表,桃園市政府都市發展局,data.gov.tw/node/28100,編號、都市計畫名稱、公共設施面積公頃、公共設施占計畫區面積之比例、公設占都市發展用地面積比例,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3a7573ca-9b49-44f7-b191-e5715ac8afab&rid=1318f083-5e98-469c-a677-60272105b4ef,CSV,UTF-8
+28101,桃園航空城計畫機場園區第6場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28101,桃園航空城計畫機場園區第6場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgWjA3aUdPamNOS2c/view?usp=sharing,其他,UTF-8
+28103,桃園市都市計畫土地使用分區證明書申請件數,桃園市政府都市發展局,data.gov.tw/node/28103,年度、申請案件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d68380ce-0ccb-4c3b-8640-67816b8aaf05&rid=eb2162b2-31df-41eb-b7b9-b53a00f4dd35,CSV,UTF-8
+28104,桃園航空城計畫附近地區第10場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28104,桃園航空城計畫附近地區第10場預備聽證會議實錄,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=64768ec5-4cbc-4885-8fa9-246d4434b49e&rid=0b760e5b-d401-40af-91e7-57173f60d430,PDF,Big5
+28105,桃園市政府都市發展局104年度國家賠償月報表,桃園市政府都市發展局,data.gov.tw/node/28105,年度、月份、新收請求案件,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b613892a-f928-4f22-be61-169471bf6170&rid=af33b37f-c8a9-4768-9690-cfcb4335b4aa,CSV,UTF-8
+28106,桃園市容積移轉送出基地統計,桃園市政府都市發展局,data.gov.tw/node/28106,年度、道路、公園、兒童遊樂場、綠地綠帶、學校、停車場、圳渠溝渠,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1cc308eb-27da-4e1a-8fad-642ec83f4cd3&rid=5f60e79b-6f88-4234-a296-4731271d598e,CSV,UTF-8
+28107,桃園航空城計畫機場園區第2場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28107,桃園航空城計畫機場園區第2場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgSVNZb0tQMk1WMDQ/view?usp=sharing,其他,UTF-8
+28108,桃園市103年度建築物公共安全檢查申報數量,桃園市政府都市發展局,data.gov.tw/node/28108,月份、申報件數、符合件數、審查未完成,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ddcbfb09-ffee-4fae-a804-2f1d23df05a1&rid=bf31f70d-f8de-44d5-810c-9d5ca4f5423f,CSV,UTF-8
+28109,桃園市政府都市發展104年電子化會議統計表(以桃園市政府都市發展局名義召開),桃園市政府都市發展局,data.gov.tw/node/28109,月份、開會場次、電子化會議場次、比率,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=31fd6eb1-dec2-4da8-ad94-561dfa7816d5&rid=1ebb4bac-79f7-4bbc-b4d8-7c2bc559e1c1,CSV,UTF-8
+28110,桃園航空城計畫機場園區預備聽證會議總結報告,桃園市政府地政局,data.gov.tw/node/28110,桃園航空城計畫機場園區預備聽證會議總結報告,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c258b6b8-52b5-4745-b87f-169be2cbe118&rid=f77f8fcb-cbde-4739-8d45-2e8939aba745,PDF,Big5
+28111,桃園航空城計畫機場園區第8場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28111,桃園航空城計畫機場園區第8場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgck8xdU45SmNuaWc/view?usp=sharing,其他,UTF-8
+28112,桃園市容積移轉執行成果統計(公共設施保留地),桃園市政府都市發展局,data.gov.tw/node/28112, 年度 、 取得公共設施總面積 、 取得公共設施價值 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c2a77519-22fd-48d4-b026-d234aa954c15&rid=edd89c35-5c13-48e1-b5ba-9b987c30c396,CSV,UTF-8
+28113,桃園市政府都市發展局104年電子化會議統計表(以桃園市政府名義召開),桃園市政府都市發展局,data.gov.tw/node/28113,月份、開會場次、電子化會議場次、比率,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=68be6be4-c25c-4466-8512-973f02afca57&rid=18b37c27-1e5f-4d14-bf01-a728f9bf5fbe,CSV,UTF-8
+28114,桃園市103年度建築物公共安全檢查稽查數量,桃園市政府都市發展局,data.gov.tw/node/28114,月份、檢查件數、不合格家數含違建、罰鍰件數、斷水斷電件數、限期改善列管複查件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e9e39de8-de8a-4d4a-aa2b-d0be1ae57287&rid=63aa253c-aed6-4466-a36f-ba025f7ceb25,CSV,UTF-8
+28115,桃園航空城計畫機場園區第11場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28115,桃園航空城計畫機場園區第11場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgcWtYdlRZUExJVnM/view?usp=sharing,其他,UTF-8
+28116,桃園市各都市計畫-定位彙整表,桃園市政府都市發展局,data.gov.tw/node/28116,編號、都市計畫名稱、定位願景,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b2dcc2bc-4732-4bcf-8dcd-ba2abd775d0e&rid=b69cb42b-3d1f-4664-a572-456391a283b2,CSV,UTF-8
+28117,104年度桃園市都市設計審議委員第2審議會受理審議案件通過/未通過率,桃園市政府都市發展局,data.gov.tw/node/28117,開會次數、審議件數、通過件數、未通過件數、通過率(%)、未通過率(%),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=27855a32-129a-46e8-8707-151ed1d2c828&rid=15664244-af7e-4dfd-8117-01f28e278da8,CSV,UTF-8
+28118,桃園市各都市計畫-細部計畫擬定情形彙整表,桃園市政府都市發展局,data.gov.tw/node/28118,都市計畫名稱、(細部計畫類型)配合主要計畫全區或都市發展用地擬定、(細部計畫類型)配合主要計畫個案變更而擬定,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2b8aa6b9-b5ce-4410-a6ed-7248cb3045f8&rid=fb05b587-6ec8-4b8c-ad1e-f5f65eecbeda,CSV,UTF-8
+28119,103年桃園市各項稅捐實徵淨額與預算數及上年同期比較-累計數,桃園市政府地方稅務局,data.gov.tw/node/28119,稅目別、截至本月底止累計實徵數、截至本月底止累計退還以前年度歲入款、截至本月底止累計實徵淨額、累計實徵淨額與全年預算數比較、累計實徵淨額與同期分配預算數比較、累計實徵淨額與上年同期比較,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b3e7aeee-f087-42bc-b8e8-f61d419961e5&rid=3a602150-17a8-43c7-b647-1087e1c52dd3,CSV,Big5
+28120,桃園航空城計畫機場園區第5場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28120,桃園航空城計畫機場園區第5場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgejZMMTR6c1F5SHM/view?usp=sharing,其他,UTF-8
+28121,桃園市各都市計畫-五項公共設施檢討表,桃園市政府都市發展局,data.gov.tw/node/28121,編號、都市計畫名稱、計畫面積(公頃)、計畫人口、公園面積(公頃)、體育場所面積(公頃)、綠地面積(公頃)、廣場面積(公頃)、兒童遊樂場面積(公頃)、五項公設總面積(公頃)、五項公設占計畫面積比例、人均五項公設面積(m2),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d8ece396-83d5-461c-a644-db3c70a0ed8a&rid=1fd29f8c-15c8-42f3-bb5c-03260d2d7c0d,CSV,UTF-8
+28122,桃園市交通違規取締統計,桃園市政府警察局,data.gov.tw/node/28122,"1.年度：交通違規取締統計年度。
+2.月份：交通違規取締統計月份。
+3.舉發種類：交通違規取締種類。
+4.適用條例：交通違規取締適用條例。
+5.車種：分汽車、重型機車(250CC以上)、機車等。
+6.舉發方式：分逕行舉發及攔停等。
+7.件數：交通違規取締統計件數。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b0a3c957-099a-40d7-8f7e-c15fc00260f3&rid=b3bc56ba-fce4-478a-a618-559e55205807,CSV,Big5
+28123,104年度桃園市住宅諮詢審議委員會,桃園市政府都市發展局,data.gov.tw/node/28123,序次、職稱、姓名、性別、現職/經歷、備註,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=69f72a92-f956-4121-997d-f47a6e6d2c0f&rid=191633d4-1895-457b-b090-e6089542ad9f,CSV,UTF-8
+28124,桃園市102-104年地價稅累進起點地價及課稅級距表,桃園市政府地方稅務局,data.gov.tw/node/28124,級距、基準地價、累進差額、稅率,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f89acbc9-c106-4d64-933b-2cf5da155066&rid=50024ff0-8c5d-45cb-9b47-21f2968c929d,CSV,Big5
+28125,102年桃園市各項稅捐實徵淨額與預算數及上年同期比較-累計數,桃園市政府地方稅務局,data.gov.tw/node/28125,稅目別、截至本月底止累計實徵數、截至本月底止累計退還以前年度歲入款、截至本月底止累計實徵淨額、累計實徵淨額與全年預算數比較、累計實徵淨額與同期分配預算數比較、累計實徵淨額與上年同期比較,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=037429a8-d28a-4879-a47f-dea849ed49cf&rid=41530034-148f-4a07-902b-d67e318f954d,CSV,Big5
+28126,桃園航空城計畫附近地區第8場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28126,桃園航空城計畫附近地區第8場預備聽證會議實錄,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=76390466-7e57-417b-b898-c44603092ae6&rid=dc26659d-78e1-4487-81b0-0d888beffb5c,PDF,Big5
+28127,100年桃園市各項稅捐實徵淨額與預算數及上年同期比較-累計數,桃園市政府地方稅務局,data.gov.tw/node/28127,稅目別、截至本月底止累計實徵數、截至本月底止累計退還以前年度歲入款、截至本月底止累計實徵淨額、累計實徵淨額與全年預算數比較、累計實徵淨額與同期分配預算數比較、累計實徵淨額與上年同期比較,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c1fbce7a-3fda-4923-a823-9e58051179c2&rid=c65e6c85-dc94-4e61-9ac7-542d0b7a07f8,CSV,Big5
+28128,桃園市104年度各月公寓大廈管理組織報備數量,桃園市政府都市發展局,data.gov.tw/node/28128,月份、報備件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=43cc17fc-42a4-409e-bc94-b75c794cfd89&rid=546147f3-4433-4217-84c3-035ce69e5149,CSV,UTF-8
+28129,桃園市休閒牧場,桃園市政府農業局,data.gov.tw/node/28129,地址(地址) 、負責人(負責人) 、聯絡電話(聯絡電話) 、經營種類(經營種類) 、牧場面積(牧場面積),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=51e24172-8da3-4ec6-9aff-6ec85116ee92&rid=2d28422c-7959-4d4a-ad7f-1dcc4ae3b10f,CSV,UTF-8
+28130,104年度桃園市都市更新及爭議處理審議委員會,桃園市政府都市發展局,data.gov.tw/node/28130,序次、職稱、姓名、性別、現職/經歷、備註,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5d6bdd55-287a-4bdc-8005-93bfd9192064&rid=7b70a309-3290-453d-91c4-cd97c7324437,CSV,UTF-8
+28131,桃園航空城計畫附近地區第9場預備聽證會議實錄,桃園市政府地政局,data.gov.tw/node/28131,桃園航空城計畫附近地區第9場預備聽證會議實錄,https://drive.google.com/file/d/0B3LjAORzsBjgOWsyTFdOS21QU1U/view?usp=sharing,其他,UTF-8
+28132,桃園市33處都市計畫整併方式綜整表,桃園市政府都市發展局,data.gov.tw/node/28132,都市計畫名稱、原計畫定位與願景、整併方式,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d2abd61b-fcce-4ace-b8fe-b71c95b368d2&rid=46c5d937-736f-4109-afd3-ed7f2f22fcc1,CSV,UTF-8
+28133,桃園航空城計畫附近地區預備聽證總結報告,桃園市政府地政局,data.gov.tw/node/28133,桃園航空城計畫附近地區預備聽證總結報告,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d42cc634-b551-4416-aae2-e112d87b1964&rid=a364c2f7-7e09-484c-b876-773c9d893be0,PDF,Big5
+28225,桃園中壢區公所103年路燈維修資料,桃園市政府工務局,data.gov.tw/node/28225,"流水號,流水號路燈,報修日期,民眾路燈編號,區域,里,損壞概況,報修地點,報修來源,廠商路燈編號,損壞地點,故障情形",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=77ac9dfd-58fa-4079-9e60-d115f3e8c6a1&rid=e6ee105e-b096-46fd-be59-a00aff933bbe,CSV,UTF-8
+28226,桃園中壢區公所102年路燈維修資料,桃園市政府工務局,data.gov.tw/node/28226,"流水號,流水號路燈,報修日期,民眾路燈編號,區域,里,損壞概況,報修地點,報修來源,廠商路燈編號,損壞地點,故障情形",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7de178d4-fecb-4977-8b80-9c0720d6b536&rid=7171601f-dc8e-49a4-a723-93d2ff8da5d6,CSV,UTF-8
+28227,桃園市各都市計畫區土地使用發展現況統計表,桃園市政府都市發展局,data.gov.tw/node/28227,都市計畫名稱、都市計畫區面積、都市發展用地總計計畫面積公頃、都市發展用地總計比例百分比、都市發展用地住宅區計畫面積公頃、都市發展用地住宅區比例百分比、都市發展用地商業區計畫面積公頃、都市發展用地商業區比例百分比、都市發展用地工業區計畫面積公頃、都市發展用地工業區比例百分比、都市發展用地其他分區計畫面積公頃、都市發展用地其他分區比例百分比、都市發展用地公共設施用地計畫面積公頃、都市發展用地公共設施用地比例百分比、非都市發展用地計畫面積公頃、非都市發展用地比例百分比,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=02f782c6-b200-4f14-a5d6-24f940e85939&rid=7823a909-489a-45d5-b362-46c390badc27,CSV,UTF-8
+28228,桃園公共自行車即時服務資料,桃園市政府交通局,data.gov.tw/node/28228,"""sno""：站點代號,""sna""：場站名稱(中文),""tot""：場站總停車格,""sbi""：場站目前車輛數量,""sarea""：場站區域(中文),""mday""：資料更新時間,""lat""：緯度,""lng""：經度,""ar""：地址(中文),""sareaen""：場站區域(英文),""snaen""：場站名稱(英文),""aren""：地址(英文),""bemp""：空站數量(可還車位數),""act""：全站禁用狀態(場站暫停營運)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5ca2bfc7-9ace-4719-88ae-4034b9a5a55c&rid=a1b4714b-3b75-4ff8-a8f2-cc377e4eaa0f,JSON,UTF-8
+28229,桃園中壢區公所104年路燈維修資料,桃園市政府工務局,data.gov.tw/node/28229,"流水號,流水號路燈,報修日期,民眾路燈編號,區域,里,損壞概況,報修地點,報修來源,廠商路燈編號,損壞地點,故障情形",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3941387e-a5fd-4c32-a22e-634716f2d2f9&rid=ff143a03-a5a6-404b-8b18-fc0331b6085b,CSV,UTF-8
+28231,桃園中壢區公所路燈資料,桃園市政府工務局,data.gov.tw/node/28231,"流水號,編號,區域,里,路街,位置,類型,方向,燈別,瓦數,isOldId,X,Y,燈桿形式,高度",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=28766ebf-fdcb-482e-ace7-659d38ffcb3f&rid=5f499a67-3cfc-4c62-aad1-2b56b83921a5,CSV,UTF-8
+28232,桃園市各都市計畫-公共設施類型分析表,桃園市政府都市發展局,data.gov.tw/node/28232,編號、都市計畫名稱、休閒遊憩類面積公頃、休閒遊憩類比例、服務類面積公頃、服務類比例、文教類面積公頃、文教類比例、公用事業纇面積公頃、公用事業纇比例、交通運輸類面積公頃、交通運輸類比例、鄰避類面積公頃、鄰避類比例、其他面積公頃、其他比例、所有公共設施面積公頃、所有公共設施比例,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a6ac9c77-479f-4713-b860-a6b9a9c9c9ad&rid=068b83b3-f4d2-4a56-a8ad-6a8e04b1a5fe,CSV,UTF-8
+28233,104年度桃園市都市設計審議委員第1審議會受理案件量,桃園市政府都市發展局,data.gov.tw/node/28233,開會次數、審議次數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=abd9dce4-9b96-4012-9648-7e4004a59595&rid=f8c8ef1e-10d3-49d1-a6c3-47f15b8be10a,CSV,UTF-8
+28234,桃園市各都市計畫-通盤檢討辦理情形彙整表,桃園市政府都市發展局,data.gov.tw/node/28234,編號、都市計畫名稱、歷次通盤檢討公告實施日期原計畫、歷次通盤檢討公告實施日期一通、歷次通盤檢討公告實施日期二通、歷次通盤檢討公告實施日期三通、歷次通盤檢討公告實施日期四通,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=eb877d59-c060-4f48-b9cc-75b2f6ca4233&rid=64d8c8f7-bad0-442e-9415-5e196ea41c15,CSV,UTF-8
+28235,桃園市各都市計畫-人口數與人口成長率彙整表,桃園市政府都市發展局,data.gov.tw/node/28235,編號、都市計畫名稱、現況人口97年、現況人口98年、現況人口99年、現況人口100年、現況人口101年、現況人口102年、人口成長率,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=92827b22-45f0-433e-bf69-3924a994083c&rid=e80fcd27-d2c9-41e0-aec0-70ff124c7829,CSV,UTF-8
+28435,桃園市南區青少年活動中心場地租借說明,桃園市政府社會局,data.gov.tw/node/28435,場地別、座位數、租借時段、平日場地維護費、週末假日場地維護費、空調冷氣費、清潔費、鋼琴租用設備費、單槍投影設備租用費、保證金、空間數量,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e46dc3a1-0f32-48a4-b4e4-b39716b574e5&rid=24626322-bfa4-4806-aeb6-e48c760e3e5b,CSV,UTF-8
+28473,桃園市福利補助申辦項目,桃園市政府研究發展考核委員會,data.gov.tw/node/28473,政策名稱、承辦機關、承辦單位、政策說明、申請資格-設籍限制、申請資格-身分別、申請資格-身分次類別、申請資格-年齡下限、申請資格-年齡上限、問題別、申請資格、申請方式、申辦流程連結、應備證件連結、線上申辦連結、案件表書下載連結、聯絡窗口、交付方式、處理時間、備註欄,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4b518aac-0f63-4b7d-ac3a-1cb3543055ee&rid=09165a43-299a-4d67-953d-650f8b5db846,CSV,UTF-8
+28534,桃園市開放資料瀏覽與下載量統計表-國發會平台,桃園市政府研究發展考核委員會,data.gov.tw/node/28534,"序號,資料集名稱,上架狀態,服務分類,資料集提供機關,新增瀏覽量,新增下載量,開始日期,結束日期",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=33f86e91-bde6-40fd-9b0c-8eaa4f28661c&rid=36098f24-0c57-40df-8924-a44ca800a26a,CSV,UTF-8
+28641,桃市府辦理完成自辦市地重劃區重劃後地號一覽表,桃園市政府地政局,data.gov.tw/node/28641,鄉鎮市區、重劃區名稱、段、小段、重劃後地號(始末)、備註,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9b024ed2-e57e-446d-aae2-dcad3765c2d2&rid=8e2b6a66-cfe7-40fa-9705-5a8a9dfca15c,CSV,Big5
+28676,103年桃園市交通事故資料表,桃園市政府警察局,data.gov.tw/node/28676,年、月、日、時、分、縣市、區、死、受傷、天候、光線、道路類別、速限、道路型態、事故位置、路面鋪裝、路面狀態、路面缺陷、障礙物、視距、號誌種類、號誌動作、分向設施、快車道或一般車道間、快慢車道間、路面邊線、事故類型及型態、主要肇因、受傷程度、主要傷處、保護裝備、行動電話、當事者區分、車輛用途、當事者行動狀態、駕駛資格情形、駕駛執照種類、飲酒情形、車輛撞擊部位最初、車輛撞擊部位其他、肇事因素個別、肇事因素主要、肇事逃逸、職業、旅次目的、車種,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4411539b-7352-4b9a-a1f2-da36d1c2a584&rid=ab31e44c-f893-45e1-a716-8477515f9cb3,DOC,Big5
+28677,102年度重劃區抵費地標售結果統計表,桃園市政府地政局,data.gov.tw/node/28677,"期別、開標日期、鄉鎮市、段、地號、面積(平方公尺)、土地分區使用類別、臨接道路寬度(公尺)、標售單價(元/平方公尺)、標售單價(元/坪)、脫標單價(元/坪)、標售底價(元)、標售金額(元)、高於底價金額(元)、溢價比率(%)
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8462f319-2166-4551-8d67-bd91df677703&rid=bf34435b-e366-4a50-b59f-83634d15411f,CSV,UTF-8
+28678,101年桃園市交通事故資料表,桃園市政府警察局,data.gov.tw/node/28678,年、月、日、時、分、縣市、區、死、受傷、天候、光線、道路類別、速限、道路型態、事故位置、路面鋪裝、路面狀態、路面缺陷、障礙物、視距、號誌種類、號誌動作、分向設施、快車道或一般車道間、快慢車道間、路面邊線、事故類型及型態、主要肇因、受傷程度、主要傷處、保護裝備、行動電話、當事者區分、車輛用途、當事者行動狀態、駕駛資格情形、駕駛執照種類、飲酒情形、車輛撞擊部位最初、車輛撞擊部位其他、肇事因素個別、肇事因素主要、肇事逃逸、職業、旅次目的、車種,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0d9c8d8d-83c3-48a0-a57a-7a392634f46a&rid=ff682631-c483-4548-8526-68e5ae75194e,DOC,Big5
+28679,104年度重劃區抵費地標售結果統計表,桃園市政府地政局,data.gov.tw/node/28679,"期別、開標日期、鄉鎮市、段、地號、面積(平方公尺)、土地分區使用類別、臨接道路寬度(公尺)、標售單價(元/平方公尺)、標售單價(元/坪)、脫標單價(元/坪)、標售底價(元)、標售金額(元)、高於底價金額(元)、溢價比率(%)
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=273e78b6-2663-4ad4-bc2b-25a7b215df37&rid=10b7d775-8fc8-4101-89eb-09c3586f2f65,CSV,UTF-8
+28681,102年桃園市交通事故資料表,桃園市政府警察局,data.gov.tw/node/28681,年、月、日、時、分、縣市、區、死、受傷、天候、光線、道路類別、速限、道路型態、事故位置、路面鋪裝、路面狀態、路面缺陷、障礙物、視距、號誌種類、號誌動作、分向設施、快車道或一般車道間、快慢車道間、路面邊線、事故類型及型態、主要肇因、受傷程度、主要傷處、保護裝備、行動電話、當事者區分、車輛用途、當事者行動狀態、駕駛資格情形、駕駛執照種類、飲酒情形、車輛撞擊部位最初、車輛撞擊部位其他、肇事因素個別、肇事因素主要、肇事逃逸、職業、旅次目的、車種,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=586ad9b5-67e2-40d3-a194-a8ee636170e1&rid=2d6a2cee-77f5-4acd-9176-1fb00dbcc6b0,DOC,Big5
+28682,104年桃園市交通事故資料表,桃園市政府警察局,data.gov.tw/node/28682,年、月、日、時、分、縣市、區、死、受傷、天候、光線、道路類別、速限、道路型態、事故位置、路面鋪裝、路面狀態、路面缺陷、障礙物、視距、號誌種類、號誌動作、分向設施、快車道或一般車道間、快慢車道間、路面邊線、事故類型及型態、主要肇因、受傷程度、主要傷處、保護裝備、行動電話、當事者區分、車輛用途、當事者行動狀態、駕駛資格情形、駕駛執照種類、飲酒情形、車輛撞擊部位最初、車輛撞擊部位其他、肇事因素個別、肇事因素主要、肇事逃逸、職業、旅次目的、車種,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=348e8731-b63b-4adb-999e-cfc4480af3d2&rid=ced34c5e-1ab7-4b7c-8aad-eaba6c655e13,DOC,Big5
+28683,桃園市歷年農地重劃區重劃前後段別對照表,桃園市政府地政局,data.gov.tw/node/28683,"期別、區、重劃區名稱、段、小段、重劃後地號
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cf45bfc5-7108-4b6d-809b-25e9e4af6b8c&rid=05e346ab-a0c7-445c-9290-87a257bf5119,CSV,UTF-8
+28684,101年度重劃區抵費地標售結果統計表,桃園市政府地政局,data.gov.tw/node/28684,期別、開標日期、鄉鎮市、段、小段、地號、面積(平方公尺)、土地分區使用類別、臨接道路寬度(公尺)、標售單價(元/平方公尺)、標售底價(元)、標售金額(元)、高於底價金額(元)、溢價比率(%),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ab51c559-37ec-4c58-8f08-bee742c35a90&rid=2cb7075c-1da2-4594-8a91-032adac4a27a,CSV,UTF-8
+28710,105年度大園區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28710,新、舊建號行政區，新、舊地段名稱，新、舊建號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=22f0b316-d3d2-40bd-bcd8-9f467268d180&rid=6a3ea61d-9ee8-49c8-9101-bc802d110b15,CSV,Big5
+28712,105年度楊梅區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28712,新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=01d86990-deef-4f66-b181-f136148fc47d&rid=e6bb3da4-b3a9-45fb-82ed-12399431ceaa,CSV,UTF-8
+28713,105年度觀音區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28713, 新、舊建號行政區，新、舊地段名稱，新、舊建號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=30279579-4708-4fd4-822d-4aa9b3a0d014&rid=fba095a7-d381-47d5-b2aa-f91d59ded7d2,CSV,Big5
+28715,105年度新屋區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28715,新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3f3f4bcb-ae24-478b-91dd-18577d1a21b2&rid=320f967b-fac8-4f38-9b27-1b77f891585d,CSV,UTF-8
+28716,105年度大溪區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28716,新、舊建號行政區，新、舊地段名稱，新、舊建號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8329eaef-ec36-4c4b-893d-08d307e01720&rid=46eaadaf-ece7-4154-ab1b-7d66fef8709a,CSV,Big5
+28717,105年度龍潭區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28717,新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7dceebf0-198c-4406-9c91-57831a8908b7&rid=ce8c6a6c-cfdc-485b-be34-88c0159aca27,CSV,UTF-8
+28718,桃園市警察局巡邏箱數量,桃園市政府警察局,data.gov.tw/node/28718,"1.分局：巡邏箱所屬分局。	
+2.巡邏箱數量：巡邏箱總數量。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b97284d9-9e8b-4311-b933-c5d424e570c2&rid=a3f120a7-8ae9-4489-a2bf-636b01b93ca9,CSV,Big5
+28719,105年度桃園區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28719, 新、舊建號行政區，新、舊地段名稱，新、舊建號,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c05f8ff1-f9c2-44c9-9e3a-983c95628ba2&rid=fc50f886-4fbe-45d8-8326-e4b55d437641,CSV,Big5
+28720,105年度八德區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28720, 新、舊地號行政區，新、舊地段名稱，新、舊地號,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9c1b4160-e263-4164-aa81-7ab932d907ee&rid=c5986e7a-24ed-4a6b-aea7-6ef15a5cbe6c,CSV,UTF-8
+28721,105年度中壢區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28721, 新、舊建號行政區，新、舊地段名稱，新、舊建號,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=06e5d5ba-4599-4742-b88d-d7f00703dd31&rid=316e745b-7596-4a74-a461-d42107ef7c40,CSV,Big5
+28722,105年度平鎮區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28722, 新、舊建號行政區，新、舊地段名稱，新、舊建號,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5d66819e-6236-4a8b-8bed-c3402b13874b&rid=cfce4dab-9bd9-4074-86af-b12e317764a9,CSV,Big5
+28723,105年度大溪區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28723,新、舊地號行政區，新、舊地段名稱，新、舊地號,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=61faefd6-7b31-48b9-a5fc-20e78cf71799&rid=5ebc0b91-d1bf-4867-96f9-bf9143b284b5,CSV,Big5
+28724,105年度平鎮區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28724,新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cb192c16-8bec-45f3-8e66-f7c0fbfb7b26&rid=04de28b0-3369-4424-9d07-9878a86f49d2,CSV,UTF-8
+28725,105年度楊梅區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28725, 新、舊建號行政區，新、舊地段名稱，新、舊建號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=21c87328-e0f6-4af4-9dd9-0addc1a486ab&rid=4dd2a197-495b-4426-b542-11058facb6ac,CSV,Big5
+28726,桃園市合法地政士開業名冊,桃園市政府地政局,data.gov.tw/node/28726,姓名、性別、電話、傳真、證書字號、開業縣市、區市鄉鎮、開業證書字號、執照核發日期、執照有效期限、事務所名稱、事務所地址、共同執業人、不得請領開業執照、公會名稱、加入公會日期,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4e5bccb8-c6ff-4d00-b05e-06aa30cb450f&rid=de346daf-7b13-40a4-8df4-8a940b27e760,CSV,Big5
+28727,105年度觀音區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28727,新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=813a2877-a0c4-4907-b891-7a4aa5677cc1&rid=4d5b07fa-5727-4907-a058-c610c68a89c7,CSV,UTF-8
+28728,桃園市高再犯危險之性侵害加害人人數統計,桃園市政府警察局,data.gov.tw/node/28728,年度 月份 人數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=56333f25-ea1b-491c-bc25-16bb2dcc18bd&rid=4e0c4786-cdc7-4687-a1a9-79b16cc0cb45,CSV,UTF-8
+28729,105年度龜山區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28729, 新、舊建號行政區，新、舊地段名稱，新、舊建號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=06a533bf-de86-4399-b8e7-a486325f677c&rid=fa2d8f74-a0eb-4da3-8209-a4a57e158a30,CSV,Big5
+28731,105年度龜山區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28731,新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=226be2ce-e0dc-4622-88df-aa291a7770a2&rid=cd8be22b-56c0-4d1e-960d-b67164dc1f5a,CSV,UTF-8
+28732,桃園市十大易肇事路段(口),桃園市政府警察局,data.gov.tw/node/28732,"年度	道路種類	道路位置	事故種類	件數	死亡人數	受傷人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=64a3e4ff-cdae-4880-95e2-3e6a38fb9d43&rid=ac4b4c24-d08f-47c6-9d41-b83fc40645a0,CSV,UTF-8
+28733,105年度蘆竹區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28733, 新、舊建號行政區，新、舊地段名稱，新、舊建號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f4cebe43-2769-4d23-8aaf-9cb2f4758a1a&rid=94a64418-4285-4f20-b42b-a5f027b00a30,CSV,Big5
+28734,105年度中壢區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28734, 新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2065bf19-dd71-4b27-9f1a-19fffbe3195b&rid=8edd9861-5eee-4a01-95ca-5cb4540b3042,CSV,UTF-8
+28735,105年度大園區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28735, 新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9b6eab3f-1689-4810-b00d-470520d34e73&rid=0eae111a-65cb-4ef7-a908-36e8cd453881,CSV,Big5
+28736,105年度桃園區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28736, 新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=89156395-1e03-44cc-8778-964a7d535052&rid=c14a9e9e-05ea-4d70-b8da-2bb6b85003f3,CSV,UTF-8
+28737,105年度龍潭區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28737, 新、舊建號行政區，新、舊地段名稱，新、舊建號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=70beb6ca-6513-46b9-a4ae-599fcd251667&rid=42de829e-05a1-4f5b-ab0c-89b984cb3dcb,CSV,Big5
+28738,105年度蘆竹區新舊地號對照資料,桃園市政府地政局,data.gov.tw/node/28738,新、舊地號行政區，新、舊地段名稱，新、舊地號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=92bdfbcf-0aff-45b0-8268-5d292e3e3466&rid=ece738e3-a80b-4e63-9d81-e899a56d0b71,CSV,UTF-8
+28739,105年度八德區新舊建號對照資料,桃園市政府地政局,data.gov.tw/node/28739,新、舊建號行政區，新、舊地段名稱，新、舊建號 ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4d9e315d-07e4-491a-aafd-a04ca3b9e5d7&rid=e85e2212-0730-4e50-a9f9-30c8e71a1366,CSV,Big5
+28764,公車站點資料,桃園市政府交通局,data.gov.tw/node/28764,站點資料,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d7a0513d-1a91-4ae6-a06f-fbf83190ab2a&rid=8cbcf170-8641-4a0d-8fe8-256a36f4c6cb,XML,UTF-8
+28765,2016台灣燈會臨時公有停車場統計表,桃園市政府研究發展考核委員會,data.gov.tw/node/28765,"剩餘車位,時間,停車場",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=15638421-0922-4215-9235-15fced52a89d&rid=3338d4c2-06fc-429a-a7ff-e0aa24797877,CSV,UTF-8
+29804,桃園市公寓大廈管理委員會清冊(桃園區),桃園市政府都市發展局,data.gov.tw/node/29804,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2be0de09-1549-48f4-bf0f-05b2125cf029&rid=da5c4bc8-739f-45a9-9929-65d29189e29b,CSV,UTF-8
+29805,桃園市公寓大廈管理委員會清冊(中壢區),桃園市政府都市發展局,data.gov.tw/node/29805,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4c655d74-5f00-4ddd-aa15-1655cfee9e80&rid=af5bd1fb-c4cc-43b2-94b9-e3ae8698a033,CSV,UTF-8
+30627,桃園市公寓大廈管理委員會清冊(新屋區),桃園市政府都市發展局,data.gov.tw/node/30627,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c14847d7-d569-4c75-9357-a2341ff1e92f&rid=07ccd828-cfdb-410e-8055-400f8972c12f,CSV,UTF-8
+30628,桃園市公寓大廈管理委員會清冊(楊梅區),桃園市政府都市發展局,data.gov.tw/node/30628,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=925b54ec-8e25-4dd3-b53d-a5381a2549bf&rid=06bd1bdd-3217-4c91-8a3d-00718d8c1872,CSV,UTF-8
+30630,桃園市公寓大廈管理委員會清冊(觀音區),桃園市政府都市發展局,data.gov.tw/node/30630,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=80d01d05-44cf-4071-aba2-135a4c22fe7f&rid=03f4305a-61f1-48b8-a2aa-25e9cfebe285,CSV,UTF-8
+30631,桃園市公寓大廈管理委員會清冊(平鎮區),桃園市政府都市發展局,data.gov.tw/node/30631,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2a1071bc-65e0-4a9e-bc09-986f1ee7b072&rid=27d728f7-3218-4f2c-ad39-ac60a1719aa4,CSV,UTF-8
+30632,桃園市公寓大廈管理委員會清冊(蘆竹區),桃園市政府都市發展局,data.gov.tw/node/30632,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1c7c4f9a-a042-493a-966c-8b630b9f14ed&rid=79e1030d-f5a7-4aa3-9ddb-a7fdbf714d8b,CSV,UTF-8
+30633,桃園市公寓大廈管理委員會清冊(大溪區),桃園市政府都市發展局,data.gov.tw/node/30633,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e6557eeb-9e37-4b8d-9977-fb614f7a65ef&rid=46f202d6-2591-42fc-95c8-92c2e2216315,CSV,UTF-8
+30634,桃園市公寓大廈管理委員會清冊(八德區),桃園市政府都市發展局,data.gov.tw/node/30634,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=29427853-da63-4605-aa6f-f6bca036ec8f&rid=667fe85d-404a-46eb-b95f-70e8dea7eda6,CSV,UTF-8
+30636,桃園市公寓大廈管理委員會清冊(龍潭區),桃園市政府都市發展局,data.gov.tw/node/30636,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c84fb98b-ae3e-4fde-99da-93a85d6c2c40&rid=f69060a2-12c5-4a01-b837-9296ab09f2de,CSV,UTF-8
+30637,桃園市無障礙廁所清冊,桃園市政府都市發展局,data.gov.tw/node/30637,縣市名稱、鄉鎮市名稱、村里名稱、建檔編號、名稱、地址、建檔管理類型、公廁類型,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5ed69a41-1389-47ee-aa7b-0531092d5a9c&rid=1deb0e4f-0e0b-4293-b935-7480108b61dd,CSV,UTF-8
+30638,桃園市公寓大廈管理委員會清冊(龜山區),桃園市政府都市發展局,data.gov.tw/node/30638,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=670ff888-ef57-428e-9a7c-189ac24b4fa5&rid=0c8721c0-c6a1-4d51-8194-6d5ceb907285,CSV,UTF-8
+30859,桃園市開放資料瀏覽與下載量統計表,桃園市政府研究發展考核委員會,data.gov.tw/node/30859,資料集名稱、提供單位、資料集瀏覽次數(自建)、資料瀏覽次數(國發會)、資料瀏覽次數、檔案下載次數(自建)、檔案下載次數(國發會)、檔案下載次數、API介接成功次數、起始日期、結束日期,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2672538c-67f1-401a-9dc8-877ee6c82812&rid=3ecb5cd6-65ad-45c3-9830-106674b38973,CSV,UTF-8
+30908,桃園市立圖書館地址通訊錄,桃園市政府文化局,data.gov.tw/node/30908,"項次,區,館別,地址,電話",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=29f95dac-65dc-45f6-8511-2252c1a42fe7&rid=a73472dc-9799-4e9a-bfe9-7895b886062c,CSV,UTF-8
+30928,桃園市立案不動產估價師事務所清冊,桃園市政府地政局,data.gov.tw/node/30928,核發日期、事務所名稱、姓名(事務所負責人姓名)、事務所類別(是否為獨立事務所)、開業證書字號、事務所地址、事務所電話/傳真、有效期限(證照有效日期),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0f20e6f0-66c8-4e14-bd65-9876019a3cae&rid=f450b076-c998-4db8-86e7-f8b5c06b7c3c,CSV,Big5
+30938,桃園市健保特約藥局,桃園市政府衛生局,data.gov.tw/node/30938,藥局,http://taoyuan.esritw.opendata.arcgis.com/datasets/41b1127fabda452dae9a46680dd60fee_29.csv,其他,UTF-8
+30951,桃園市房屋標準單價表(1-30樓)-104.7.1以後建造完成,桃園市政府地方稅務局,data.gov.tw/node/30951,構造(用途)、總樓層數、單價,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6cc5394e-98c3-43a5-99c4-7dde32507df9&rid=ec7529d5-3e25-405e-8f71-f3101ecdae14,CSV,Big5
+30957,桃園市政府都市發展局機關通訊錄,桃園市政府都市發展局,data.gov.tw/node/30957,"項次	單位名稱	總機	連絡電話分機
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=aae55a24-5280-47c9-9395-44ff0a37c309&rid=dd05b771-bdd6-42d5-8578-4ce2cccccd2a,CSV,UTF-8
+30958,桃園市公寓大廈管理委員會清冊(大園區),桃園市政府都市發展局,data.gov.tw/node/30958,序號、管理委員會、建築物地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=83323ad4-9f45-4fd0-bfa7-8bab6f4e1117&rid=e36ffb3a-360f-40c6-a632-491717a1eddb,CSV,UTF-8
+31228,桃園市火災次數分類及時間,桃園市政府消防局,data.gov.tw/node/31228,火災次數、火災分類(建築物、森林田野、車輛、船舶、航空器、其他)、起火時段(0~3時、3~6時、6~9時、9~12時、12~15時、15~18時、18~21時、21~24時),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6642efb3-73c4-41dd-902e-8931bc3f7419&rid=95daae9f-ff04-4d88-8828-533bd5796642,CSV,UTF-8
+31229,桃園市起火建築物,桃園市政府消防局,data.gov.tw/node/31229,建築物高度(一層到五層、六層到十二層、十三層到十九層、二十層到二十九層、三十層以上)、起火建築物類別(獨立住宅、集合住宅、辦公建築、商業建築、複合建築、倉庫、工廠、寺廟、其他)、起火建築物火災時用途(住宅、營業場所、作業場所、倉庫、空屋或修建中、公共設施、其他),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1d57b6fc-f1d9-4894-b3e3-e3c1381ff479&rid=788f65e0-3bee-46ba-8779-b3b7171f96da,CSV,UTF-8
+31230,桃園市火災次數按起火原因分,桃園市政府消防局,data.gov.tw/node/31230,區域別、縱火、自殺、燈燭、爐火烹調、敬神掃墓祭祖、菸蒂、電氣因素、機械設備、玩火、烤火、施工不慎、易燃品自燃、瓦斯漏氣或爆炸、化學物品、燃放爆竹、交通事故、天然災害、遺留火種、原因不明、其他,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a7bfc51b-ae39-41a0-851f-0fa0f38e3b4f&rid=7e3a1ac2-e6de-489c-a9c3-b58066e53839,CSV,UTF-8
+31231,桃園市消防人力學歷統計表,桃園市政府消防局,data.gov.tw/node/31231,學歷程度人數、各官等學歷程度人數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1d6a4fa0-1c13-41bf-bdd3-631dabb9c255&rid=d2f9dbec-7ba1-413d-a002-2581cbd2c3fc,CSV,UTF-8
+31232,桃園市消防人力年齡統計表,桃園市政府消防局,data.gov.tw/node/31232,年齡區間人數、各官等年齡區間人數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=efc1a4b5-b02c-4700-8a36-2c7805bf47e6&rid=cf4273ee-b1fc-4ebe-9877-88f882f42de9,CSV,UTF-8
+31233,桃園市火災人員死傷財物損失,桃園市政府消防局,data.gov.tw/node/31233,死亡人數(男、女)、受傷人數(男、女)、死傷原因(人)(合計、自殺、火焰灼燒、有害氣體、跳樓、外物擊中、倒塌物壓倒、其他、不明因素)、被毀損(房間數)、被毀損車輛數(輛)(合計、大型車、小型車、特種車、機車、其他)、財物損失情形(合計、房屋、財物),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=32910420-3cb1-44e2-87e5-63ed666d8c69&rid=0f25425f-9a34-42de-a7c5-33f5e893fc15,CSV,UTF-8
+31234,桃園市消防緊急救護急救處置,桃園市政府消防局,data.gov.tw/node/31234,呼吸道處置、創傷處置、心肺復甦術、藥物處置、其他處置,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=338a8fa1-877a-4ba7-b435-79d72c06813b&rid=36a64f6e-5b45-4b95-84a8-e90cebf123b1,CSV,UTF-8
+31235,桃園市火災次數按起火處所分,桃園市政府消防局,data.gov.tw/node/31235,客廳、餐廳、臥室、書房、廚房、浴廁、神龕、陽台、庭院、辦公室、教室、倉庫、機房、攤位、工寮、樓梯間、電梯、管道間、走廊、停車場、騎樓下、路邊、墓地、其他,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=28f1cc66-1979-4ed6-a0f0-c510c17c47df&rid=02d7c080-b614-49e6-87a4-5918b5961b48,CSV,UTF-8
+31236,桃園市消防人力性別官等統計表,桃園市政府消防局,data.gov.tw/node/31236,主管男女人數、非主管男女人數、各官等男女人數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=32500700-16d7-40c8-945d-8172f281d5b6&rid=be5cbf52-e06d-4095-ad2d-e2f677533443,CSV,UTF-8
+31237,桃園市消防局防災社區訓練場次,桃園市政府消防局,data.gov.tw/node/31237,行政區、守望相助隊別,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d808c0f0-c4ea-400c-b830-6207147af666&rid=adabb9b1-a90a-41e8-9011-6ed4615eab26,CSV,UTF-8
+31238,桃園市消防分隊駐地位置圖,桃園市政府消防局,data.gov.tw/node/31238,單位名稱、地址、WGS84經緯度座標,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0df0f341-1ccd-4f0b-b073-c2b9f88e7d37&rid=51007a47-1638-451f-af91-8089bc23354f,CSV,UTF-8
+31239,桃園市政府消防局年度捐贈芳名錄,桃園市政府消防局,data.gov.tw/node/31239,捐贈項目(救護車、救護器材、救護服裝)、捐贈者,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=af382429-d009-472e-a3f2-01bf3133f25f&rid=3499a8fb-64de-4c9d-9091-e25f5f97927a,CSV,UTF-8
+31240,桃園市消防緊急救護服務,桃園市政府消防局,data.gov.tw/node/31240,月底救護車輛數、救護出勤次數、急救送醫人次,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8ff1cbd1-423a-4e27-9bed-7d29719afdda&rid=6c928dfa-d774-4195-9048-3618a14d269b,CSV,UTF-8
+31241,桃園市民防災手冊,桃園市政府消防局,data.gov.tw/node/31241,桃園市民防災手冊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7134e1c1-7223-4a80-942d-cdaf0fe171fd&rid=1ddffe37-4766-4170-84cf-aad6c40d33d9,PDF,UTF-8
+31242,桃園市道路維修資料,桃園市政府工務局,data.gov.tw/node/31242,"行政區，路權單位申挖種類，工程類型，鋪面，修復管理費，路面修復費，施工期限_起，施工期限_止，施工面積，修復面積，施工地點
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cd978c21-84b8-48d7-bbcd-21647fe1909d&rid=c7a4262e-8c22-4eed-af74-579b9bf865ca,CSV,UTF-8
+31243,桃園市政府消防局人民申請案統計表,桃園市政府消防局,data.gov.tw/node/31243,人民申請案件、月別,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2eb13f03-c6f8-4bf9-88e2-110b7cb555ba&rid=cdb5026e-aeeb-4741-b9e5-ecb7ee1c94a0,CSV,UTF-8
+31272,桃園市政府地方稅務局101年度歲出決算表,桃園市政府地方稅務局,data.gov.tw/node/31272,預算數、決算數、比較增減數、剔除經費繳庫數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5a9ae9b3-4b7a-495f-a9db-564491c2b76e&rid=68b4f0dc-f3d4-4e61-a8c9-680c13257f3b,CSV,UTF-8
+31273,桃園市政府地方稅務局101年度歲入決算表,桃園市政府地方稅務局,data.gov.tw/node/31273,決算數、稅課收入、罰款及賠償收入、規費收入、財產收入、其他收入,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e53fd987-e780-453e-819e-c7fadd8f025b&rid=f6537175-5355-4bca-8bce-3d88dd2e0e10,CSV,UTF-8
+31274,桃園市政府地方稅務局103年度歲出決算表,桃園市政府地方稅務局,data.gov.tw/node/31274,預算數、決算數、比較增減數、剔除經費繳庫數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=55f17fc0-c143-48ca-8b30-3636faec083d&rid=043f1e97-f6a0-49e7-9500-9313b8c5fcec,CSV,UTF-8
+31275,桃園市政府地方稅務局104年度歲出決算表,桃園市政府地方稅務局,data.gov.tw/node/31275,預算數、決算數、比較增減數、剔除經費繳庫數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1f4eded7-2f3a-4d6f-9f8d-bd80ffe3c304&rid=bfddf6b4-5f79-4648-858c-7e436750580d,CSV,UTF-8
+31276,桃園市政府地方稅務局102年度歲入決算表,桃園市政府地方稅務局,data.gov.tw/node/31276,名稱、決算表,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f7388266-6841-4393-8535-2e097807f0a6&rid=42ee37fe-b8a6-45ac-926d-6fe607b292d4,CSV,UTF-8
+31277,桃園市政府地方稅務局102年度歲出決算表,桃園市政府地方稅務局,data.gov.tw/node/31277,預算數、決算數、比較增減數、剔除經費繳庫數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=47568c7d-25ef-464b-a317-d102c0b078fe&rid=a4d35b97-b05d-4689-b03c-fa5a6664bf16,CSV,UTF-8
+31278,桃園市政府地方稅務局104??歲入決算表,桃園市政府地方稅務局,data.gov.tw/node/31278,名稱、決算表,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f7e4252e-c3f4-4d61-866a-3b6ef12c4bca&rid=dfa19a3e-238a-4390-b5d9-d88c9992da4f,CSV,UTF-8
+31279,桃園市政府機關通訊錄API,桃園市政府研究發展考核委員會,data.gov.tw/node/31279,"""lat"":緯度
+""englishtitle"":英文名稱
+""chinesetitle"":中文名稱
+ ""address"": 地址
+""fax"": 傳真
+""email"": 電子郵件
+""lng"": 經度
+""tel"": 電話
+""website"": 網址",http://appapi.tycg.gov.tw/liaison/list?mserno=201401060001,其他,UTF-8
+31280,桃園市政府地方稅務局105年度歲出預算表,桃園市政府地方稅務局,data.gov.tw/node/31280,本年度預算數、上年度預算數、前年度決算數、本年度與上年度比較,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b84333b1-e83f-402f-a42a-1dcaac0398cf&rid=994c86c5-cdd2-411d-9d09-e9c6e6f60b82,CSV,UTF-8
+31281,桃園市政府地方稅務局103年度歲入決算表,桃園市政府地方稅務局,data.gov.tw/node/31281,名稱、決算,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=095ed98d-1e7d-478b-94e9-61d0869db016&rid=043e1d3d-75aa-4c7c-a284-5cf17cfeb672,CSV,UTF-8
+31282,桃園市政府地方稅務局105??歲入預算表,桃園市政府地方稅務局,data.gov.tw/node/31282,名稱、預算數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1ed61261-4541-4d3c-9eb6-545118383151&rid=b54b73fd-fe2d-4e06-9cf9-6b015e832a9b,CSV,UTF-8
+31298,桃園市政府地方稅務局101年稅務秘書執行成果表,桃園市政府地方稅務局,data.gov.tw/node/31298,親臨里長辦公室、下鄉服務、電話服務次數、網路服務次數、宣導諮詢服務人數、受理案件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0948637b-a2e3-469d-8308-63bb732547c1&rid=725299a2-de6e-42fb-a7a7-14f40638a685,CSV,UTF-8
+31299,桃園市政府水務局建置水位站即時偵測資料,桃園市政府水務局,data.gov.tw/node/31299,資料時間、經度、緯度、站名、站名編號、行政區、護岸高M、水位高M、單張影像路徑、串流網址、警戒狀態,http://winfo.tycg.gov.tw/TYSAFE/UPLOADFILE/OPENDATA/WATERLEVEL.XML,其他,UTF-8
+31300,桃園市政府地方稅務局104年稅務秘書執行成果表,桃園市政府地方稅務局,data.gov.tw/node/31300,親臨里長辦公室、下鄉服務、電話服務次數、網路服務次數、宣導諮詢服務人數、受理案件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a19d023b-71e5-4020-9eab-8e79099d082f&rid=77829d7d-3854-4cc2-84e0-d03b2d8fd089,CSV,UTF-8
+31301,桃園市政府地方稅務局102年稅務秘書執行成果表,桃園市政府地方稅務局,data.gov.tw/node/31301,親臨里長辦公室、下鄉服務、電話服務次數、網路服務次數、宣導諮詢服務人數、受理案件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a2c838ff-a05a-4a74-b640-fb5aea80533b&rid=99306468-c99c-42c0-8170-6a6c5e150f8f,CSV,UTF-8
+31302,桃園市政府地方稅務局103-104年跨機關單一窗口服務績效表,桃園市政府地方稅務局,data.gov.tw/node/31302,服務窗口、執行方式、103年件數、104年件數、104年效益,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6e3fbdb4-a7a1-4338-b3d0-95151fe4fec6&rid=3f38de4f-b134-4cc2-a36d-136089b8a0f5,CSV,UTF-8
+31303,桃園市政府地方稅務局104年滿意度調查一覽表,桃園市政府地方稅務局,data.gov.tw/node/31303,面向、調查方式、問卷種類、調查項目、抽樣方法、樣本數、滿意度,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b24bb6a0-6650-41c8-a813-b654ae15d0ca&rid=cfc0056b-1962-4cc0-9b42-26247e4f594e,CSV,UTF-8
+31304,桃園市政府地方稅務局103年稅務秘書執行成果表,桃園市政府地方稅務局,data.gov.tw/node/31304,親臨里長辦公室、下鄉服務、電話服務次數、網路服務次數、宣導諮詢服務人數、受理案件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=26cc4d08-cc8e-41ce-954b-f7de442d8a1f&rid=36d64bee-9fd2-46dc-88f2-b0ca687ea828,CSV,UTF-8
+31338,桃園市公共設施用地已闢建面積,桃園市政府都市發展局,data.gov.tw/node/31338,"總計	公園	綠地	廣場	兒童遊樂場	體育場	道路及人行步道	停車場	加油站	市場	學校	社教機構	醫療衛生	機關	墓地	變電所及電力事業用地	郵件及電信用地	民用航空站及機場	溝渠河道	港埠	捷運系統交通車站鐵路	環保設施	其他	總計
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=aea22655-561a-4b1a-83cc-74d31432808f&rid=91cb140a-643d-41b4-96ef-4c5175febf15,CSV,UTF-8
+31339,桃園市公共設施用地計畫面積,桃園市政府都市發展局,data.gov.tw/node/31339,"總計	公園	綠地	廣場	兒童遊樂場	體育場	道路及人行步道	停車場	加油站	市場	學校	社教機構	醫療衛生	機關	墓地	變電所及電力事業用地	郵件及電信用地	民用航空站及機場	溝渠河道	港埠	捷運系統交通車站鐵路	環保設施	其他	總計
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b442088e-2553-4414-914f-3f30e0afae4f&rid=3860d6be-e0f4-4dbc-ab9e-676814dafc47,CSV,UTF-8
+31340,桃園市都市計畫地區種類,桃園市政府都市發展局,data.gov.tw/node/31340,"都市計畫區別	總計		市鎮計畫		鄉街計畫		特定區計畫
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2c61dd4f-45e7-4882-852a-c70284880eca&rid=43fa5d8e-82ed-4694-98e5-53729db55c33,CSV,UTF-8
+31341,桃園市都市計畫土地使用面積,桃園市政府都市發展局,data.gov.tw/node/31341,"都市計畫區別,合計,都市發展地區,非都市發展地區					
+ ",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=68a7798a-3363-4412-9162-a9d37d3bc4ee&rid=386f42f7-5a72-4a4f-aace-e6a8ad4f4f1b,CSV,UTF-8
+31342,桃園市政府消防局歷年救護相關資料統計,桃園市政府消防局,data.gov.tw/node/31342,出勤次數、急救人數、 OHCA急救成功率、OHCA康復出院人數、旁觀者CPR比率、救護收費告知單、救護收費繳款單,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a206e5c8-ac52-4d6b-9874-8af6f8ca7637&rid=f1134186-0bb3-430c-8a7d-7a846d8c4d82,CSV,UTF-8
+31343,104年度桃園市都市設計審議委員第2審議會全年審議結果數,桃園市政府都市發展局,data.gov.tw/node/31343,開會次數、通過件數、未通過件數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=0a5e72b7-252c-4eb1-bc93-3e2316dda8db&rid=804f5e29-3295-4d98-ab1c-c8fb6422d1bd,CSV,UTF-8
+31344,桃園市公共設施用地已取得面積,桃園市政府都市發展局,data.gov.tw/node/31344,"總計	公園	綠地	廣場	兒童遊樂場	體育場	道路及人行步道	停車場	加油站	市場	學校	社教機構	醫療衛生	機關	墓地	變電所及電力事業用地	郵件及電信用地	民用航空站及機場	溝渠河道	港埠	捷運系統交通車站鐵路	環保設施	其他	總計
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e14f88cb-5bc8-419e-af8c-747012425082&rid=a0b7d7cc-5f08-40d0-8306-1bdf35b1c24f,CSV,UTF-8
+31345,桃園市都市計畫面積及人口,桃園市政府都市發展局,data.gov.tw/node/31345,"公園	綠地	廣場	兒童遊樂場	體育場	道路及人行步道	停車場	加油站	市場	學校	社教機構	醫療衛生	機關	墓地	變電所及電力事業用地	郵件及電信用地	民用航空站及機場	溝渠河道	港埠	捷運系統交通車站鐵路	環保設施	其他	總計",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=086b9ab7-4fd2-48c9-885f-e2d89517f5ce&rid=cdf527fb-cdec-4a1c-8d36-b4981f28fb3c,CSV,UTF-8
+31362,桃園市願意配合推動供氣定型化契約瓦斯行清冊,桃園市政府消防局,data.gov.tw/node/31362,行政區別、瓦斯行名稱、地址、電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=fde35c6f-eb4f-42bb-9fc2-3e511878f5bc&rid=c0dbb36b-8ebb-499f-8aa1-5908ed22bab2,CSV,UTF-8
+31363,桃園市災害防救團體,桃園市政府消防局,data.gov.tw/node/31363,團體名稱、專長,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=efb452f5-cf16-4830-8e36-81ccfe314d4d&rid=a44d1e9f-ecfc-4a78-addc-1985ba9b3476,CSV,UTF-8
+31364,桃園市申請燃氣熱水器遷移或汰換補助流程,桃園市政府消防局,data.gov.tw/node/31364,步驟，內容,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=62fecfe4-a5a4-4d85-8708-9d97c2630e4d&rid=8a758d5e-2fd0-42b6-af98-5afb20f49bbd,CSV,UTF-8
+31365,桃園市政府消防局辦理各項訓練統計,桃園市政府消防局,data.gov.tw/node/31365,"科室，課程項目，辦理期程，梯次，人次，辦理地點
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cfdfdd04-448b-4bd0-bdb7-d87e19008f7f&rid=576b2c65-7195-44d9-ac08-1999d632d0c4,CSV,UTF-8
+31394,桃園市消防局防災社區訓練場次,桃園市政府消防局,data.gov.tw/node/31394,行政區，守望相助隊別,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2d21b0d5-75a2-4a57-8eb0-fbda6600d28a&rid=53daf4c5-90ac-46ef-aa80-a8e2df834273,CSV,UTF-8
+31402,桃園市政府警察局105年主管預算表,桃園市政府警察局,data.gov.tw/node/31402,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=18be40e6-c879-415b-8277-b0c03b83bd0b&rid=356d1075-9904-46f2-96eb-4f043e1a12d2,CSV,UTF-8
+31403,桃園市政府警察局100年主管預算表,桃園市政府警察局,data.gov.tw/node/31403,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d3aa2f7c-5a61-4476-acba-ced2cc8a0ffa&rid=49c9556f-50f5-4cd2-afe5-fefcc469259a,CSV,UTF-8
+31404,桃園市政府警察局預算彙整表(各年度、所屬各機關),桃園市政府警察局,data.gov.tw/node/31404,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cbc57247-e119-440b-b355-54df4df927be&rid=948259f5-d086-4810-8fed-3e0d72efb9c8,CSV,UTF-8
+31405,桃園市政府警察局104年主管預算表,桃園市政府警察局,data.gov.tw/node/31405,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ff363b69-17a1-4c2a-9661-e1338328769f&rid=af7084b0-5323-438d-adeb-d11d602abf53,CSV,UTF-8
+31406,桃園市政府警察局102年主管預算表,桃園市政府警察局,data.gov.tw/node/31406,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8d9de71c-2b00-4776-a9cf-15f3cec8927f&rid=87f11423-fc4b-427f-8fd3-d3e74be3b0a6,CSV,UTF-8
+31407,桃園市政府警察局101年主管預算表,桃園市政府警察局,data.gov.tw/node/31407,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d8c26843-5c94-48d0-abf0-f4b7006e9661&rid=7d31237e-45eb-4833-a5a4-5dc1eaea0c69,CSV,UTF-8
+31408,桃園市地震斷層帶圖資,桃園市政府消防局,data.gov.tw/node/31408,桃園市地震斷層帶圖資,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7cd7a0a5-753e-4a39-8b81-e737a24ff4a9&rid=90051ba4-d03a-4649-a56a-ce63e33b2e19,KMZ,UTF-8
+31409,桃園市政府警察局103年主管預算表,桃園市政府警察局,data.gov.tw/node/31409,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=df6c7371-25e0-4b6c-bcab-04d09830e764&rid=f6b8131a-8c49-4a24-9f55-44c13118728f,CSV,UTF-8
+31458,桃園市政府警察局105年局本部預算表,桃園市政府警察局,data.gov.tw/node/31458,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=adffbd77-a3d3-41d5-94e0-711f22bd2757&rid=08bfe462-377c-492c-aed2-cdc6ec0e880c,CSV,UTF-8
+31459,桃園市政府警察局101年局本部預算表,桃園市政府警察局,data.gov.tw/node/31459,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1328be1f-2b62-4f92-b50c-72fda68d89cc&rid=79bf642a-af5c-4df8-a20c-fb8edb4ee6ee,CSV,UTF-8
+31460,桃園市各區公墓資訊,桃園市政府民政局,data.gov.tw/node/31460,"編號,設施區域,設施名稱,座落地號或地址,聯絡地址,電話",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=339c9ea6-dad2-410b-b973-e4b51b28e186&rid=02cbd4e9-78d4-4e35-a9ae-83720aea18c6,CSV,UTF-8
+31461,104年度桃園市烘培業餐飲衛生分級評核名單,桃園市政府衛生局,data.gov.tw/node/31461,"編號,烘焙業輔導業者,地址,查核結果
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6c390d7a-2738-4fce-bfc4-6c452cf81788&rid=974b9fae-ba9d-4b63-96aa-04afe13157cd,CSV,UTF-8
+31462,桃園市各區公立納骨塔資訊,桃園市政府民政局,data.gov.tw/node/31462,"編號,設施區域,設施名稱,座落地號或地址,聯絡地址,電話",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8067a7f0-f5e1-4796-8450-eed89075eae3&rid=b9ec68df-bd4d-4ae7-a80f-984eb9ae14f9,CSV,UTF-8
+31463,104年度桃園市早餐業餐飲衛生分級評核名單,桃園市政府衛生局,data.gov.tw/node/31463,"編號，早餐輔導業者，地址，查核結果
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3f6e465f-13e7-4940-9807-055e938fd369&rid=147ebad4-e06b-45b7-99bd-fdb634552479,CSV,UTF-8
+31464,桃園市政府警察局103年局本部預算表,桃園市政府警察局,data.gov.tw/node/31464,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=40d93c1a-9551-4999-b349-cfaf10f3c962&rid=79311f65-71f1-448c-b70e-0ad04b8d60e7,CSV,UTF-8
+31465,桃園市消防實用英文,桃園市政府消防局,data.gov.tw/node/31465,詞彙，翻譯,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8398058c-1763-42d2-a332-9095fd8035d4&rid=9e439cd9-44e7-4f49-bd4b-c3a51324d384,CSV,UTF-8
+31466,桃園市政府警察局104年局本部預算表,桃園市政府警察局,data.gov.tw/node/31466,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=313a7365-ecac-41e1-acb2-8c6fc6a8e1d5&rid=093131a3-a9e7-46c2-907e-7e0c93c7c398,CSV,UTF-8
+31467,桃園市各區禁葬公墓資訊,桃園市政府民政局,data.gov.tw/node/31467,"編號,設施區域,設施名稱,座落地號或地址,聯絡地址,電話,備註",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b3ce0b64-7311-4245-84cf-317843aae34e&rid=219c8390-17b3-4be9-9658-4d90efe83669,CSV,UTF-8
+31468,桃園市政府警察局102年局本部預算表,桃園市政府警察局,data.gov.tw/node/31468,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4e881b82-ef89-425e-bdf9-8c912bae13f9&rid=06fb2f85-5515-475c-9fce-863ee167d507,CSV,UTF-8
+31481,桃園市燃氣熱水器技術士清冊,桃園市政府消防局,data.gov.tw/node/31481,承裝業名稱、地址、負責人姓名、技術士姓名、證號、備註,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=58928ebf-515a-4b1e-adb5-b103ba5a4a77&rid=8105cf44-5541-4446-bfea-16a85d71b92e,CSV,UTF-8
+31482,桃園市政府警察局103年中壢分局預算表,桃園市政府警察局,data.gov.tw/node/31482,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=47beaee8-6936-40cf-a877-f594e5520960&rid=230eac75-4e41-4283-a684-62e58377a222,CSV,UTF-8
+31483,桃園市防焰性能認證合格廠商,桃園市政府消防局,data.gov.tw/node/31483,列管家數，檢查件次，合格件次，不合格件次,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5026454e-6d8a-4c07-b469-1b5548b2903f&rid=46b8ebcc-7cc6-4b78-ad9c-55e252b56c63,CSV,UTF-8
+31484,桃園市政府消防局104年昌鴻颱風天然災害人員傷亡、建物損失、重大災害財物損失報表,桃園市政府消防局,data.gov.tw/node/31484,區域別，人員傷亡總計_人，死亡人數_男_0至未滿12歲，死亡人數_男_12至未滿18歲，死亡人數_男_18至未滿65歲，死亡人數_男_65歲以上，死亡人數_女_0至未滿12歲，死亡人數_女_12至未滿18歲，死亡人數_女_18至未滿65歲，死亡人數_女_65歲以上，失蹤人數_男_0至未滿12歲，失蹤人數_男_12至未滿18歲，失蹤人數_男_18至未滿65歲，失蹤人數_男_65歲以上，失蹤人數_女_0至未滿12歲，失蹤人數_女_12至未滿18歲，失蹤人數_女_18至未滿65歲，失蹤人數_女_65歲以上，重傷人數_男_0至未滿12歲，重傷人數_男_12至未滿18歲，重傷人數_男_18至未滿65歲，重傷人數_男_65歲以上，重傷人數_女_0至未滿12歲，重傷人數_女_12至未滿18歲，重傷人數_女_18至未滿65歲，重傷人數_女_65歲以上，輕傷人數_男_0至未滿12歲，輕傷人數_男_12至未滿18歲，輕傷人數_男_18至未滿65歲，輕傷人數_男_65歲以上，輕傷人數_女_0至未滿12歲，輕傷人數_女_12至未滿18歲，輕傷人數_女_18至未滿65歲，輕傷人數_女_65歲以上，建物損失_建物全倒_棟，建物損失_建物全倒_戶，建物損失_建物半倒_棟，建物損失_建物半倒_戶，搶救災民人數，被毀損車輛數_總計，被毀損車輛數_大型車，被毀損車輛數_小型車，被毀損車輛數_特種車，被毀損車輛數_機車，被毀損車輛數_其他，財物損失估值總計_千元，財物損失估值_建物_千元，財物損失估值_車輛_千元，財物損失估值_其他_千元,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4e746a50-60f0-4b3b-8676-340533aca18f&rid=bf8fe45c-b4f6-40a8-96dd-d71786f0d2ea,CSV,UTF-8
+31485,桃園市政府消防局104年杜鵑颱風天然災害人員傷亡、建物損失、重大災害財物損失報表,桃園市政府消防局,data.gov.tw/node/31485,區域別，人員傷亡總計_人，死亡人數_男_0至未滿12歲，死亡人數_男_12至未滿18歲，死亡人數_男_18至未滿65歲，死亡人數_男_65歲以上，死亡人數_女_0至未滿12歲，死亡人數_女_12至未滿18歲，死亡人數_女_18至未滿65歲，死亡人數_女_65歲以上，失蹤人數_男_0至未滿12歲，失蹤人數_男_12至未滿18歲，失蹤人數_男_18至未滿65歲，失蹤人數_男_65歲以上，失蹤人數_女_0至未滿12歲，失蹤人數_女_12至未滿18歲，失蹤人數_女_18至未滿65歲，失蹤人數_女_65歲以上，重傷人數_男_0至未滿12歲，重傷人數_男_12至未滿18歲，重傷人數_男_18至未滿65歲，重傷人數_男_65歲以上，重傷人數_女_0至未滿12歲，重傷人數_女_12至未滿18歲，重傷人數_女_18至未滿65歲，重傷人數_女_65歲以上，輕傷人數_男_0至未滿12歲，輕傷人數_男_12至未滿18歲，輕傷人數_男_18至未滿65歲，輕傷人數_男_65歲以上，輕傷人數_女_0至未滿12歲，輕傷人數_女_12至未滿18歲，輕傷人數_女_18至未滿65歲，輕傷人數_女_65歲以上，建物損失_建物全倒_棟，建物損失_建物全倒_戶，建物損失_建物半倒_棟，建物損失_建物半倒_戶，搶救災民人數，被毀損車輛數_總計，被毀損車輛數_大型車，被毀損車輛數_小型車，被毀損車輛數_特種車，被毀損車輛數_機車，被毀損車輛數_其他，財物損失估值總計_千元，財物損失估值_建物_千元，財物損失估值_車輛_千元，財物損失估值_其他_千元,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=99966353-3920-4632-8dc2-1207af1bdb9e&rid=9cf4bd1c-5c49-47fb-b714-39ee548a5920,CSV,UTF-8
+31486,桃園市消防安全設備檢修申報,桃園市政府消防局,data.gov.tw/node/31486,甲類應申報家數，甲類本期申報家數，非甲應申報家數，非甲本期申報家數，本期複查家數，限改件次，處罰鍰件次，不實檢修舉發件次，罰鍰總金額，罰鍰收繳件次，罰鍰收繳金額。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6b8c34a5-bc3a-4a94-a990-5fc0e17d45d5&rid=dfcb7375-3580-4b68-8dec-18461bafcaaa,CSV,UTF-8
+31487,桃園市政府警察局102年桃園分局預算表,桃園市政府警察局,data.gov.tw/node/31487,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e17c4b37-3c25-492a-84da-e30c2420ec5f&rid=a96114ce-51bf-4278-ac62-9218f40ce439,CSV,UTF-8
+31488,桃園市消防安全檢查列管對象,桃園市政府消防局,data.gov.tw/node/31488,區域別、總計、各列管場所,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7b494b07-4d3a-4ee1-b75f-1542c51ca4a3&rid=0fde5e2e-8a03-4751-9cbf-b6c0fcf866ea,CSV,UTF-8
+31489,桃園市消防安全設備查察處理,桃園市政府消防局,data.gov.tw/node/31489,列管家數、檢查家數、合格家數、不合格家數、複查家數、限期改善家數、裁罰家數、應裁罰金額、已繳罰金金額、強制執行家數等,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2cd65a0a-0755-4f87-a61e-220a6a492fe2&rid=d82f6e25-ea42-45be-9315-fdffe8a2eb67,CSV,UTF-8
+31490,桃園市政府警察局104年中壢分局預算表,桃園市政府警察局,data.gov.tw/node/31490,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=50163a61-2989-4a73-a329-44d93e283c0e&rid=33a4abc8-695d-4745-881b-73c7debe4d73,CSV,UTF-8
+31491,桃園市政府警察局105年桃園分局預算表,桃園市政府警察局,data.gov.tw/node/31491,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=986bfff9-8342-493e-a237-345df266b002&rid=67f981df-dca1-4081-9d0c-5002f6fd3f0f,CSV,UTF-8
+31492,桃園市政府警察局105年中壢分局預算表,桃園市政府警察局,data.gov.tw/node/31492,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d30b5b43-a6c7-491f-8fdd-0c59ee87d237&rid=a5b6c7e7-7ad0-4d88-b6c0-dbadf2e381f9,CSV,UTF-8
+31493,桃園市政府警察局101年中壢分局預算表,桃園市政府警察局,data.gov.tw/node/31493,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=53bd1291-a310-4e9c-84fb-4c148c32fd1c&rid=acbc0167-0c15-4393-bd8f-97d7a216592a,CSV,UTF-8
+31494,桃園市設置防焰物品場所,桃園市政府消防局,data.gov.tw/node/31494,列管家數，檢查件次，合格件次，不合格件次，複查件次，限期改善件次，處罰鍰件次，罰鍰金額，罰鍰收繳件次，罰鍰收繳金額。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=873d4707-1995-4750-ae1a-8893396c6a2a&rid=0486dced-4bcd-47fa-8453-7c2bd50261e5,CSV,UTF-8
+31495,桃園市政府警察局102年中壢分局預算表,桃園市政府警察局,data.gov.tw/node/31495,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=576c4501-b770-413d-a242-a6dfb1fdc76e&rid=ccc13f76-2ef0-4d6a-b241-c9c2cd535a16,CSV,UTF-8
+31496,桃園市消防客語,桃園市政府消防局,data.gov.tw/node/31496,項目，念法,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=951d6591-1e8d-432a-87f7-a55b4f76ce66&rid=bb1c174b-ffd8-44df-a8db-18901ef751d2,CSV,UTF-8
+31497,桃園市政府警察局104年桃園分局預算表,桃園市政府警察局,data.gov.tw/node/31497,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f65d4501-b352-4d39-85b8-cb4d783d4ea7&rid=b1a60a71-31a8-4e54-baa0-6ec6b9b2d6ff,CSV,UTF-8
+31498,桃園市政府警察局103年桃園分局預算表,桃園市政府警察局,data.gov.tw/node/31498,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=38ec44ac-2c0c-4ad2-9f8f-6cdc1c3ec767&rid=4b4d025b-f7d5-400a-a222-0e63d39cd3f9,CSV,UTF-8
+31499,桃園市防火管理執行情形,桃園市政府消防局,data.gov.tw/node/31499,期底防火管理人執行情形(應遴用家數、已遴用家數、已遴用比例)、期底防護計畫製定情形(應製定家數、已製定家數、已製定比例)、期底共同消防防護計畫製定情形(應製定家數、已製定家數、以製定比例)、本期自最消防編組訓練情形(件數、人數)、本期違反防火管理案件(限期改善件次、處罰鍰件次、處罰鍰金額)、本期罰鍰收繳情形(件次、金額、收繳率)、本期強制執行件次。,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=aba456e8-faeb-4236-982c-7d23fb797181&rid=9e805774-59af-46a2-aac6-1555f85ea6eb,CSV,UTF-8
+31500,桃園市義勇消防人員數,桃園市政府消防局,data.gov.tw/node/31500,機關別、性別、職務、年齡,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d2916843-9802-4814-b246-8a93f35bfa49&rid=ad00125f-c3b3-44b3-a083-081f924f668c,CSV,UTF-8
+31501,桃園市政府警察局101年桃園分局預算表,桃園市政府警察局,data.gov.tw/node/31501,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e5fc5dce-9b36-47a8-b08a-9f905d8e285f&rid=dc8cf064-5f3b-40ec-8622-329bbb86676c,CSV,UTF-8
+31551,2016台灣燈會官網Google Analytics分析資料,桃園市政府研究發展考核委員會,data.gov.tw/node/31551,"時間索引,日期範圍,區隔(所有使用者、行動裝置流量、平板電腦和桌上型電腦流量),量化指標(新工作階段%、工作階段、平均工作階段時間長度、使用者、單次工作階段頁數、跳出率、瀏覽量)",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=033bb6d2-24f3-4efb-a860-a4953930f9e8&rid=4aeb1941-83ae-4d2e-abb1-7a721013ccd9,CSV,UTF-8
+31578,桃園市最新非法營業旅宿名單,桃園市政府觀光旅遊局,data.gov.tw/node/31578,業別(旅館或民宿)、名稱(非法營業旅宿名稱)、地址(非法營業旅宿地址),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=64a896aa-a6aa-4362-90fb-4270d90ff625&rid=825f8021-d5d4-4568-8495-2a627fb7e7b2,CSV,UTF-8
+31579,桃園市政府警察局101年局本部預算表,桃園市政府警察局,data.gov.tw/node/31579,"1.年度：預算所屬年度。
+2.預算別：分為歲入來源別及歲出機關別。
+3.機關：預算所屬機關。
+4.款、項、目、節：預算所屬之款、項、目、節。
+5.名稱：預算名稱。
+6.預算數：單位為新臺幣/元。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=372e2414-4367-40de-9bbc-43c6f4020b18&rid=d22d97a0-0049-4cd9-a61d-04c383ffcf48,CSV,Big5
+31580,2015桃園好棧得獎業者,桃園市政府觀光旅遊局,data.gov.tw/node/31580,報名組別(Hotel、Motel、B&B)、名稱(得獎業者名稱)、地址(得獎業者地址)、官網(得獎業者官網連結)、連絡電話(得獎業者連絡電話),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a375f331-af52-4c34-9154-e061b643f20a&rid=b09c8e2f-57b7-47cb-bfd2-39dc3524f367,CSV,UTF-8
+31581,桃園市政府觀光旅遊局對民間團體補(捐)助經費資料,桃園市政府觀光旅遊局,data.gov.tw/node/31581,"工作計畫科目名稱、補助事項或用途、補助對象、主辦機關、累計撥付金額、有無涉及財物或勞務採購、處理方式(如未涉及採購則毋須填列，如採公開招標，請填列得標廠商)、是否為除外規定之民間團體
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=56a82e54-7b48-4cca-9a34-de10153c7a8f&rid=d32d1b9b-24ff-458e-94b1-a88c3706cdc2,CSV,UTF-8
+31653,桃園市103年每月觀光遊憩區遊客人次資料,桃園市政府觀光旅遊局,data.gov.tw/node/31653,觀光遊憩區別(風景遊樂區名稱)門票收入(以新台幣為單位)遊客人次(當月遊客人次)上年同月份遊客人次(上年同月份遊客人次)增減數(與上年同月份相比)成長率(與上年同月份相比)備註(人次計算方式) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5b8fd3dd-f3e1-4949-a85e-207092539655&rid=717f7894-a813-4f7b-b96e-92344aaf49b9,CSV,UTF-8
+31654,桃園市領有溫泉標章之溫泉使用事業名單,桃園市政府觀光旅遊局,data.gov.tw/node/31654,標章號、業者名稱、位於核定溫泉區、行政區、地址、有效起始日、到期日、有效起始日(換發)、到期日(換發),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d47a5725-6708-43d8-86d3-1a04b647ec6f&rid=ab032917-c2e5-409b-abc8-13bdb34e813f,CSV,UTF-8
+31734,桃園市105年每月觀光遊憩區遊客人次資料,桃園市政府觀光旅遊局,data.gov.tw/node/31734,觀光遊憩區別(風景遊樂區名稱)門票收入(以新台幣為單位)遊客人次(當月遊客人次)上年同月份遊客人次(上年同月份遊客人次)增減數(與上年同月份相比)成長率(與上年同月份相比)備註(人次計算方式) ,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=74887214-eebb-422d-a648-40b7ee0c8df3&rid=5baf60f5-ad36-4897-a896-7893597312cc,CSV,UTF-8
+31735,桃園市政府消防局104年蘇迪勒颱風天然災害人員傷亡、建物損失、重大災害財物損失報表,桃園市政府消防局,data.gov.tw/node/31735,區域別，人員傷亡總計_人，死亡人數_男_0至未滿12歲，死亡人數_男_12至未滿18歲，死亡人數_男_18至未滿65歲，死亡人數_男_65歲以上，死亡人數_女_0至未滿12歲，死亡人數_女_12至未滿18歲，死亡人數_女_18至未滿65歲，死亡人數_女_65歲以上，失蹤人數_男_0至未滿12歲，失蹤人數_男_12至未滿18歲，失蹤人數_男_18至未滿65歲，失蹤人數_男_65歲以上，失蹤人數_女_0至未滿12歲，失蹤人數_女_12至未滿18歲，失蹤人數_女_18至未滿65歲，失蹤人數_女_65歲以上，重傷人數_男_0至未滿12歲，重傷人數_男_12至未滿18歲，重傷人數_男_18至未滿65歲，重傷人數_男_65歲以上，重傷人數_女_0至未滿12歲，重傷人數_女_12至未滿18歲，重傷人數_女_18至未滿65歲，重傷人數_女_65歲以上，輕傷人數_男_0至未滿12歲，輕傷人數_男_12至未滿18歲，輕傷人數_男_18至未滿65歲，輕傷人數_男_65歲以上，輕傷人數_女_0至未滿12歲，輕傷人數_女_12至未滿18歲，輕傷人數_女_18至未滿65歲，輕傷人數_女_65歲以上，建物損失_建物全倒_棟，建物損失_建物全倒_戶，建物損失_建物半倒_棟，建物損失_建物半倒_戶，搶救災民人數，被毀損車輛數_總計，被毀損車輛數_大型車，被毀損車輛數_小型車，被毀損車輛數_特種車，被毀損車輛數_機車，被毀損車輛數_其他，財物損失估值總計_千元，財物損失估值_建物_千元，財物損失估值_車輛_千元，財物損失估值_其他_千元,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6219016f-3fee-4401-a092-436094a8bc21&rid=06a52725-6224-4224-a04d-0970ad8a4b8b,CSV,UTF-8
+31736,桃園資料開放平台GOOGLE ANALYTICS分析資料,桃園市政府研究發展考核委員會,data.gov.tw/node/31736,"時間索引,日期範圍,區隔(所有使用者、行動裝置流量、平板電腦和桌上型電腦流量),量化指標(新工作階段%、工作階段、平均工作階段時間長度、使用者、單次工作階段頁數、跳出率、瀏覽量) ",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=fd49471c-79bf-4131-8ca5-39fe1869a4b1&rid=ff9a7785-57ce-4300-aae1-375b352377b2,CSV,UTF-8
+31805,104年度桃園市政府資訊中心預算資料,桃園市政府研究發展考核委員會,data.gov.tw/node/31805,"1.104年歲入來源別預算表：款、款編號、款名稱、項、項編號、項名稱、目、目編號、目名稱、節、節編號、節名稱、本年度預算數、上年度預算數、前年度決算數、本年度與上年度比較、說明及法令依據
+2.104年歲出機關別預算表：款、款編號、款名稱、項、項編號、項名稱、目、目編號、目名稱、節、節編號、節名稱、本年度預算數、上年度預算數、前年度決算數、本年度與上年度比較、說明",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3b6ec2ac-bb7d-4236-92ff-397440d98b2b&rid=38ef862e-3686-4173-9c07-13944fac317d,XLS,UTF-8
+31806,104年度桃園市政府資訊中心決算資料,桃園市政府研究發展考核委員會,data.gov.tw/node/31806,"1.歲入來源別決算表：款、款編號、款名稱、項、項編號、項名稱、目、目編號、目名稱、節、節編號、節名稱、本年度預算數、預算增減數、實現數、已預收之數、尚未收入數、保留數、比較增減數、說明
+2.歲出機關別決算表：款、款編號、款名稱、項、項編號、項名稱、目、目編號、目名稱、節、節編號、節名稱、本年度預算數、預算增減數、實現數、已預收之數、尚未收入數、保留數、比較增減數、剔除經費繳庫數、說明
+3.以前年度歲出轉入數決算表：款、款編號、款名稱、項、項編號、項名稱、目、目編號、目名稱、節、節編號、節名稱、以前年度轉入數應付數、以前年度轉入數保留數、本年度減免(註銷)數應付數、本年度減免(註銷)數保留數、本年度實現數應付數、本年度實現數保留數、本年度調整數應付數、本年度調整數保留數、本年度未結清數應付數、本年度未結清數保留數、說明
+4.歲入類平衡表：資產科目名稱、資產科目編號、資產金額、負債科目名稱、負債科目編號、負債金額
+5.經費類平衡表：資產科目名稱、資產科目編號、資產金額、負債科目名稱、負債科目編號、負債金額",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c3a4856e-c882-4d63-8e31-4daa93cde924&rid=bf8e0cc6-04d2-4bca-961b-c6dc4a9ff3fc,XLS,UTF-8
+31807,105年度桃園市政府資訊中心預算資料,桃園市政府研究發展考核委員會,data.gov.tw/node/31807,"1.105年歲入來源別預算表：款、款編號、款名稱、項、項編號、項名稱、目、目編號、目名稱、節、節編號、節名稱、本年度預算數、上年度預算數、前年度決算數、本年度與上年度比較、說明及法令依據
+2.105年歲出機關別預算表：款、款編號、款名稱、項、項編號、項名稱、目、目編號、目名稱、節、節編號、節名稱、本年度預算數、上年度預算數、前年度決算數、本年度與上年度比較、說明",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e9e86baf-49df-4281-b2d6-d9522433164a&rid=98e7169c-bd67-4d36-82b0-57d1932b0b09,XLS,UTF-8
+31872,航空城都市計畫-附近地區第一期發展區區段徵收面積表,桃園市政府都市發展局,data.gov.tw/node/31872,"項目	第二種住宅區	第三種住宅區	第四種住宅區	第五種住宅區	第五種住宅區_合宜住宅使用	第一種商業區	第二種商業區	第三種商業區	第四種商業區	第三種產業專用區	第四種產業專用區 	車站專用區	宗教專用區	電信專用區	加油站專用區	灌溉設施專用區	農業專用區	河川區	公園用地	綠地用地	廣場用地	停車場用地	文中小用地	文高用地	機關用地	污水處理廠用地	變電所用地	電路鐵塔用地	捷運系統用地	高速公路用地	道路用地
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4255031c-d51f-45f2-b420-71754fb20057&rid=89355f7b-0b2a-4923-9fac-93db0d777999,CSV,UTF-8
+31873,航空城都市計畫-附近地區第二期發展區區段徵收面積表,桃園市政府都市發展局,data.gov.tw/node/31873,"項目	第二種住宅區	第三種住宅區	第四種住宅區	第五種住宅區	第五種住宅區_供合宜住宅使用	第一種商業區	第二種商業區	第三種商業區	乙種工業區	第三種產業專用區	車站專用區	電信專用區	瓦斯事業專用區	灌溉設施專用區	河川區	公園用地	綠地用地	停車場用地	文中小用地	機關用地	電路鐵塔用地	高速公路用地	道路用地
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1731014f-f29b-4dd2-93a4-9c3fb47ea44f&rid=ab268e6c-3bf8-403f-9587-634038603970,CSV,UTF-8
+31874,桃園市都市更新地區(97~105年),桃園市政府都市發展局,data.gov.tw/node/31874,"編號	行政區,更新地區,公告日期,位置,面積_公頃
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=bb3c7420-d2a6-45ec-a288-a732241d7819&rid=1cb3fda2-f78b-489a-82c9-b7628621fef1,CSV,UTF-8
+31875,航空城都市計畫土地使用計畫面積表,桃園市政府都市發展局,data.gov.tw/node/31875,"項目	第一種住宅區	第一之一種住宅區	第二種住宅區	第三種住宅區	第四種住宅區	第五種住宅區	第五種住宅區 _供安置住宅使用	第五種住宅區_合宜住宅使用	第一種商業區	第二種商業區	第三種商業區	第四種商業區	乙種工業區	零星工業區	機場專用區	機場專用區_兼供道路使用	機場專用區_兼供廣場使用	第一種自由貿易港專用區	第二種自由貿易港專用區	第一種產業專用區	第二種產業專用區	第二之一種產業專用區	第三種產業專用區	第四種產業專用區	車站專用區	宗教專用區	電信專用區	瓦斯事業專用區	加油站專用區	埤塘專用區	灌溉設施專用區	農業專用區	河川區	河川區_兼供機場專用區使用	河川區_兼供捷運系統使用	河川區_兼供高速公路使用	河川區_兼供園林道路使用	河川區_兼供道路使用	公園用地	綠地用地	廣場用地	停車場用地	文小用地 	文中小用地	文高用地	機關用地	污水處理廠用地	變電所用地	電路鐵塔用地	捷運系統用地	捷運系統用地_兼供園林道路使用	捷運系統用地_兼供道路使用	高速公路用地	高速公路用地_兼供捷運系統使用	高速公路用地_兼供園林道路使用	高速公路用地_兼供道路使用	園林道路用地 	道路用地
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=075b9611-28d9-4931-a2ad-8f6f04bde47a&rid=cbea96a5-13eb-4032-af63-444378c83cf2,CSV,UTF-8
+31876,桃園市公營住宅基地地號及面積表,桃園市政府都市發展局,data.gov.tw/node/31876,"社會住宅,行政區,基地地號,基地面積_m2
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=42aac44d-386d-4519-a5ab-562a621e1654&rid=a25c21f7-45c1-4d3c-aaa6-606045bf0dfb,CSV,UTF-8
+31877,航空城都市計畫-機場園區建設計畫區段徵收面積表,桃園市政府都市發展局,data.gov.tw/node/31877,"項目	第二種住宅區 	第三種住宅區 	第四種住宅區 	第五種住宅區 	第五種住宅區_供合宜住宅使用  	?第一種商業區 	第二種商業區 	第三種商業區 	第四種商業區	乙種工業區	機場專用區	第二種自由貿易港專用區	第二種產業專用區	第二之一種產業專用區	車站專用區	宗教專用區	加油站專用區	灌溉設施專用區	河川區	公園用地	綠地用地	停車場用地	文中小用地	文高用地	機關用地	變電所用地	電路鐵塔用地	高速公路用地	道路用地
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=bc0bd67f-e797-4b7b-bad6-c50ec69edd02&rid=91f54634-4e1d-4ef7-9f24-8efcd04b6ae2,CSV,UTF-8
+31878,桃園市政府觀光旅遊局100-104年度國家賠償新收請求案件數量統計年報表,桃園市政府觀光旅遊局,data.gov.tw/node/31878,年度(資料年度)月份(資料月份)新收請求案件(當月份新收請求案件數),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=72910366-4e3f-4874-91d0-ba825450fe18&rid=1456ebde-9934-4986-abdf-d09ccf128d00,CSV,UTF-8
+31949,桃園市公布違反性別工作平等法事業單位,桃園市政府勞動局,data.gov.tw/node/31949,事業單位名稱、負責人(代表人)、違反法令條款、違反法規內容、處分書文號、處分日期、公布時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=01b6a6d4-0fde-4c49-a158-e24c75327e25&rid=9f568bc4-e84d-41c1-a938-1a2671e2f16e,PDF,UTF-8
+31950,桃園市公布違反勞動基準法事業單位名單,桃園市政府勞動局,data.gov.tw/node/31950,事業單位名稱、負責人(代表人)、違反法令條款、違反法規內容、處分書文號、處分日期,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=79eb907b-4705-4052-804e-9739067f3fe8&rid=83d3639e-aaef-47dc-b1b8-5fc90ce37f93,PDF,UTF-8
+31951,風景區管理處-轄管場地租借申請一覽表,桃園市政府觀光旅遊局,data.gov.tw/node/31951,"園區(園區),使用日期(日期),場地(場地),申請單位(申請單位)
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a5bc342c-7e7b-4834-8461-796a16ded76e&rid=02fed303-7330-4eb6-abf8-27e7e2e171ab,CSV,UTF-8
+31952,桃園市自行車竊盜點位,桃園市政府警察局,data.gov.tw/node/31952,"1.type：犯罪發生的種類。
+2.time：犯罪發生的年、月、日
+3.year：犯罪發生的年度。
+4.month：犯罪發生的月份。
+5.date：犯罪發生日期。
+6.breau：該案管轄的分局。
+7.station：該案管轄的派出所。
+8.Latitude：犯罪發生的緯度。
+9.Longitude：犯罪發生的經度。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f30c8b84-c3af-433c-944c-cd09c09f3d80&rid=8549a09a-169e-48d4-a47c-a64ec3e8e407,CSV,UTF-8
+32246,風景區管理處-後慈湖、小烏來婚紗攝影申請一覽表,桃園市政府觀光旅遊局,data.gov.tw/node/32246,"園區(園區),日期(日期),申請人(申請人姓名),申請時段(申請時段)
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=814f90da-b19a-48f3-80ba-a04628bcce92&rid=c2734aec-b113-4bbe-bcf9-76388276eadc,CSV,UTF-8
+32247,桃園市儲蓄互助社名冊,桃園市政府社會局,data.gov.tw/node/32247,"儲蓄互助社名、理事主席、聯絡地址
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ebc8842d-64c5-446f-8510-8ca564659c39&rid=d38e78e0-4930-4b51-bb1f-89d92f6932fb,CSV,UTF-8
+32248,社福統計數據_桃園市托嬰中心半年服務概況資料(104年下半年),桃園市政府社會局,data.gov.tw/node/32248,中心屬性、設立家數、收托身分別、收托總人數、收托性別、收托年齡層及人數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=60494598-0256-4f9e-a7bd-88b46d90a7ea&rid=aafbd16f-b673-4f7e-8124-2484a0644077,CSV,UTF-8
+32249,桃園市居家托育服務中心,桃園市政府社會局,data.gov.tw/node/32249,"中心名稱、委辦單位、服務區、電話、服務內容、地址
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b5d4de81-ff97-4f90-a9f5-5f907628c22f&rid=8c031ac0-1293-45fa-88c2-8bb7c5f4f66e,CSV,UTF-8
+32250,桃園市婦女館,桃園市政府社會局,data.gov.tw/node/32250,中心名稱、服務區域、電話、地址、服務內容、服務對象,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e085d0f9-6ce9-4b9a-838f-ea541d414209&rid=73426627-5f45-4040-9768-26adfd5cb589,CSV,UTF-8
+32251,桃園市合作社名冊,桃園市政府社會局,data.gov.tw/node/32251,"合作社名、聯絡地址、理事主席
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e8d2ba37-9fe6-44a4-b69d-a482530f20c5&rid=31abd141-21f3-432c-94b6-f75aa968d7fb,CSV,UTF-8
+32252,桃園市老人文康中心,桃園市政府社會局,data.gov.tw/node/32252,"服務區域、中心名稱、地址、電話
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=4f048cb4-7db0-4eff-aab5-e91de8733a09&rid=e2f6cdfd-2485-452d-bdb1-658b65359820,CSV,UTF-8
+32253,桃園市居家服務提供單位名冊,桃園市政府社會局,data.gov.tw/node/32253,"居家服務單位名稱、服務區域、電話、地址
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=45bec684-e130-4478-af30-363fe9c21b7d&rid=215ae973-5b1a-4474-b6ed-0e5be41aecaf,CSV,UTF-8
+32254,桃園市南區青少年活動中心,桃園市政府社會局,data.gov.tw/node/32254,中心名稱、地址、電話、網址、主要服務事項,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8a7706d7-687e-489b-9f0b-2650ea13fb6f&rid=602ccbac-d746-40f5-a0f2-bdc603e1a734,CSV,UTF-8
+32255,桃園市105年度青年國際志工服務計畫,桃園市政府青年事務局,data.gov.tw/node/32255,"一、本計畫所稱之青年，係指十八歲以上、三十五歲以下且設籍本市或於本市就學、就業之青年。
+二、依法立案之本市各級人民團體、財團法人或學校，組成六人以上青年志工團隊，團隊成員三分之一以上領有志願服務記錄冊之行動團隊。",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a4163586-155a-46ef-9712-8c75f8d9c8d0&rid=fafc5680-fb37-4cbd-8f95-7b11014153b5,CSV,UTF-8
+32256,桃園市轄區內醫療院所診療科別,桃園市政府衛生局,data.gov.tw/node/32256,桃園市各醫院的診療科別資訊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=775ba9cc-c711-4a3d-badf-a23aafe7c49f&rid=283a5dfa-44e9-4300-8a7f-22e58ecdf7b1,CSV,UTF-8
+32257,桃園市婦女發展中心,桃園市政府社會局,data.gov.tw/node/32257,中心名稱、服務區域、電話、地址、服務內容、服務對象,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=8fa56efe-dcb9-484c-bf07-3e3789a491ea&rid=7d9cbb96-4a27-41e8-8a80-9f50539722d5,CSV,UTF-8
+32258,社福統計數據_桃園市特殊境遇家庭符合款項(105年第1季),桃園市政府社會局,data.gov.tw/node/32258,"性別/設籍別、符合特殊境遇家庭扶助條例第4條第1項各款之人數(第1款、第2款、第3款、第4款、第5款、第6款、第7款)
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=68198f97-3f1f-49d8-a42a-d958c6f8a715&rid=ac72c53f-936d-496f-b21b-548ad19e58c3,CSV,UTF-8
+32259,桃園市避難收容所,桃園市政府社會局,data.gov.tw/node/32259,"單位名稱、地址、管理人電話
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=247820e9-0bb6-4ff9-a34e-f1df72d8b296&rid=ab2780bd-5316-495d-97bf-3c644b6a1afa,CSV,UTF-8
+32260,社福統計數據_桃園市特殊境遇家庭概況(105年第1季),桃園市政府社會局,data.gov.tw/node/32260,"申請人概況分類（性別、年齡、婚姻狀況、設籍狀況、工作狀況）、特殊境遇家庭戶數、扶養（孫）子女人數
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=576ee1a7-d450-44f9-afea-96af09b99fed&rid=6dbdb1d7-1f52-45d6-98ea-bb44e88d706d,CSV,UTF-8
+32261,桃園市日間照顧服務提供單位名冊,桃園市政府社會局,data.gov.tw/node/32261,"日間照顧中心名稱、受託單位、地址、電話
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=311d8bc5-3204-40db-99c8-260ddf0b0128&rid=3c57b826-eb31-4278-91da-0a8ef8e17522,CSV,UTF-8
+32262,社福統計數據_桃園市105年度老人健保每月補助人次與金額,桃園市政府社會局,data.gov.tw/node/32262,"月份、補助人次、金額
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b0e4ee30-f866-4cea-b59b-99fbd416efa0&rid=93833906-992c-46c0-93e5-eacfeec2ecaa,CSV,UTF-8
+32263,104年度職涯發展與創新創業活動一覽表,桃園市政府青年事務局,data.gov.tw/node/32263,提供104年舉辦創業活動地區、地點及演講者資訊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=bc32d451-5b9f-4d0f-9690-ead4a0a45a75&rid=38d147b9-9fdc-4f9a-a50e-cd8203ce4ba7,CSV,UTF-8
+32264,社福統計數據_桃園市特殊境遇家庭扶助服務(105年第1季),桃園市政府社會局,data.gov.tw/node/32264,"設籍別、服務項目合計、緊急生活扶助、傷病醫療補助、法律訴訟補助、子女生活津貼、兒童托育津貼（前述服務均內含人數、每月人次、金額欄位）
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a261d604-5233-4a18-9f73-f853d19a5ecc&rid=6b352363-667a-42e5-95d1-6d04b6e3409e,CSV,UTF-8
+32265,桃園市社區發展協會名冊,桃園市政府社會局,data.gov.tw/node/32265,鄉鎮市、協會名稱、理事長姓名、會址、電話、傳真、成立日期、附設單位(社區活動中心、社區發展協會附設長壽俱樂部數、社區發展協會附設成長教室數、社區發展協會附設守望相助隊數、社區發展協會附設民俗技藝團隊數、社區照顧關懷據點數、社區圖書室數)數量,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ec66fc76-828a-4243-8f69-d82943e1754d&rid=ea81c406-87a5-4b62-8587-b5231bb2dec2,CSV,UTF-8
+32266,桃園市基金會名冊,桃園市政府社會局,data.gov.tw/node/32266,基金會名稱、董事長姓名、聯絡人、會址、聯絡電話、傳真、EMAIL,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c092cbb2-3394-4898-b4db-cf50f37820ae&rid=bfe467df-a43d-499b-bd27-65f905ec85e1,CSV,UTF-8
+32412,103年度桃園市各行政區土地買賣移轉筆數統計,桃園市政府地政局,data.gov.tw/node/32412,"年度,月份,行政區代碼,地段代碼,筆數 ",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ef26c7e7-bb2f-4796-a421-287dd179e8f7&rid=9eb6f7fa-3b3e-4751-b587-5ec49c3c8f8f,CSV,Big5
+32413,105年度桃園市各行政區土地買賣移轉筆數統計,桃園市政府地政局,data.gov.tw/node/32413,"年度,月份,行政區代碼,地段代碼,筆數",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3dd9c95c-de7d-4f60-a5ef-106ead1b38d3&rid=9656a9f1-a121-4109-8afd-81b3ceff79f3,CSV,Big5
+32414,105年度桃園市各行政區建物買賣移轉棟數統計,桃園市政府地政局,data.gov.tw/node/32414,"年度,月份,行政區代碼,地段代碼,棟數",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=9ee80895-74f2-43af-b119-4c897c31dec2&rid=550198a7-aae4-4123-8e52-ecac3e6a32cd,CSV,Big5
+32415,103年度桃園市各行政區建物買賣移轉棟數統計,桃園市政府地政局,data.gov.tw/node/32415,"年度,月份,行政區代碼,地段代碼,棟數",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e0c984b7-c081-4371-8a9d-9a30003258ef&rid=92ce82e1-3579-4c8f-8cde-a2aaa7042adf,CSV,UTF-8
+32416,104年度桃園市各行政區建物買賣移轉棟數統計,桃園市政府地政局,data.gov.tw/node/32416,"年度,月份,行政區代碼,地段代碼,棟數",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=20fa401f-7277-424b-a716-b5319b4dbbc6&rid=fc549c8d-6707-41ea-9098-446d4d1c0d4e,CSV,Big5
+32417,102年度桃園市各行政區土地買賣移轉筆數統計,桃園市政府地政局,data.gov.tw/node/32417,"年度,月份,行政區代碼,地段代碼,筆數",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=6d7f1447-1ac8-4ad6-9f1c-e51c2251655d&rid=492144ac-61bf-4845-90b3-e5f40b4a4275,CSV,Big5
+32418,104年度桃園市各行政區土地買賣移轉筆數統計,桃園市政府地政局,data.gov.tw/node/32418,"年度,月份,行政區代碼,地段代碼,筆數 ",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a29657cf-6303-41bb-a89d-f6c05aef206f&rid=392fee52-2e3a-427b-a0bd-a900655afb65,CSV,Big5
+32534,100年度桃園市各行政區建物買賣移轉棟數統計,桃園市政府地政局,data.gov.tw/node/32534,"年度,月份,行政區代碼,地段代碼,棟數",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=228891b4-043a-474f-8d15-eef2b9bbbf63&rid=d33ddc49-dac3-4d97-a5c9-de091b467099,CSV,Big5
+32535,101年度桃園市各行政區土地買賣移轉筆數統計,桃園市政府地政局,data.gov.tw/node/32535," 年度,月份,行政區代碼,地段代碼,筆數 ",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=21a65ad5-44e5-4b47-8b20-9fc87ed809d5&rid=bff82e51-df10-4896-8f84-6b7c5d6145eb,CSV,Big5
+32536,100年度桃園市各行政區土地買賣移轉筆數統計,桃園市政府地政局,data.gov.tw/node/32536,"年度,月份,行政區代碼,地段代碼,筆數 ",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=e18f5cc5-0865-4870-8625-c404939327bd&rid=e90be0c1-5750-429c-9330-e866c3a47644,CSV,Big5
+32537,101年度桃園市各行政區建物買賣移轉棟數統計,桃園市政府地政局,data.gov.tw/node/32537,"年度,月份,行政區代碼,地段代碼,棟數",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=3d296694-9d74-46a4-b963-5acd2b4da370&rid=92d560cc-644e-490b-9b2f-9af42f2b1f45,CSV,Big5
+32538,102年度桃園市各行政區建物買賣移轉棟數統計,桃園市政府地政局,data.gov.tw/node/32538,"年度,月份,行政區代碼,地段代碼,棟數",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=258dae46-fe03-43c3-8e9c-4a60e6a1c021&rid=282029d8-6e73-47ca-ab85-f6e929b7d546,CSV,Big5
+32736,桃園市101年每月觀光遊憩區遊客人次資料,桃園市政府觀光旅遊局,data.gov.tw/node/32736,"觀光遊憩區別(風景遊樂區名稱)遊客人次(當月遊客人次)上年同月份遊客人次(上年同月份遊客人次)增減數(與上年同月份相比)成長率(﹪)
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7e2eb761-f675-40bb-9033-15f2ad5e3f5e&rid=a1c195d0-708e-40f6-9921-001b9128cc62,CSV,UTF-8
+32737,桃園市100年每月觀光遊憩區遊客人次資料,桃園市政府觀光旅遊局,data.gov.tw/node/32737,觀光遊憩區別(風景遊樂區名稱)遊客人次(當月遊客人次)上年同月份遊客人次(上年同月份遊客人次)增減數(與上年同月份相比)成長率(與上年同月份相比),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1e03303e-5cb1-471b-ad2c-8bfa502261af&rid=4ecdf97b-b878-48bb-9d16-c9d8c873bc91,CSV,UTF-8
+32738,桃園市102年每月觀光遊憩區遊客人次資料,桃園市政府觀光旅遊局,data.gov.tw/node/32738,觀光遊憩區別(風景遊樂區名稱)遊客人次(當月遊客人次)上年同月份遊客人次(上年同月份遊客人次)增減數(與上年同月份相比)成長率(與上年同月份相比),http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b604ccde-b588-4e92-8b67-b01a27484445&rid=5dc9d3a1-eae0-4367-b448-143a6eb90140,CSV,UTF-8
+32896,桃園市消防水源統計,桃園市政府消防局,data.gov.tw/node/32896,區域別、消防栓數,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=404e4d4d-86ec-4352-a336-821a7e1884c5&rid=0492c8b6-0fc5-48ce-9d83-83ff5996adbc,CSV,UTF-8
+32897,桃園市步道調查資料(含KML軌跡檔),桃園市政府觀光旅遊局,data.gov.tw/node/32897,行政區域、步道系統、步道名稱、長度(KM)、步道分類(濱海、湖濱、溪流、水圳、森林、生態、公園、歷史、田野步道)、步道分級(親子級、勇腳級、山友級)、起訖點(經緯度)、土地權屬(公有、私有、公有/私有)、步道簡介與軌跡檔,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=11a30af3-c424-472e-a1b3-0e81aaabef46&rid=704b4963-d1eb-4b2b-84d0-7683f9ddab9b,KML,UTF-8
+33158,105年桃園市四癌篩檢與確診追蹤醫療院所名單,桃園市政府衛生局,data.gov.tw/node/33158,轄區名稱、機構名稱、地址、電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ed37a2d7-7e82-4f41-9ff7-d01c8a40dcb0&rid=13f222a6-b3fa-44c1-817a-b6cd2b6dabed,XLSX,UTF-8
+33184,105年桃園市加水站業者名冊,桃園市政府衛生局,data.gov.tw/node/33184,"編號,公司名稱,架設地址
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5958bf8b-1b80-4520-9cbf-77224939b773&rid=a591a684-94cb-4f83-b573-22a32d5b36c3,CSV,UTF-8
+33185,105年度桃園市健康幸福家庭計畫醫療院所名單,桃園市政府衛生局,data.gov.tw/node/33185,機構名稱、地址、電話、服務項目,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=753ed9cb-effb-4397-bfa6-263b19f0cd07&rid=74aad907-7737-4b1c-8c54-64d595e2ae20,CSV,UTF-8
+33343,105年度桃園市無痛大腸鏡計畫醫療院所名單,桃園市政府衛生局,data.gov.tw/node/33343,轄區名稱、機構名稱、地址、電話,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=f715f3aa-56ab-45a7-8668-82f06e5ed412&rid=dd9e0af8-38d6-41cd-b6c8-e5a0c37498dd,CSV,UTF-8
+33344,105年度桃園市糖尿病共同照護網醫療院所(藥局)名單,桃園市政府衛生局,data.gov.tw/node/33344,"醫療院所名稱 住址 電話
+
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=cdc8ad4f-fd4d-43bc-a8b0-24d166cf87a8&rid=971362b1-387e-4e09-a4ef-609a7422b263,CSV,UTF-8
+33345,桃園市依法設置哺集乳室名單,桃園市政府衛生局,data.gov.tw/node/33345,場所名稱、地址、電話、開放時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b58ff9ba-fa5a-4205-a56c-3ad06789e180&rid=4097efc6-ee03-4686-99bb-9937530b989c,CSV,UTF-8
+33592,桃園市信用合作社分布,桃園市政府財政局,data.gov.tw/node/33592,年度、行政區別、總社、分社,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=fbedbb09-b62d-4182-b25a-4f639d7cf8ae&rid=677976d2-52d6-4899-b815-e793afedd55e,CSV,Big5
+33611,105年桃園市衛政三項長照服務(居家護理、居家復健及喘息服務)合約單位清單,桃園市政府衛生局,data.gov.tw/node/33611,"服務項目機構名稱類型負責人聯絡人電話分機手機傳真電子郵件郵遞區號聯絡地址護理師護士醫師物師或物生職師或職生社工照服員外籍
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7e5b90d4-e155-4ef5-babd-535ad259f866&rid=be6586c4-7573-48fb-b660-398aaba96509,CSV,UTF-8
+33612,桃園市社區巡迴復健場次時間及地點,桃園市政府衛生局,data.gov.tw/node/33612,"服務據點地址服務時間備註一備註二
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=d8be9cc8-da76-4ad1-b8fb-8dde27363ef8&rid=3108df58-fb39-4c74-ab34-4686242588c9,CSV,UTF-8
+33751,桃園市登革熱確診個案分布,桃園市政府衛生局,data.gov.tw/node/33751,"分類
+編號
+通報日期
+發病日期
+確診日期
+感染地
+年齡
+性別
+國籍
+居住縣市
+居住區
+居住里",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=00405ad6-f02a-4bf5-85ac-dca2fdac822e&rid=a3391b30-99ac-4054-be88-1de5049026bb,CSV,Big5
+33752,桃園市精神照護機構一覽表,桃園市政府衛生局,data.gov.tw/node/33752,提供本市26家精神護理之家、精神康復之家等相關資訊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=68f25fa3-ffbb-4f63-b630-3bd95267f77b&rid=7f5f9a9b-e5ab-4c00-af2f-5b3ed262f932,CSV,UTF-8
+33753,桃園市13區衛生所精神照護聯絡窗口,桃園市政府衛生局,data.gov.tw/node/33753,桃園市13區衛生所精神照護聯絡窗口,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=86e31be1-df9e-4c5b-a764-6173003a7be9&rid=5701c343-a792-4f8d-a481-9f9df9b789cb,CSV,UTF-8
+33754,桃園市免費尿篩試劑領取場所,桃園市政府衛生局,data.gov.tw/node/33754,桃園市免費尿篩試劑領取場所,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=db90ca48-e763-43b6-94c6-7f23597177f4&rid=71bbf902-2d5e-4a62-b8b7-97f0a3763476,CSV,UTF-8
+33755,桃園市藥癮戒治及替代治療執行機構名單,桃園市政府衛生局,data.gov.tw/node/33755,桃園市藥癮戒治及替代治療執行機構名單,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=76d77e3c-fa25-4fcb-9f67-5fe99903b5af&rid=9772c23e-0c49-4219-825f-33c862885d7b,CSV,UTF-8
+33756,105年桃園市營業衛生水質檢驗報告(游泳池、三溫暖、溫泉),桃園市政府衛生局,data.gov.tw/node/33756,"1、	編號：檢體編號
+2、	區：行政區
+3、	市招：招牌名稱
+4、	場所：營業設施之類型，例如游泳池、三溫暖池、水療池、兒童池
+5、	pH值合格：酸鹼值落於6.5至8.0之間
+6、	pH值不合格：酸鹼值小於6.5或是大於8.0
+7、	自由有效餘氯合格：水中自由有效餘氯量落於1.0至3.0ppm之間
+8、	自由有效餘氯不合格：水中自由有效餘氯量小於1.0或大於3.0ppm
+9、	生菌數合格：每毫升低於500CFU
+10、	生菌數不合格：每毫升高於500CFU
+11、	大腸桿菌合格：每100毫升未檢出大腸桿菌，呈陰性
+12、	大腸桿菌不合格：每100毫升檢出大腸桿菌，呈陽性
+13、	抽驗日期：實際抽驗日",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=99ef28c2-9899-455b-a4db-6aa439214ce0&rid=71a23586-e1cd-47e4-8252-c9dfecedb48d,CSV,UTF-8
+33757,桃園市復興區巡迴醫療日程表,桃園市政府衛生局,data.gov.tw/node/33757,巡迴醫療定點及預估停留時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a2fd2e94-22a1-48bf-b2fe-e6633bdd037d&rid=47c78840-c12c-49bc-b70e-a28b7749c8db,CSV,UTF-8
+33758,桃園市民醫療小管家計畫合約醫療院所名冊,桃園市政府衛生局,data.gov.tw/node/33758,桃園市民醫療小管家計畫合約醫療院所名冊,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=1e66e0b2-7c76-482c-b8c6-eb00239540f5&rid=35c5f376-17d2-4fe3-868a-dc8e01b0dedc,CSV,Big5
+33870,桃園市高齡友善藥局,桃園市政府衛生局,data.gov.tw/node/33870,高齡友善藥局名稱及地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=7c80a48f-a3eb-446f-8d20-50d5b7a1e0da&rid=2cb206f2-3fb2-42d9-9820-f3291f6bc35c,ODS,UTF-8
+33871,桃園市藥物濫用自費檢驗機構,桃園市政府衛生局,data.gov.tw/node/33871,衛生福利部認可之濫用藥物尿液檢驗機構名單,http://www.nodrugs.tychb.gov.tw/04_sos/sos_01_list.asp?cate_id=59&cate=%BD%C3%A5%CD%BA%D6%A7Q%B3%A1%BB%7B%A5i%A4%A7%C0%DD%A5%CE%C3%C4%AA%AB%A7%BF%B2G%C0%CB%C5%E7%BE%F7%BAc%A6W%B3%E6&offset=5,其他,UTF-8
+33872,桃園市二代戒菸合約醫療院所(藥局)名單,桃園市政府衛生局,data.gov.tw/node/33872,"編號
+醫事機構名稱
+電話
+地址
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ff49141d-7479-4763-8572-4fcee238cf18&rid=50a70189-a2c1-4ead-909c-3c4d275de749,XLS,UTF-8
+33873,桃園市HPV合約醫療院所名單,桃園市政府衛生局,data.gov.tw/node/33873,"鄉鎮市區
+機構類別
+合約醫療院所名稱
+十碼代碼
+公費疫苗
+自費疫苗
+接種時間
+負責人
+洽詢電話
+地址",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=34cc30ed-d240-46de-9f2d-bf334ee27f0b&rid=ae2f1b71-bd58-456b-b1b9-8e75c8b20525,CSV,Big5
+33874,桃園市中藥抽查合格結果,桃園市政府衛生局,data.gov.tw/node/33874,"抽驗日期	產品名稱	稽查(檢驗)項目	廠商名稱	檢驗結果
+",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=a6191652-510f-43ea-8821-a3d71749b565&rid=8c078f9e-cae0-44b6-b14d-6c9d1019288b,ODS,UTF-8
+33875,桃園市兒童常規疫苗合約醫療院所名單,桃園市政府衛生局,data.gov.tw/node/33875,"鄉鎮市區
+機構類別
+合約醫療院所名稱
+十碼代碼
+公費疫苗
+自費疫苗
+接種時間
+負責人
+洽詢電話
+地址",http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=b6c36fbc-0a2c-4469-b2e9-0301c4e71575&rid=1518ee9f-c5bd-429b-b615-030f08fc9449,CSV,Big5
+33876,桃園市社區藥局,桃園市政府衛生局,data.gov.tw/node/33876,藥局名稱及地址,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=450769ff-1479-4de2-9c8e-3ad9a6b9ae8a&rid=355f9a9e-3619-4234-966b-d9aa83d96f09,ODS,UTF-8
+34162,桃園市替代治療執行機構門診時間,桃園市政府衛生局,data.gov.tw/node/34162,桃園市替代治療執行機構門診時間,http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=57007749-9913-4ea6-90cc-6062548a322b&rid=8bcdeca7-6196-41d5-a521-fa74449e1a2f,CSV,UTF-8
